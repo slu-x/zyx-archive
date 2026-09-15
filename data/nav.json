@@ -257,6 +257,32 @@
                 {
                   "type": "event",
                   "eventId": "other-stage-2019"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待张艺兴在2019TMEA腾讯音乐娱乐盛典中的表现?",
+                  "url": "https://www.zhihu.com/question/359998346"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴在《2020 天猫双 11 狂欢夜》中表演的《炎黄子孙》？",
+                  "url": "https://www.zhihu.com/question/429686448"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价微博之夜张艺兴的唱跳舞台《Joker》？",
+                  "url": "https://www.zhihu.com/question/446808495"
                 }
               ]
             }
@@ -287,27 +313,92 @@
             {
               "id": "first-child",
               "title": "一胎《Lose Control》",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴solo先行曲《what U need》？",
+                  "url": "https://www.zhihu.com/question/51117451"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "评价下张艺兴作品《LOSE CONTROL》？",
+                  "url": "https://www.zhihu.com/question/51338689"
+                }
+              ]
             },
             {
               "id": "second-child",
               "title": "二胎",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴第二张个人专辑《SHEEP》及其MV？",
+                  "url": "https://www.zhihu.com/question/66297835"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "评价 张艺兴第二张个人唱片先行曲《I NEED U》及其MV?",
+                  "url": "https://www.zhihu.com/question/65820528"
+                }
+              ]
             },
             {
               "id": "third-child",
               "title": "三胎",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴《梦不落雨林NAMANANA》进入Billboard200榜单？",
+                  "url": "https://www.zhihu.com/question/300565856/answer/527572124"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴第三张个人专辑《梦不落雨林/NAMANANA》？",
+                  "url": "https://www.zhihu.com/question/265910452"
+                }
+              ]
             },
             {
               "id": "fourth-child",
               "title": "四胎",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的MV《莲》?",
+                  "url": "https://www.zhihu.com/question/398747535"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评论张艺兴第四张个人专辑《莲》?",
+                  "url": "https://www.zhihu.com/question/397156667"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的《爱莲说》?",
+                  "url": "https://www.zhihu.com/question/390077837"
+                }
+              ]
             },
             {
               "id": "dong",
               "title": "东",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴2021年新音乐专辑《东》？",
+                  "url": "https://www.zhihu.com/question/492509255"
+                }
+              ]
             },
             {
               "id": "xi",
@@ -350,35 +441,213 @@
               "id": "gen-zheng-miao-hong",
               "title": "根正苗红",
               "children": [
-                { "type": "divider", "label": "2026年" },
-                { "type": "link", "platform": "Bilibili", "title": "从1919到2026，百年风华赓续。中国青年，向来心怀赤诚、志存高远，于风雨中挺立脊梁，于时代里勇担使命。薪火相传，笃行不怠，吾辈当自强。", "url": "https://www.bilibili.com/video/BV1dkRPBrEkM/" },
-                { "type": "divider", "label": "2025年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴 X 舞台】《精忠报国》“何以中国闽山闽水物华新”网络主题宣传活动舞台丨时隔八年重温经典，歌声如剑气震山河", "url": "https://www.bilibili.com/video/BV1Rb5QzsEA4/" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】来贺党全体起立！时隔八年再唱《精忠报国》【250421】", "url": "https://www.bilibili.com/video/BV1vf51z6EYq/" },
-                { "type": "divider", "label": "2023年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴 | 音乐】航天局X新华社 联手打造航天歌曲《星星海》", "url": "https://www.bilibili.com/video/BV1io4y157nQ/" },
-                { "type": "divider", "label": "2022年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴Ｘ舞台】《奋斗的你了不起》——《中国梦·劳动美——2022五·一国际劳动节“心连心”特别节目》", "url": "https://www.bilibili.com/video/BV1WT4y1k72T/" },
-                { "type": "link", "platform": "Bilibili", "title": "五四青年节的前一天，分享一首歌", "url": "https://www.bilibili.com/video/BV1rF411T7c4/" },
-                { "type": "divider", "label": "2021年" },
-                { "type": "link", "platform": "Bilibili", "title": "张艺兴演唱《七子之歌》献礼百年华诞，愿党青春永驻，愿祖国繁荣昌盛。", "url": "https://www.bilibili.com/video/BV12g411M7zL/" },
-                { "type": "link", "platform": "Bilibili", "title": "【星火】百年风华，青春中国，这首歌全程高燃！", "url": "https://www.bilibili.com/video/BV1Uv411H7ck/" },
-                { "type": "link", "platform": "Bilibili", "title": "高燃！这些面孔刻画出中国模样", "url": "https://www.bilibili.com/video/BV1vS4y1d7Je/" },
-                { "type": "link", "platform": "Bilibili", "title": "【高燃】张艺兴《不屈的信仰》，献唱电影《我们是第一书记》", "url": "https://www.bilibili.com/video/BV1Bh41147Zy/" },
-                { "type": "divider", "label": "2019年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】【五四晚会】《中国功夫》+《沧海一声笑》cut及完整版", "url": "https://www.bilibili.com/video/BV1g4411i7cz/" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】《青春颂(男生版)》MV", "url": "https://www.bilibili.com/video/BV1E4411j7Uh/" },
-                { "type": "divider", "label": "2018年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】公益电影《我在你身边》主题曲《一切如你》MV", "url": "https://www.bilibili.com/video/BV1BW411q7Yw/" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】《红旗飘飘》丨2018筑梦新时代“五月的鲜花”文艺会演", "url": "https://www.bilibili.com/video/BV13W411G7dp/" },
-                { "type": "divider", "label": "2017年" },
-                { "type": "link", "platform": "Bilibili", "title": "【张艺兴】歌曲《精忠报国》及五四青年节《五月的鲜花》文艺汇演相关采访", "url": "https://www.bilibili.com/video/BV1cx411m7s1/" }
+                {
+                  "type": "divider",
+                  "label": "2026年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "从1919到2026，百年风华赓续。中国青年，向来心怀赤诚、志存高远，于风雨中挺立脊梁，于时代里勇担使命。薪火相传，笃行不怠，吾辈当自强。",
+                  "url": "https://www.bilibili.com/video/BV1dkRPBrEkM/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2025年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴 X 舞台】《精忠报国》“何以中国闽山闽水物华新”网络主题宣传活动舞台丨时隔八年重温经典，歌声如剑气震山河",
+                  "url": "https://www.bilibili.com/video/BV1Rb5QzsEA4/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】来贺党全体起立！时隔八年再唱《精忠报国》【250421】",
+                  "url": "https://www.bilibili.com/video/BV1vf51z6EYq/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2023年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴 | 音乐】航天局X新华社 联手打造航天歌曲《星星海》",
+                  "url": "https://www.bilibili.com/video/BV1io4y157nQ/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴Ｘ舞台】《奋斗的你了不起》——《中国梦·劳动美——2022五·一国际劳动节“心连心”特别节目》",
+                  "url": "https://www.bilibili.com/video/BV1WT4y1k72T/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "五四青年节的前一天，分享一首歌",
+                  "url": "https://www.bilibili.com/video/BV1rF411T7c4/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "张艺兴演唱《七子之歌》献礼百年华诞，愿党青春永驻，愿祖国繁荣昌盛。",
+                  "url": "https://www.bilibili.com/video/BV12g411M7zL/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【星火】百年风华，青春中国，这首歌全程高燃！",
+                  "url": "https://www.bilibili.com/video/BV1Uv411H7ck/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "高燃！这些面孔刻画出中国模样",
+                  "url": "https://www.bilibili.com/video/BV1vS4y1d7Je/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【高燃】张艺兴《不屈的信仰》，献唱电影《我们是第一书记》",
+                  "url": "https://www.bilibili.com/video/BV1Bh41147Zy/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2019年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】【五四晚会】《中国功夫》+《沧海一声笑》cut及完整版",
+                  "url": "https://www.bilibili.com/video/BV1g4411i7cz/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】《青春颂(男生版)》MV",
+                  "url": "https://www.bilibili.com/video/BV1E4411j7Uh/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2018年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】公益电影《我在你身边》主题曲《一切如你》MV",
+                  "url": "https://www.bilibili.com/video/BV1BW411q7Yw/"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】《红旗飘飘》丨2018筑梦新时代“五月的鲜花”文艺会演",
+                  "url": "https://www.bilibili.com/video/BV13W411G7dp/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2017年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】歌曲《精忠报国》及五四青年节《五月的鲜花》文艺汇演相关采访",
+                  "url": "https://www.bilibili.com/video/BV1cx411m7s1/"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴五四晚会的表演？",
+                  "url": "https://www.zhihu.com/question/59390610"
+                }
               ]
             },
             {
               "id": "music-other",
               "title": "其他",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "张艺兴目前公开发行的96首歌曲中，你最喜欢的Top 10是哪些？",
+                  "url": "https://www.zhihu.com/question/415915340"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待中国经济出版社联合张艺兴发起mpop编写倡议书？",
+                  "url": "https://www.zhihu.com/question/420445994"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴新歌《晚安》？",
+                  "url": "https://www.zhihu.com/question/355906554"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的自作曲《独角戏》？",
+                  "url": "https://www.zhihu.com/question/46722493"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的自创曲《约定》？",
+                  "url": "https://www.zhihu.com/question/47937637"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "张艺兴 MV 的黄金四秒怎么突然火了？",
+                  "url": "https://www.zhihu.com/question/321122199"
+                }
+              ]
+            },
+            {
+              "id": "honey",
+              "title": "HONEY",
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "专业音乐人，路人，粉丝如何评价张艺兴新专辑《HONEY》？",
+                  "url": "https://www.zhihu.com/question/329292083"
+                }
+              ]
+            },
+            {
+              "id": "producer",
+              "title": "PRODUCER",
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待张艺兴2021年新录音室专辑《PRODUCER》？",
+                  "url": "https://www.zhihu.com/question/442414744"
+                }
+              ]
+            },
+            {
+              "id": "winter-special-gift",
+              "title": "Winter Special Gift",
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴于12月22日发行的冬季迷你数字专辑《Winter Special Gift》？",
+                  "url": "https://www.zhihu.com/question/264368158"
+                }
+              ]
             }
           ]
         },
@@ -455,31 +724,83 @@
                   "id": "sweeping-storm",
                   "title": "扫黑风暴",
                   "intro": "2021年播出",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何评价《扫黑风暴》里张艺兴的演技？",
+                      "url": "https://www.zhihu.com/question/478274728"
+                    }
+                  ]
                 },
                 {
                   "id": "the-glory",
                   "title": "大明风华",
                   "intro": "2019年播出",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何评价张艺兴在《大明风华》中的表现?",
+                      "url": "https://www.zhihu.com/question/366399039"
+                    }
+                  ]
                 },
                 {
                   "id": "golden-eyes",
                   "title": "黄金瞳",
                   "intro": "2019年播出",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何看待张艺兴参演电视剧《黄金瞳》？",
+                      "url": "https://www.zhihu.com/question/65479531"
+                    }
+                  ]
                 },
                 {
                   "id": "er-yue-hong",
                   "title": "二月红",
                   "intro": "《老九门》· 2016年播出",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何评价电视剧《老九门》中张艺兴演绎的二月红？",
+                      "url": "https://www.zhihu.com/question/41142456"
+                    }
+                  ]
                 },
                 {
                   "id": "good-mister",
                   "title": "好先生",
                   "intro": "2016年播出",
                   "children": []
+                },
+                {
+                  "id": "tv-other",
+                  "title": "其它",
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何看待张艺兴出演正午阳光新剧《落花时节》？",
+                      "url": "https://www.zhihu.com/question/397413413"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何评价张艺兴出演季播剧《沙海》中“解雨臣”一角？",
+                      "url": "https://www.zhihu.com/question/285620789"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何评价张艺兴在《十一书》中饰演卢德铭的表现？",
+                      "url": "https://www.zhihu.com/question/357657634"
+                    }
+                  ]
                 }
               ]
             }
@@ -492,7 +813,20 @@
             {
               "id": "go-fighting",
               "title": "极限挑战",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "《极限挑战》带给了张艺兴什么？",
+                  "url": "https://www.zhihu.com/question/47930436"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "极限男人帮对艺兴有哪些明晃晃的温柔？",
+                  "url": "https://www.zhihu.com/question/271007636"
+                }
+              ]
             },
             {
               "id": "singer-2",
@@ -509,18 +843,74 @@
                   "platform": "知乎",
                   "title": "【张艺兴×我是唱作人】唱作人的正确打开方式《Joker》篇 - 张艺兴考古贝壳r的文章",
                   "url": "https://zhuanlan.zhihu.com/p/336542199"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的《马》？",
+                  "url": "https://www.zhihu.com/question/396376529"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待张艺兴加盟综艺《我是唱作人2》？",
+                  "url": "https://www.zhihu.com/question/381480538"
                 }
               ]
             },
             {
               "id": "street-dance",
               "title": "这就是街舞",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待这就是街舞队长battle，张艺兴被舞者当场做夹手抄袭动作？",
+                  "url": "https://www.zhihu.com/question/484856245/answer/2107537956"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "怎么看待《这就是街舞3》的一系列骚操作？",
+                  "url": "https://www.zhihu.com/question/400795202/answer/1277523146"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待《这就是街舞3》决赛里张艺兴跳的krump版炎黄子孙？",
+                  "url": "https://www.zhihu.com/question/424054218"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "张艺兴特地为这期街舞做了歌曲《饕餮》，如何看待张艺兴的饕餮舞台？",
+                  "url": "https://www.zhihu.com/question/419598552"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待张艺兴街舞队长大秀第一名？",
+                  "url": "https://www.zhihu.com/question/407708639"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "张艺兴官宣加盟《这就是街舞 3》，成为本届队长，你有哪些期待？",
+                  "url": "https://www.zhihu.com/question/392706707"
+                }
+              ]
             },
             {
               "id": "back-to-field",
               "title": "向往的生活",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价《向往的生活》最新一期，张艺兴的《湘江水》？",
+                  "url": "https://www.zhihu.com/question/474462246"
+                }
+              ]
             },
             {
               "id": "pd-cut",
@@ -529,7 +919,14 @@
                 {
                   "id": "idol-producer",
                   "title": "偶像练习生",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何看待张艺兴加入《偶像练习生》成为全民制作人代表？",
+                      "url": "https://www.zhihu.com/question/263425030"
+                    }
+                  ]
                 },
                 {
                   "id": "youth-with-you",
@@ -545,6 +942,12 @@
                       "platform": "Bilibili",
                       "title": "教学合集",
                       "url": "https://www.bilibili.com/video/BV11y4y177Db/?spm_id_from=333.337.search-card.all.click"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "知乎",
+                      "title": "如何看待《少年之名》官宣制作人为张艺兴?",
+                      "url": "https://www.zhihu.com/question/389766367"
                     }
                   ]
                 },
@@ -575,7 +978,38 @@
             {
               "id": "variety-other",
               "title": "其他",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价《仅三天可见》最后一期，姜思达对话张艺兴？",
+                  "url": "https://www.zhihu.com/question/367268544/answer/2181862242"
+                }
+              ]
+            },
+            {
+              "id": "heavenly-sound-battle",
+              "title": "天籁之战",
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴在东方卫视《天籁之战》中的表现？",
+                  "url": "https://www.zhihu.com/question/68657595"
+                }
+              ]
+            },
+            {
+              "id": "dance-storm",
+              "title": "舞蹈风暴",
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "怎么看待张艺兴加盟《舞蹈风暴》第二季？",
+                  "url": "https://www.zhihu.com/question/424961470"
+                }
+              ]
             }
           ]
         },
@@ -583,29 +1017,142 @@
           "id": "dream-unwavering",
           "title": "梦想，矢志不渝",
           "children": [
-            { "type": "divider", "label": "2026年" },
-            { "type": "link", "platform": "Bilibili", "title": "「爆哭预警」成功的来时路永远比想象的更艰难，张艺兴值得，值得", "url": "https://b23.tv/Xw7rx4f" },
-            { "type": "divider", "label": "2023年" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】大航海3南京演唱会新歌《Breathe》<呼吸>", "url": "https://www.bilibili.com/video/BV1K84y1Q7uQ/" },
-            { "type": "link", "platform": "Bilibili", "title": "【锐评】格莱美博物馆更新张艺兴介绍：中国第一偶像，时尚缪斯", "url": "https://www.bilibili.com/video/BV1JY411Y7iT/" },
-            { "type": "link", "platform": "Bilibili", "title": "张艺兴｜野心 只有他在这个时代还能高呼梦想", "url": "https://www.bilibili.com/video/BV1YH4y117eU/" },
-            { "type": "divider", "label": "2022年" },
-            { "type": "link", "platform": "Bilibili", "title": "张艺兴哈佛专场分享会 最后一段谈梦想 听得我热血沸腾 疯狂落泪", "url": "https://www.bilibili.com/video/BV13Y411d7aA/" },
-            { "type": "link", "platform": "Bilibili", "title": "哈佛中西文化艺术交流【张艺兴】专场全程", "url": "https://www.bilibili.com/video/BV1C24y117Rj/" },
-            { "type": "divider", "label": "2021年" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】孤勇者｜“你将造你的城邦 在废墟之上”", "url": "https://www.bilibili.com/video/BV1Br4y1D7Zw/" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】【考研|高考】【鼓励 励志向】人生如逆旅，我亦是行人。", "url": "https://www.bilibili.com/video/BV1Li4y1K7gv/" },
-            { "type": "link", "platform": "Bilibili", "title": "张艺兴谈创作歌舞《画卷》：想把中国民乐用到巅峰", "url": "https://www.bilibili.com/video/BV1YU4y1W7CB/" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】原来2014年张艺兴就说了要带领华语音乐走向世界！内娱理想主义实干家～如果你给我一个机会，我能撼动世界，你愿意给我这个机会吗｜十年一梦 星辰大海", "url": "https://www.bilibili.com/video/BV1qV411i7Vo/" },
-            { "type": "divider", "label": "2020年" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】玫瑰少年//最好的 报复是 美丽 最美的 盛开是 反击", "url": "https://www.bilibili.com/video/BV1WE411377f/" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴】【钓系美人】‖莲学‖直男斩‖【心动挑战】‖看看比茶艺更高段位的莲学？漫不经心弱不禁风的莲老师让学生党受益匪浅！‖", "url": "https://www.bilibili.com/video/BV1Ut4y1U7uX/" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴|励志向|高能踩点】暗夜——黑暗中征伐，黑夜中绽放", "url": "https://www.bilibili.com/video/BV1f7411s7k8/" },
-            { "type": "link", "platform": "Bilibili", "title": "【日月】张艺兴《莲》专辑乐评：如何定义中国风与M-Pop？华语音乐能走出去吗？", "url": "https://www.bilibili.com/video/BV1D5411W7yq/" },
-            { "type": "divider", "label": "2018年" },
-            { "type": "link", "platform": "Bilibili", "title": "【张艺兴X起风了】以爱之名，你还愿意吗？‖ 1007生贺", "url": "https://www.bilibili.com/video/BV1BW41127SY/" },
-            { "type": "divider", "label": "2015年" },
-            { "type": "link", "platform": "Bilibili", "title": "【FANVID】张艺兴 灿烂千阳（I LIVED）", "url": "https://www.bilibili.com/video/BV1qs411D7rF/" }
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "「爆哭预警」成功的来时路永远比想象的更艰难，张艺兴值得，值得",
+              "url": "https://b23.tv/Xw7rx4f"
+            },
+            {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】大航海3南京演唱会新歌《Breathe》<呼吸>",
+              "url": "https://www.bilibili.com/video/BV1K84y1Q7uQ/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【锐评】格莱美博物馆更新张艺兴介绍：中国第一偶像，时尚缪斯",
+              "url": "https://www.bilibili.com/video/BV1JY411Y7iT/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴｜野心 只有他在这个时代还能高呼梦想",
+              "url": "https://www.bilibili.com/video/BV1YH4y117eU/"
+            },
+            {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴哈佛专场分享会 最后一段谈梦想 听得我热血沸腾 疯狂落泪",
+              "url": "https://www.bilibili.com/video/BV13Y411d7aA/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "哈佛中西文化艺术交流【张艺兴】专场全程",
+              "url": "https://www.bilibili.com/video/BV1C24y117Rj/"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】孤勇者｜“你将造你的城邦 在废墟之上”",
+              "url": "https://www.bilibili.com/video/BV1Br4y1D7Zw/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】【考研|高考】【鼓励 励志向】人生如逆旅，我亦是行人。",
+              "url": "https://www.bilibili.com/video/BV1Li4y1K7gv/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴谈创作歌舞《画卷》：想把中国民乐用到巅峰",
+              "url": "https://www.bilibili.com/video/BV1YU4y1W7CB/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】原来2014年张艺兴就说了要带领华语音乐走向世界！内娱理想主义实干家～如果你给我一个机会，我能撼动世界，你愿意给我这个机会吗｜十年一梦 星辰大海",
+              "url": "https://www.bilibili.com/video/BV1qV411i7Vo/"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】玫瑰少年//最好的 报复是 美丽 最美的 盛开是 反击",
+              "url": "https://www.bilibili.com/video/BV1WE411377f/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】【钓系美人】‖莲学‖直男斩‖【心动挑战】‖看看比茶艺更高段位的莲学？漫不经心弱不禁风的莲老师让学生党受益匪浅！‖",
+              "url": "https://www.bilibili.com/video/BV1Ut4y1U7uX/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴|励志向|高能踩点】暗夜——黑暗中征伐，黑夜中绽放",
+              "url": "https://www.bilibili.com/video/BV1f7411s7k8/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【日月】张艺兴《莲》专辑乐评：如何定义中国风与M-Pop？华语音乐能走出去吗？",
+              "url": "https://www.bilibili.com/video/BV1D5411W7yq/"
+            },
+            {
+              "type": "divider",
+              "label": "2018年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴X起风了】以爱之名，你还愿意吗？‖ 1007生贺",
+              "url": "https://www.bilibili.com/video/BV1BW41127SY/"
+            },
+            {
+              "type": "divider",
+              "label": "2015年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【FANVID】张艺兴 灿烂千阳（I LIVED）",
+              "url": "https://www.bilibili.com/video/BV1qs411D7rF/"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待近期官宣的张艺兴厂牌DNAfactory，你对此有什么看法和期待？",
+              "url": "https://www.zhihu.com/question/571623879/answer/2795935753"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴的“染色体娱乐集团”官宣，并启动染色体练习生计划？",
+              "url": "https://www.zhihu.com/question/424500943"
+            }
           ]
         }
       ]
@@ -1013,6 +1560,258 @@
               "platform": "知乎",
               "title": "如何评价张艺兴的音乐制作水平？- 郭佳的回答",
               "url": "https://www.zhihu.com/question/361852359/answer/942537677"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴？",
+              "url": "https://www.zhihu.com/question/33467311/answer/311632513"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "明明张艺兴没有翻车为什么黑子却很多?",
+              "url": "https://www.zhihu.com/question/491549436/answer/2163984743"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待黄磊与张艺兴的感情?",
+              "url": "https://www.zhihu.com/question/62993445/answer/2181832579"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴致敬马龙「重新定义世界乒乓第一人」？",
+              "url": "https://www.zhihu.com/question/476230684/answer/2031241901"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么张艺兴粉丝那么死忠？",
+              "url": "https://www.zhihu.com/question/423964447/answer/1532519508"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "怎么评价张艺兴粉丝到阴阳师活动下控评?",
+              "url": "https://www.zhihu.com/question/372937676/answer/1024547156"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴个人演唱会沉浸式舞台？",
+              "url": "https://www.zhihu.com/question/333799668/answer/777368423"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴支持港警后，他和家人因此遭遇网络暴力攻击(被人肉，盗取信息登记器官捐献）？",
+              "url": "https://www.zhihu.com/question/343046443/answer/805026490"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴发声明终止和「禁用新疆棉花」品牌CK及匡威的一切合作，这将带来哪些影响？",
+              "url": "https://www.zhihu.com/question/451206399/answer/1801021564"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "怎么看待张艺兴粉丝要求华为nova就华为合伙人问题给出合理解释？",
+              "url": "https://www.zhihu.com/question/282694701/answer/428983098"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么说张艺兴是有大格局的人？",
+              "url": "https://www.zhihu.com/question/413428382/answer/1404594212"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么说张艺兴内心强大？",
+              "url": "https://www.zhihu.com/question/380138150/answer/1195934216"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么说张艺兴内心强大？",
+              "url": "https://www.zhihu.com/question/380138150/answer/1089706005"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴粉丝砸 1000+万元为其打榜这一现象？",
+              "url": "https://www.zhihu.com/question/355233840/answer/891139530"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "唯八黑张艺兴对她们有什么好处？",
+              "url": "https://www.zhihu.com/question/326518797/answer/716729621"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴点赞罗志祥《男孩，女孩》微博？",
+              "url": "https://www.zhihu.com/question/396097495/answer/1235143446"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴微博与ins换头像支持南海事件？",
+              "url": "https://www.zhihu.com/question/48438190/answer/110870200"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴粉丝说唱跳第一人的事情，是弊大于利还是利大于弊？",
+              "url": "https://www.zhihu.com/question/302196289/answer/531688603"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴到底动了哪个流量明星的蛋糕啊？",
+              "url": "https://www.zhihu.com/question/465487553/answer/1950970449"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么张艺兴和其他流量小鲜肉相比，是被黑的最少的？",
+              "url": "https://www.zhihu.com/question/66296639/answer/247905710"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么张艺兴和其他流量小鲜肉相比，是被黑的最少的？",
+              "url": "https://www.zhihu.com/question/66296639/answer/241880259"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴 18 年末和 19 年初在微博遭受到的大量网络暴力？",
+              "url": "https://www.zhihu.com/question/308496328/answer/569691445"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴及团队的反黑能力？",
+              "url": "https://www.zhihu.com/question/346530647/answer/829429703"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "李秀满为什么支持张艺兴开练习生公司？",
+              "url": "https://www.zhihu.com/question/424571623/answer/1513343652"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "理性探讨下张艺兴未来会不会成为李秀满这样出色的企业家？",
+              "url": "https://www.zhihu.com/question/53050752/answer/1513632431"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "你是怎么对张艺兴路转黑的？",
+              "url": "https://www.zhihu.com/question/308495829/answer/1501628168"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴到底应不应该和CK解约？",
+              "url": "https://www.zhihu.com/question/340308491/answer/788998876"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴被黑感觉很愤怒，该如何自我排解？",
+              "url": "https://www.zhihu.com/question/407082283/answer/1372149652"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴也是被资本控制的吗？",
+              "url": "https://www.zhihu.com/question/353176758/answer/1340653599"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴粉丝都是怎么看待exo的?",
+              "url": "https://www.zhihu.com/question/369927044/answer/1012563751"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴粉丝都是怎么看待exo的?",
+              "url": "https://www.zhihu.com/question/369927044/answer/1155683922"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "怎样看待张艺兴不顺应解约潮和ck解约 却更受央视重视了?",
+              "url": "https://www.zhihu.com/question/377628163/answer/1089358670"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴工作室发表声明要求撤销黑词条？",
+              "url": "https://www.zhihu.com/question/330221779/answer/721805655"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴做PD？",
+              "url": "https://www.zhihu.com/question/362948709"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴的唱功如何？",
+              "url": "https://www.zhihu.com/question/53012344"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么喜欢张艺兴?",
+              "url": "https://www.zhihu.com/question/46236274"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么张艺兴舞台表现力这么好?",
+              "url": "https://www.zhihu.com/question/351609641"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴的舞蹈？",
+              "url": "https://www.zhihu.com/question/34956586"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "为什么张艺兴被称为工作人员杀手？",
+              "url": "https://www.zhihu.com/question/50951860"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴的哪些金句或行为可以让你笑一年？",
+              "url": "https://www.zhihu.com/question/63322276"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴有哪些美照？",
+              "url": "https://www.zhihu.com/question/48867692"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴真人和相片差距有多大？",
+              "url": "https://www.zhihu.com/question/49346528"
             }
           ]
         },
@@ -1035,6 +1834,12 @@
                   "platform": "抖音",
                   "title": "花絮合集",
                   "url": "https://v.douyin.com/hwoBFeGs_cs/"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴《归零》 （《RE-KNOW》）？",
+                  "url": "https://www.zhihu.com/question/357746433"
                 }
               ]
             },
@@ -1280,114 +2085,114 @@
           "id": "beike-english-corner-other",
           "title": "其它",
           "children": [
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: Idol has meanings that go beyond “entertainment”",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-idol-has-meanings-that-go-beyond-entertainment-fff7ee413ce2"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "48 hours of “Lay observation”, I have forgotten about “the little sheep”",
-          "url": "https://xingtweettrans1007.medium.com/48-hours-of-lay-observation-i-have-forgotten-about-the-little-sheep-aa722ad545c7"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "FightClub China x Lay Zhang on Converse",
-          "url": "https://xingtweettrans1007.medium.com/fightclub-china-x-lay-zhang-on-converse-e79de20c9f96"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang’s story behind “外婆” – Healing and Mourning through music",
-          "url": "https://medium.com/@xingtweettrans1007/lay-zhangs-story-behind-外婆-healing-and-mourning-through-music-ad226ce26259"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Concepts behind Lay Zhang’s 4th album LIT",
-          "url": "https://xingtweettrans1007.medium.com/concepts-behind-lay-zhangs-4th-album-lit-bbb6075d673d"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: You can laugh at me, but don’t laugh at hard-working",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-you-can-laugh-at-me-but-dont-laugh-at-hard-working-b381f5a15194"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang offstage: Street Dance of China 3 and more",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-offstage-street-dance-of-china-3-and-more-cefdf444bcc0"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Interpreting the new “Producer” era of Lay Zhang",
-          "url": "https://xingtweettrans1007.medium.com/interpreting-the-new-producer-era-of-lay-zhang-4ffb37e28e00"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang exclaims that Chromosome’s 14-year-old trainees are already 6 feet tall: “They have GOOD nutrition supplies”",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-exclaims-that-chromosomes-14-year-old-trainees-are-already-6-feet-tall-they-have-good-fcaaf7239e76"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: Relax, get your balance in control",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-relax-get-your-balance-in-control-31b068cdf473"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: Taking every step steadily to becoming a good actor",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-taking-every-step-steadily-to-becoming-a-good-actor-2a1eca8e3a56"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "LAY ZHANG x NEW Weekly — The Interview",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-x-new-weekly-the-interview-7ad731cf01c0"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "LAY Zhang x New Weekly — ON AND OFF STAGE",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-x-new-weekly-on-and-off-stage-82c4b884c9a9"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang - The Good Man",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-good-man-bca9f1587939"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: The ‘krumper’ of time, using the ‘art of fusion’ to let the world looks toward the East",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-krumper-of-time-using-the-art-of-fusion-to-let-the-world-looks-toward-the-east-d70be2c18e4f"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: The Practitioner of Idealism",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-practitioner-of-idealism-64091a9dae75"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "Lay Zhang: Making Our Ancestors’ Treasures Trendy",
-          "url": "https://xingtweettrans1007.medium.com/lay-zhang-making-our-ancestors-treasures-trendy-e6163f995ef9"
-        },
-        {
-          "type": "link",
-          "platform": "媒体",
-          "title": "“WEST” FULL EP Lyrics translation",
-          "url": "https://xingtweettrans1007.medium.com/west-full-ep-lyrics-translation-a23db7ac48ff"
-        }
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: Idol has meanings that go beyond “entertainment”",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-idol-has-meanings-that-go-beyond-entertainment-fff7ee413ce2"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "48 hours of “Lay observation”, I have forgotten about “the little sheep”",
+              "url": "https://xingtweettrans1007.medium.com/48-hours-of-lay-observation-i-have-forgotten-about-the-little-sheep-aa722ad545c7"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "FightClub China x Lay Zhang on Converse",
+              "url": "https://xingtweettrans1007.medium.com/fightclub-china-x-lay-zhang-on-converse-e79de20c9f96"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang’s story behind “外婆” – Healing and Mourning through music",
+              "url": "https://medium.com/@xingtweettrans1007/lay-zhangs-story-behind-外婆-healing-and-mourning-through-music-ad226ce26259"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Concepts behind Lay Zhang’s 4th album LIT",
+              "url": "https://xingtweettrans1007.medium.com/concepts-behind-lay-zhangs-4th-album-lit-bbb6075d673d"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: You can laugh at me, but don’t laugh at hard-working",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-you-can-laugh-at-me-but-dont-laugh-at-hard-working-b381f5a15194"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang offstage: Street Dance of China 3 and more",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-offstage-street-dance-of-china-3-and-more-cefdf444bcc0"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Interpreting the new “Producer” era of Lay Zhang",
+              "url": "https://xingtweettrans1007.medium.com/interpreting-the-new-producer-era-of-lay-zhang-4ffb37e28e00"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang exclaims that Chromosome’s 14-year-old trainees are already 6 feet tall: “They have GOOD nutrition supplies”",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-exclaims-that-chromosomes-14-year-old-trainees-are-already-6-feet-tall-they-have-good-fcaaf7239e76"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: Relax, get your balance in control",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-relax-get-your-balance-in-control-31b068cdf473"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: Taking every step steadily to becoming a good actor",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-taking-every-step-steadily-to-becoming-a-good-actor-2a1eca8e3a56"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "LAY ZHANG x NEW Weekly — The Interview",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-x-new-weekly-the-interview-7ad731cf01c0"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "LAY Zhang x New Weekly — ON AND OFF STAGE",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-x-new-weekly-on-and-off-stage-82c4b884c9a9"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang - The Good Man",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-good-man-bca9f1587939"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: The ‘krumper’ of time, using the ‘art of fusion’ to let the world looks toward the East",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-krumper-of-time-using-the-art-of-fusion-to-let-the-world-looks-toward-the-east-d70be2c18e4f"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: The Practitioner of Idealism",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-the-practitioner-of-idealism-64091a9dae75"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "Lay Zhang: Making Our Ancestors’ Treasures Trendy",
+              "url": "https://xingtweettrans1007.medium.com/lay-zhang-making-our-ancestors-treasures-trendy-e6163f995ef9"
+            },
+            {
+              "type": "link",
+              "platform": "媒体",
+              "title": "“WEST” FULL EP Lyrics translation",
+              "url": "https://xingtweettrans1007.medium.com/west-full-ep-lyrics-translation-a23db7ac48ff"
+            }
           ]
         }
       ]
@@ -1396,7 +2201,63 @@
       "id": "charity",
       "title": "公益",
       "color": "#4E4059",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "platform": "知乎",
+          "title": "张艺兴工作室捐赠近三十万只口罩并且进行医院小区派出所精准投放是什么概念？",
+          "url": "https://www.zhihu.com/question/369913960/answer/1007312353"
+        },
+        {
+          "type": "link",
+          "platform": "知乎",
+          "title": "张艺兴旗下染色体公益基因开始运营，将公示公益推进情况，但不对外募集资金或接收捐赠。大家怎么看？",
+          "url": "https://www.zhihu.com/question/485727296"
+        }
+      ]
+    },
+    {
+      "id": "honors",
+      "title": "荣誉称号",
+      "color": "#5A3D45",
+      "children": [
+        {
+          "id": "brand-ambassadorships",
+          "title": "历年商务代言",
+          "children": [
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "怎么看张艺兴成为中国街舞运动首位宣传大使？",
+              "url": "https://www.zhihu.com/question/394476003"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价由张艺兴发起，匡威共同主办的M-ALL STARS全国街舞挑战赛决赛？",
+              "url": "https://www.zhihu.com/question/428330011"
+            }
+          ]
+        },
+        {
+          "id": "honors-music",
+          "title": "音乐",
+          "children": [
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴在腾讯星光大赏获得年度最佳专辑并跪吻舞台？",
+              "url": "https://www.zhihu.com/question/263542142/answer/270240318"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价张艺兴成为2018-2019年度格莱美音乐节中国官方唯一宣传大使？",
+              "url": "https://www.zhihu.com/question/271995241"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "archive-summary",
