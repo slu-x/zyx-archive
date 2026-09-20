@@ -28,6 +28,9 @@ async function renderEventPage() {
       groups.get(cat).push(m);
     }
 
+    const kudosCounts = await fetchKudosCounts();
+    const likedSet = getLikedSet();
+
     const container = document.getElementById("materials");
     let html = "";
     for (const [cat, items] of groups) {
@@ -36,17 +39,19 @@ async function renderEventPage() {
         <h2 class="material-group-title">${escapeHtml(cat)}</h2>
         <ul class="material-list">
           ${items
-            .map(
-              (m) => `
+            .map((m) => {
+              const kudosId = kudosIdForLink(m.url);
+              const count = kudosCounts[kudosId] || 0;
+              return `
             <li class="node-card-row">
               <a class="material-link" href="${escapeHtml(m.url)}" target="_blank" rel="noopener noreferrer">
                 ${platformBadgeHtml(m.platform || "?")}
                 <span class="material-title">${escapeHtml(m.title || "(未命名链接)")}</span>
                 <span class="material-arrow">↗</span>
               </a>
-              ${kudosPlaceholderHtml(kudosIdForLink(m.url))}
-            </li>`
-            )
+              ${kudosButtonHtml(kudosId, count, likedSet.has(kudosId))}
+            </li>`;
+            })
             .join("")}
         </ul>
       </section>`;

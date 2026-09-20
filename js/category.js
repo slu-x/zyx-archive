@@ -23,10 +23,12 @@ function breadcrumbHtml(path) {
     .join('<span class="crumb-sep">›</span>');
 }
 
-async function renderChildCard(child, accentColor) {
+async function renderChildCard(child, accentColor, kudosCounts, likedSet) {
   if (child.type === "event") {
     try {
       const ev = await fetchJson(`data/events/${child.eventId}.json`);
+      const kudosId = kudosIdForEvent(ev.id);
+      const total = await computeKudosTotal(child, kudosCounts);
       return `
         <div class="node-card-row">
           <a class="node-card event-card-mini" href="event.html?id=${encodeURIComponent(ev.id)}">
@@ -35,7 +37,7 @@ async function renderChildCard(child, accentColor) {
             ${ev.summary ? `<div class="node-card-desc">${escapeHtml(ev.summary)}</div>` : ""}
             <div class="node-tag">${escapeHtml(ev.date || "日期未知")}</div>
           </a>
-          ${kudosPlaceholderHtml(kudosIdForEvent(ev.id))}
+          ${kudosButtonHtml(kudosId, total, likedSet.has(kudosId))}
         </div>`;
     } catch (err) {
       return `<div class="node-card node-card-error">事件加载失败：${escapeHtml(child.eventId)}</div>`;
@@ -55,6 +57,8 @@ async function renderChildCard(child, accentColor) {
           <span class="pending-tag">待补充</span>
         </div>`;
     }
+    const kudosId = kudosIdForLink(child.url);
+    const count = kudosCounts[kudosId] || 0;
     return `
       <div class="node-card-row">
         <a class="node-card link-card" href="${escapeHtml(child.url)}" target="_blank" rel="noopener noreferrer">
@@ -62,7 +66,7 @@ async function renderChildCard(child, accentColor) {
           <span class="node-card-title">${escapeHtml(child.title || "(未命名链接)")}</span>
           <span class="material-arrow">↗</span>
         </a>
-        ${kudosPlaceholderHtml(kudosIdForLink(child.url))}
+        ${kudosButtonHtml(kudosId, count, likedSet.has(kudosId))}
       </div>`;
   }
 
@@ -99,13 +103,16 @@ async function renderChildCard(child, accentColor) {
     secondLineHtml = `<div class="node-tag">${count > 0 ? `${count} 项` : "暂无内容"}</div>`;
   }
 
+  const kudosId = kudosIdForFolder(child.id);
+  const total = await computeKudosTotal(child, kudosCounts);
+
   return `
     <div class="node-card-row">
       <a class="node-card folder-card" href="category.html?id=${encodeURIComponent(child.id)}" style="--accent:${cardColor}">
         <div class="node-card-title">${escapeHtml(child.title)}</div>
         ${secondLineHtml}
       </a>
-      ${kudosPlaceholderHtml(kudosIdForFolder(child.id))}
+      ${kudosButtonHtml(kudosId, total, likedSet.has(kudosId))}
     </div>`;
 }
 
@@ -161,9 +168,40 @@ async function renderNavPage() {
       return;
     }
 
-    const cardsHtml = await Promise.all(children.map((c) => renderChildCard(c, accentColor)));
-    gridEl.innerHTML = cardsHtml.join("");
-    initKudos(gridEl);
+    const sortToggleEl = document.getElementById("sort-toggle");
+    let sortByLikes = false;
+
+    // 排序按钮的点击事件在这里就绑定好（不等点赞数据拉回来），避免"页面刚打开、
+    // 数据还没拉完的一瞬间点了按钮没反应"这种时序问题——renderGrid 内部自己用
+    // fetchKudosCounts() 的缓存结果，不管什么时候被调用都能拿到正确数据
+    if (sortToggleEl) {
+      sortToggleEl.addEventListener("click", () => {
+        sortByLikes = !sortByLikes;
+        sortToggleEl.classList.toggle("active", sortByLikes);
+        sortToggleEl.textContent = sortByLikes ? "恢复默认顺序" : "按点赞数排序";
+        renderGrid();
+      });
+    }
+
+    async function renderGrid() {
+      const kudosCounts = await fetchKudosCounts();
+      const likedSet = getLikedSet();
+      let ordered = children;
+      if (sortByLikes) {
+        const totals = await Promise.all(children.map((c) => computeKudosTotal(c, kudosCounts)));
+        ordered = children
+          .map((c, i) => ({ c, total: totals[i] }))
+          .sort((a, b) => b.total - a.total)
+          .map((x) => x.c);
+      }
+      const cardsHtml = await Promise.all(
+        ordered.map((c) => renderChildCard(c, accentColor, kudosCounts, likedSet))
+      );
+      gridEl.innerHTML = cardsHtml.join("");
+      initKudos(gridEl);
+    }
+
+    await renderGrid();
   } catch (err) {
     statusEl.textContent = "加载出错：" + err.message;
     console.error(err);
