@@ -28,12 +28,15 @@ async function renderChildCard(child, accentColor) {
     try {
       const ev = await fetchJson(`data/events/${child.eventId}.json`);
       return `
-        <a class="node-card event-card-mini" href="event.html?id=${encodeURIComponent(ev.id)}">
-          <div class="node-card-kicker">事件</div>
-          <div class="node-card-title">${escapeHtml(ev.title)}</div>
-          ${ev.summary ? `<div class="node-card-desc">${escapeHtml(ev.summary)}</div>` : ""}
-          <div class="node-tag">${escapeHtml(ev.date || "日期未知")}</div>
-        </a>`;
+        <div class="node-card-row">
+          <a class="node-card event-card-mini" href="event.html?id=${encodeURIComponent(ev.id)}">
+            <div class="node-card-kicker">事件</div>
+            <div class="node-card-title">${escapeHtml(ev.title)}</div>
+            ${ev.summary ? `<div class="node-card-desc">${escapeHtml(ev.summary)}</div>` : ""}
+            <div class="node-tag">${escapeHtml(ev.date || "日期未知")}</div>
+          </a>
+          ${kudosPlaceholderHtml(kudosIdForEvent(ev.id))}
+        </div>`;
     } catch (err) {
       return `<div class="node-card node-card-error">事件加载失败：${escapeHtml(child.eventId)}</div>`;
     }
@@ -53,11 +56,14 @@ async function renderChildCard(child, accentColor) {
         </div>`;
     }
     return `
-      <a class="node-card link-card" href="${escapeHtml(child.url)}" target="_blank" rel="noopener noreferrer">
-        ${platformBadgeHtml(child.platform || "?")}
-        <span class="node-card-title">${escapeHtml(child.title || "(未命名链接)")}</span>
-        <span class="material-arrow">↗</span>
-      </a>`;
+      <div class="node-card-row">
+        <a class="node-card link-card" href="${escapeHtml(child.url)}" target="_blank" rel="noopener noreferrer">
+          ${platformBadgeHtml(child.platform || "?")}
+          <span class="node-card-title">${escapeHtml(child.title || "(未命名链接)")}</span>
+          <span class="material-arrow">↗</span>
+        </a>
+        ${kudosPlaceholderHtml(kudosIdForLink(child.url))}
+      </div>`;
   }
 
   // 普通分类节点（文件夹）：如果这个节点自己定义了颜色（比如顶层大 tab），优先用它自己的颜色。
@@ -94,10 +100,13 @@ async function renderChildCard(child, accentColor) {
   }
 
   return `
-    <a class="node-card folder-card" href="category.html?id=${encodeURIComponent(child.id)}" style="--accent:${cardColor}">
-      <div class="node-card-title">${escapeHtml(child.title)}</div>
-      ${secondLineHtml}
-    </a>`;
+    <div class="node-card-row">
+      <a class="node-card folder-card" href="category.html?id=${encodeURIComponent(child.id)}" style="--accent:${cardColor}">
+        <div class="node-card-title">${escapeHtml(child.title)}</div>
+        ${secondLineHtml}
+      </a>
+      ${kudosPlaceholderHtml(kudosIdForFolder(child.id))}
+    </div>`;
 }
 
 async function renderNavPage() {
@@ -154,6 +163,7 @@ async function renderNavPage() {
 
     const cardsHtml = await Promise.all(children.map((c) => renderChildCard(c, accentColor)));
     gridEl.innerHTML = cardsHtml.join("");
+    initKudos(gridEl);
   } catch (err) {
     statusEl.textContent = "加载出错：" + err.message;
     console.error(err);

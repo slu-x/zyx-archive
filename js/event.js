@@ -38,12 +38,13 @@ async function renderEventPage() {
           ${items
             .map(
               (m) => `
-            <li>
+            <li class="node-card-row">
               <a class="material-link" href="${escapeHtml(m.url)}" target="_blank" rel="noopener noreferrer">
                 ${platformBadgeHtml(m.platform || "?")}
                 <span class="material-title">${escapeHtml(m.title || "(未命名链接)")}</span>
                 <span class="material-arrow">↗</span>
               </a>
+              ${kudosPlaceholderHtml(kudosIdForLink(m.url))}
             </li>`
             )
             .join("")}
@@ -56,6 +57,7 @@ async function renderEventPage() {
     }
 
     container.innerHTML = html;
+    initKudos(container);
   } catch (err) {
     statusEl.textContent = "加载资料时出错：" + err.message;
     console.error(err);

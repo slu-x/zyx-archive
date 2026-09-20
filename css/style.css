@@ -246,6 +246,64 @@ main {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
 }
 
+/* ===== KUDOS 点赞功能样式开始（要整个撤掉点赞功能，把这一段删掉即可） ===== */
+:root {
+  --kudos-color: #a855f7;
+}
+
+.node-card-row {
+  display: flex;
+  align-items: stretch;
+  gap: 6px;
+}
+
+.node-card-row > .node-card,
+.node-card-row > .material-link {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.kudos-btn {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  min-width: 40px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 8px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.kudos-btn:hover {
+  background: rgba(168, 85, 247, 0.12);
+}
+
+.kudos-btn:active {
+  transform: scale(0.92);
+}
+
+.kudos-heart-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+.kudos-count {
+  font-size: 11px;
+  line-height: 1;
+  color: var(--muted);
+}
+
+.kudos-btn.kudos-liked .kudos-count {
+  color: var(--kudos-color);
+}
+/* ===== KUDOS 点赞功能样式结束 ===== */
+
 /* 分类/子 tab 卡片：用该大类的主题色做成一个渐变，颜色和方向都跟首页大 banner 是同一套手法
    （深色打底 + 左上角一点高光 + 往右下角略微提亮），配的是深色调，所以文字用白色。
    只需要 nav.json 里配一个 color 就会自动生成，不需要给每个分类手动调渐变色值 */
