@@ -29,7 +29,13 @@ MAX_ID_LEN = 200
 
 
 def get_db():
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=5)
+    # WAL 模式允许"一边有人在写，一边别人还能读"，busy_timeout 让写操作撞在一起时
+    # 排队等一下再重试，而不是直接报错——这台服务器是多线程处理请求的（见文件最下面
+    # ThreadingTCPServer），很多人同时点赞时每个请求还是各自开自己的连接，靠这两个
+    # 设置来避免互相打架
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA busy_timeout=5000")
     conn.execute(
         "CREATE TABLE IF NOT EXISTS kudos (id TEXT PRIMARY KEY, count INTEGER NOT NULL DEFAULT 0)"
     )
