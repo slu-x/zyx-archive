@@ -1,0 +1,617 @@
+{
+ "2023-05-15-test-old-f": {
+  "id": "2023-05-15-test-old-f",
+  "title": "测试往年活动 F",
+  "date": "2023-05-15",
+  "summary": "第六个测试事件，时间比较早，用于测试网站按时间排序是否正确。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "活动录像（示例链接）",
+    "url": "https://www.bilibili.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "活动当天微博（示例链接）",
+    "url": "https://weibo.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "多年后回看这次活动（示例链接）",
+    "url": "https://www.zhihu.com/"
+   }
+  ]
+ },
+ "2024-09-01-test-mv-e": {
+  "id": "2024-09-01-test-mv-e",
+  "title": "测试 MV 发布 E",
+  "date": "2024-09-01",
+  "summary": "第五个测试事件，模拟一次音乐作品 MV 发布相关资料的整理方式。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "YouTube",
+    "title": "MV 正片（示例链接）",
+    "url": "https://www.youtube.com/"
+   },
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "MV 正片（国内版，示例链接）",
+    "url": "https://www.bilibili.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "MV 拍摄花絮（示例链接）",
+    "url": "https://weibo.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "小红书",
+    "title": "歌词/穿搭安利帖（示例链接）",
+    "url": "https://www.xiaohongshu.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "贴吧",
+    "title": "新歌讨论楼（示例链接）",
+    "url": "https://tieba.baidu.com/"
+   },
+   {
+    "category": "其他",
+    "platform": "媒体",
+    "title": "新闻：新歌上线各平台霸榜（示例链接）",
+    "url": "https://www.thepaper.cn/"
+   }
+  ]
+ },
+ "2024-12-25-test-variety-d": {
+  "id": "2024-12-25-test-variety-d",
+  "title": "测试综艺 D",
+  "date": "2024-12-25",
+  "summary": "第四个测试事件，模拟一次综艺节目相关资料的整理方式。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "节目完整版（示例链接）",
+    "url": "https://www.bilibili.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "抖音",
+    "title": "节目组官方切片（示例链接）",
+    "url": "https://www.douyin.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "工作室花絮图集（示例链接）",
+    "url": "https://weibo.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "这期综艺的看点是什么？（示例链接）",
+    "url": "https://www.zhihu.com/"
+   }
+  ]
+ },
+ "2025-04-20-test-interview-c": {
+  "id": "2025-04-20-test-interview-c",
+  "title": "测试专访 C",
+  "date": "2025-04-20",
+  "summary": "第三个测试事件，模拟一次媒体专访相关资料的整理方式。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "YouTube",
+    "title": "完整专访视频（示例链接）",
+    "url": "https://www.youtube.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "专访预告（示例链接）",
+    "url": "https://weibo.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "贴吧",
+    "title": "专访内容摘录讨论（示例链接）",
+    "url": "https://tieba.baidu.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "小红书",
+    "title": "专访金句合集（示例链接）",
+    "url": "https://www.xiaohongshu.com/"
+   }
+  ]
+ },
+ "2025-06-10-test-award-b": {
+  "id": "2025-06-10-test-award-b",
+  "title": "测试颁奖典礼 B",
+  "date": "2025-06-10",
+  "summary": "第二个测试事件，模拟一次颁奖典礼相关资料的整理方式。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "颁奖礼直拍（示例链接）",
+    "url": "https://www.bilibili.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "工作室获奖感言全文（示例链接）",
+    "url": "https://weibo.com/"
+   },
+   {
+    "category": "官方物料",
+    "platform": "小红书",
+    "title": "后台造型花絮（示例链接）",
+    "url": "https://www.xiaohongshu.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "这次获奖实至名归吗？（示例链接）",
+    "url": "https://www.zhihu.com/"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "抖音",
+    "title": "现场混剪视频（示例链接）",
+    "url": "https://www.douyin.com/"
+   },
+   {
+    "category": "其他",
+    "platform": "媒体",
+    "title": "新闻：获奖名单公布（示例链接）",
+    "url": "https://news.sina.com.cn/"
+   }
+  ]
+ },
+ "gala-2017-cctv": {
+  "id": "gala-2017-cctv",
+  "title": "2017年央视春晚《健康动起来》",
+  "date": "2017-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《健康动起来》",
+    "url": "https://weibo.com/1772765234/4207425291071174"
+   }
+  ]
+ },
+ "gala-2018-cctv": {
+  "id": "gala-2018-cctv",
+  "title": "2018年央视春晚《最好的舞台》",
+  "date": "2018-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《最好的舞台》",
+    "url": "https://weibo.com/2656274875/4208037613236576"
+   },
+   {
+    "category": "官方物料",
+    "platform": "Bilibili",
+    "title": "180218｜《最好的舞台》练习室版微博更新秒拍一则",
+    "url": "https://b23.tv/xj47HpW"
+   }
+  ]
+ },
+ "gala-2019-cctv": {
+  "id": "gala-2019-cctv",
+  "title": "2019年央视春晚《中国喜事》",
+  "date": "2019-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《中国喜事》",
+    "url": "https://weibo.com/5330052953/4336075151081130"
+   }
+  ]
+ },
+ "gala-2020-cctv": {
+  "id": "gala-2020-cctv",
+  "title": "2020年央视春晚《过年迪斯科》",
+  "date": "2020-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《过年迪斯科》",
+    "url": "https://weibo.com/2110705772/4464360212375552"
+   }
+  ]
+ },
+ "gala-2021-cctv": {
+  "id": "gala-2021-cctv",
+  "title": "2021年央视春晚《画卷》",
+  "date": "2021-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《画卷》",
+    "url": "https://weibo.com/5330052953/4603548211877040"
+   }
+  ]
+ },
+ "gala-2022-henan": {
+  "id": "gala-2022-henan",
+  "title": "2022年河南春晚",
+  "date": "2022-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "河南春晚舞台",
+    "url": "https://weibo.com/6089226539/4731421455548604"
+   }
+  ]
+ },
+ "gala-2023-hunan": {
+  "id": "gala-2023-hunan",
+  "title": "2023年湖南春晚/小年夜春晚",
+  "date": "2023-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《新麓山之歌》",
+    "url": "https://weibo.com/5103645868/4858281430091077"
+   },
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《面纱》",
+    "url": "https://weibo.com/5103645868/4858304490640535"
+   }
+  ]
+ },
+ "gala-2024-cctv": {
+  "id": "gala-2024-cctv",
+  "title": "2024年央视春晚《都实现》",
+  "date": "2024-01-01",
+  "summary": "央视龙年春晚·湖南长沙分会场。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《都实现》",
+    "url": "https://weibo.com/5330052953/4999658143489045"
+   }
+  ]
+ },
+ "gala-2024-hunan": {
+  "id": "gala-2024-hunan",
+  "title": "2024年湖南卫视春晚/小年春晚《财神到》",
+  "date": "2024-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《财神到》",
+    "url": "https://weibo.com/5103645868/4997423187102102"
+   }
+  ]
+ },
+ "gala-2025-cctv": {
+  "id": "gala-2025-cctv",
+  "title": "2025年央视春晚《如意舞步》",
+  "date": "2025-01-01",
+  "summary": "中央广播电视总台春节联欢晚会。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "《如意舞步》舞台｜如意舞步来，巳巳都精彩",
+    "url": "https://b23.tv/aMZjsph"
+   }
+  ]
+ },
+ "gala-2025-shandong": {
+  "id": "gala-2025-shandong",
+  "title": "2025年山东春晚",
+  "date": "2025-01-01",
+  "summary": "山东卫视春晚。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《飞天》",
+    "url": "https://weibo.com/6070136322/5127541803192983"
+   },
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "《开天》",
+    "url": "https://weibo.com/6070136322/5127521870288025"
+   }
+  ]
+ },
+ "new-year-2014": {
+  "id": "new-year-2014",
+  "title": "2014年跨年舞台",
+  "date": "2014-12-31",
+  "summary": "141231 湖南卫视。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "YouTube",
+    "title": "141231 湖南卫视",
+    "url": "https://www.youtube.com/watch?v=t6TY7kA93cs&pp=ygUaMjAxNCDlvKDoibrlhbTmuZbljZfot6jlubQ%3D"
+   }
+  ]
+ },
+ "new-year-2015": {
+  "id": "new-year-2015",
+  "title": "2015年跨年舞台",
+  "date": "2015-12-31",
+  "summary": "151231 东方卫视跨年，YIXING+MYM 多视角 <LAY-ZONE兴域>。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "151231 东方卫视跨年 YIXING+MYM 多视角 <LAY-ZONE兴域>",
+    "url": "https://www.bilibili.com/video/BV17s411R7iF/"
+   }
+  ]
+ },
+ "new-year-2016": {
+  "id": "new-year-2016",
+  "title": "2016年跨年舞台",
+  "date": "2016-12-31",
+  "summary": "161231 东方卫视跨年。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "YouTube",
+    "title": "161231 东方卫视",
+    "url": "https://www.youtube.com/watch?v=g7DS1F-3LGk&pp=ygUT5byg6Im65YW0MjAxN-i3qOW5tA%3D%3D"
+   }
+  ]
+ },
+ "new-year-2017": {
+  "id": "new-year-2017",
+  "title": "2017年跨年舞台",
+  "date": "2017-12-31",
+  "summary": "171231 湖南卫视跨年，BOSS+MASK+SHEEP。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "171231 湖南卫视跨年 LAY focus[Chère Mamie]",
+    "url": "https://www.bilibili.com/video/BV12W411q7Vk/?"
+   }
+  ]
+ },
+ "new-year-2018": {
+  "id": "new-year-2018",
+  "title": "2018年跨年舞台",
+  "date": "2018-12-31",
+  "summary": "181231 湖南卫视跨年。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "YouTube",
+    "title": "181231 湖南卫视",
+    "url": "https://www.youtube.com/watch?v=SzzJxsqcNL8&pp=ygUf5byg6Im65YW0MjAxNOa5luWNl-WNq-inhui3qOW5tA%3D%3D"
+   }
+  ]
+ },
+ "new-year-2019-dreaming-rainforest": {
+  "id": "new-year-2019-dreaming-rainforest",
+  "title": "梦不落雨林",
+  "date": "2019-12-31",
+  "summary": "2019年跨年舞台《梦不落雨林》。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "梦不落雨林",
+    "url": "https://www.bilibili.com/video/BV1gJ411j7eG"
+   }
+  ]
+ },
+ "new-year-2019-farewell-concubine": {
+  "id": "new-year-2019-farewell-concubine",
+  "title": "霸王别姬",
+  "date": "2019-12-31",
+  "summary": "2019年跨年舞台《霸王别姬》。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "微博",
+    "title": "官方舞台",
+    "url": "https://weibo.com/2110705772/4455685217570274"
+   },
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "官方观察日记",
+    "url": "https://www.bilibili.com/video/BV19J411h7bL?vd_source=53b81bf835835cf99b61f02aa0ab2529&p=2&spm_id_from=333.788.videopod.episodes"
+   },
+   {
+    "category": "官方物料",
+    "platform": "微博",
+    "title": "官方物料",
+    "url": "https://weibo.com/5582937157/4455724295760349"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "舞台赏析",
+    "url": "https://www.zhihu.com/question/364040856"
+   },
+   {
+    "category": "其他",
+    "platform": "Bilibili",
+    "title": "饭拍 Cr FAIRYIXING1007",
+    "url": "https://www.bilibili.com/video/BV19J411h7bL?vd_source=53b81bf835835cf99b61f02aa0ab2529&spm_id_from=333.788.videopod.episodes"
+   },
+   {
+    "category": "其他",
+    "platform": "Bilibili",
+    "title": "饭拍白两省",
+    "url": "https://www.bilibili.com/video/BV1aJ411b7Lr?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-4gb82.1788745312445.737&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+   }
+  ]
+ },
+ "new-year-2020": {
+  "id": "new-year-2020",
+  "title": "2020年跨年舞台",
+  "date": "2020-12-31",
+  "summary": "浙江卫视跨年。正式舞台链接待补充。",
+  "materials": [
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "你们觉得张艺兴浙江卫视跨年开场怎么样？",
+    "url": "https://www.zhihu.com/question/437337653"
+   }
+  ]
+ },
+ "new-year-2021": {
+  "id": "new-year-2021",
+  "title": "2021年跨年舞台",
+  "date": "2021-12-31",
+  "summary": "链接待补充。",
+  "materials": []
+ },
+ "new-year-2022": {
+  "id": "new-year-2022",
+  "title": "2022年跨年舞台",
+  "date": "2022-12-31",
+  "summary": "东方卫视跨年，《沸》《面纱》。正式舞台链接待补充。",
+  "materials": [
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "如何评价张艺兴在东方卫视跨年晚会表演的《沸》《面纱》？",
+    "url": "https://www.zhihu.com/question/575926427/answer/2824427701"
+   }
+  ]
+ },
+ "new-year-2023": {
+  "id": "new-year-2023",
+  "title": "2023年跨年舞台",
+  "date": "2023-12-31",
+  "summary": "链接待补充。",
+  "materials": []
+ },
+ "new-year-2024": {
+  "id": "new-year-2024",
+  "title": "2024年跨年舞台《Psychic》《传说》《找自己》",
+  "date": "2024-12-31",
+  "summary": "241231 江苏卫视跨年。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "【张艺兴】241231 江苏卫视跨年《Psychic》《传说》《找自己》",
+    "url": "https://www.bilibili.com/video/BV1jf6iY6E73"
+   }
+  ]
+ },
+ "new-year-2025": {
+  "id": "new-year-2025",
+  "title": "2025年跨年舞台《Would U Be Mine》",
+  "date": "2025-12-31",
+  "summary": "251231 北京卫视跨年之夜。",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "【张艺兴 X 舞台】《Would U Be Mine》北京卫视跨年之夜｜唱响新年",
+    "url": "https://www.bilibili.com/video/BV1V2iuBzEus"
+   }
+  ]
+ },
+ "other-stage-2019": {
+  "id": "other-stage-2019",
+  "title": "2019年其他舞台",
+  "date": "2019-01-01",
+  "summary": "",
+  "materials": [
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "【张艺兴】《》《》有内味儿了",
+    "url": "https://www.bilibili.com/video/BV16J411S73j"
+   },
+   {
+    "category": "其他",
+    "platform": "Bilibili",
+    "title": "Cr 76 饭拍补丁",
+    "url": "https://www.bilibili.com/video/BV1kJ411S79B?spm_id_from=333.788.videopod.episodes&vd_source=53b81bf835835cf99b61f02aa0ab2529&p=2"
+   },
+   {
+    "category": "正式内容",
+    "platform": "Bilibili",
+    "title": "张艺兴2019天猫王炸舞台带军训式应援",
+    "url": "https://www.bilibili.com/video/BV15J411U7nS"
+   },
+   {
+    "category": "当时的讨论",
+    "platform": "知乎",
+    "title": "如何评价张艺兴在天猫双十一狂欢夜晚会上的表演？（包含艺兴微博）",
+    "url": "https://www.zhihu.com/question/355215614/answer/889647284"
+   }
+  ]
+ },
+ "tour1-bangkok": {
+  "id": "tour1-bangkok",
+  "title": "曼谷",
+  "date": "",
+  "summary": "一巡场次，资料待补充。",
+  "materials": []
+ },
+ "tour1-changsha-online": {
+  "id": "tour1-changsha-online",
+  "title": "长沙线上",
+  "date": "",
+  "summary": "一巡场次，资料待补充。",
+  "materials": []
+ },
+ "tour1-kualalumpur": {
+  "id": "tour1-kualalumpur",
+  "title": "吉隆坡",
+  "date": "",
+  "summary": "一巡场次，资料待补充。",
+  "materials": []
+ },
+ "tour1-sanfrancisco": {
+  "id": "tour1-sanfrancisco",
+  "title": "旧金山",
+  "date": "",
+  "summary": "一巡场次，资料待补充。",
+  "materials": []
+ },
+ "tour1-singapore": {
+  "id": "tour1-singapore",
+  "title": "新加坡",
+  "date": "",
+  "summary": "一巡场次，资料待补充。",
+  "materials": []
+ }
+}

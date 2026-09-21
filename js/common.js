@@ -41,6 +41,19 @@ async function fetchJson(url) {
   return res.json();
 }
 
+let eventsBundlePromise = null;
+
+// 所有事件文件打包成的一份 data/events-bundle.json（生成脚本：tools/generate-events-bundle.py），
+// 只在真正需要"把很多个事件的内容都看一遍"时才用这个（比如点赞汇总、全站搜索建索引）——
+// 只看"某一个具体事件"的详情页（event.html）还是直接读它自己那个文件就够了，不需要整份都拉下来。
+// 用 Promise 缓存住，一个页面里不管被调用几次都只会真正发一次请求。
+function fetchEventsBundle() {
+  if (!eventsBundlePromise) {
+    eventsBundlePromise = fetchJson("data/events-bundle.json").catch(() => ({}));
+  }
+  return eventsBundlePromise;
+}
+
 async function loadAllEvents() {
   const manifest = await fetchJson("data/events/manifest.json");
   const events = await Promise.all(

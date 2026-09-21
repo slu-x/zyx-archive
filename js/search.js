@@ -1,5 +1,5 @@
 // 全站搜索：完全在浏览器里进行，不需要服务器参与。
-// 打开任意一个页面时，会把 nav.json + 所有被引用到的事件文件读一遍，
+// 打开任意一个页面时，会把 nav.json + 所有事件的内容读一遍，
 // 在内存里拼成一份"搜索用清单"，然后根据输入框内容做关键字匹配。
 
 let searchIndexPromise = null;
@@ -7,7 +7,7 @@ let searchIndexPromise = null;
 async function buildSearchIndex() {
   const nav = await loadNav();
   const records = [];
-  const eventRefs = []; // 收集所有要拉取的事件文件，最后一次性并发请求，不逐个排队
+  const eventRefs = []; // 收集所有要用到的事件，统一从打包文件里查，不是分别去发请求
 
   // 第一遍：只做同步的事情（读 nav.json 里已经有的内容），不等待任何网络请求
   function walk(node, crumbs) {
@@ -42,38 +42,33 @@ async function buildSearchIndex() {
 
   walk(rootNode(nav), []);
 
-  // 第二遍：所有事件文件一次性并发请求（而不是一个个排队），事件越多也不会让搜索变慢
-  const eventRecordLists = await Promise.all(
-    eventRefs.map(async ({ eventId, crumbText }) => {
-      try {
-        const ev = await fetchJson(`data/events/${eventId}.json`);
-        const list = [
-          {
-            title: ev.title,
-            subtitle: crumbText,
-            href: `event.html?id=${encodeURIComponent(ev.id)}`,
-            external: false,
-            keywords: `${ev.title} ${ev.summary || ""}`.toLowerCase(),
-          },
-        ];
-        for (const m of ev.materials || []) {
-          list.push({
-            title: m.title || "(未命名链接)",
-            subtitle: `${crumbText} › ${ev.title} · ${m.platform || ""}`,
-            href: m.url,
-            external: true,
-            keywords: `${m.title || ""} ${m.platform || ""} ${ev.title}`.toLowerCase(),
-          });
-        }
-        return list;
-      } catch (err) {
-        console.warn("搜索索引：事件加载失败", eventId, err);
-        return [];
-      }
-    })
-  );
+  // 第二遍：事件内容从打包文件（data/events-bundle.json）里查，整个建索引过程只有
+  // nav.json + 这一份打包文件两次请求，不会随事件数量变多而变慢
+  const bundle = await fetchEventsBundle();
+  for (const { eventId, crumbText } of eventRefs) {
+    const ev = bundle[eventId];
+    if (!ev) {
+      console.warn("搜索索引：事件加载失败", eventId);
+      continue;
+    }
+    records.push({
+      title: ev.title,
+      subtitle: crumbText,
+      href: `event.html?id=${encodeURIComponent(ev.id)}`,
+      external: false,
+      keywords: `${ev.title} ${ev.summary || ""}`.toLowerCase(),
+    });
+    for (const m of ev.materials || []) {
+      records.push({
+        title: m.title || "(未命名链接)",
+        subtitle: `${crumbText} › ${ev.title} · ${m.platform || ""}`,
+        href: m.url,
+        external: true,
+        keywords: `${m.title || ""} ${m.platform || ""} ${ev.title}`.toLowerCase(),
+      });
+    }
+  }
 
-  for (const list of eventRecordLists) records.push(...list);
   return records;
 }
 

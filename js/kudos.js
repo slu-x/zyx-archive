@@ -2,16 +2,18 @@
 // 页面打开时一次性拉取全部点赞数，点了之后在浏览器本地记一下"这个人点过"（localStorage），
 // 刷新页面还能看到自己点过的是实心状态。
 //
-// 每个"分类/事件"卡片显示的数字是"汇总数字"：它自己被点的次数 + 它底下所有子分类/事件
-// 被点次数的总和，一路往上加（比如点赞"霸王别姬"这个事件，"跨年舞台""舞台之神""综合"
-// 这几层显示的数字都会跟着多 1）。这个汇总完全是前端算的，只沿着已经加载好的 nav.json
-// 树走，不会另外发请求；服务器那边还是只存"每个 id 自己被点了几次"这么简单的一份数据，
-// 好处是改分类结构、加新链接都不用去动服务器数据。
+// 每个"分类/事件"卡片显示的数字是"汇总数字"：它自己被点的次数 + 它底下所有子分类/事件/
+// 物料链接被点次数的总和，一路往上加（比如在某个事件详情页里单独点赞一条物料链接，这个
+// 事件、以及它往上的每一层分类，显示的数字都会跟着多 1）。这个汇总完全是前端算的，服务器
+// 那边还是只存"每个 id 自己被点了几次"这么简单的一份数据，好处是改分类结构、加新链接都
+// 不用去动服务器数据。
 //
-// 注意：这个汇总只到"事件"这一层为止，不会再往下钻进事件详情页里每一条物料链接
-// （早期版本钻过，首页要给好几个大 tab 算汇总，等于要把几十个事件文件全部现读一遍，
-// 实测多发 30+ 个请求、明显拖慢访问速度，所以改成只在 nav.json 已有的树上算，见
-// computeKudosTotal 那段注释）。
+// 事件的物料内容来自 data/events-bundle.json（common.js 的 fetchEventsBundle()，全部事件
+// 打包成的一份文件，一次请求，不是一个个事件文件单独去拉）——早期版本是现拉每个事件自己的
+// json 文件，首页给好几个大 tab 算汇总，等于要把几十个事件文件全部现读一遍，实测多发 30+
+// 个请求、明显拖慢访问速度；改成读这一份打包文件之后，不管分类里有多少事件，都只多这一次
+// 请求。**这份打包文件是衍生文件，改了 data/events/ 下面任何一个事件之后要记得重新跑一次
+// tools/generate-events-bundle.py**，见 PROJECT_HANDOFF.md。
 //
 // 如果以后要整个撤掉这个功能：删掉这个文件、删掉 style.css 里 KUDOS 那一段、
 // 把 category.js / event.js 里包 kudos 按钮的那层 <div class="node-card-row"> 换回单独的
@@ -81,23 +83,28 @@ function fetchKudosCounts() {
 // 整个计算完全基于已经在内存里的 nav.json，不用再多发一个请求。代价是"事件详情页里单独点赞
 // 某一条物料链接"不会往上算进事件/分类的汇总数字——只有事件卡片本身被点赞才会往上算，
 // 这个取舍是为了保住首页/分类页的加载速度。
-function computeKudosTotal(node, counts) {
-  if (!node || node.type === "divider" || node.type === "link") {
-    if (!node || node.type === "divider") return 0;
+async function computeKudosTotal(node, counts) {
+  if (!node || node.type === "divider") return 0;
+
+  if (node.type === "link") {
     if (!node.url) return 0;
     return counts[kudosIdForLink(node.url)] || 0;
   }
 
   if (node.type === "event") {
-    return counts[kudosIdForEvent(node.eventId)] || 0;
+    let total = counts[kudosIdForEvent(node.eventId)] || 0;
+    const bundle = await fetchEventsBundle();
+    const ev = bundle[node.eventId];
+    for (const m of (ev && ev.materials) || []) {
+      if (m.url) total += counts[kudosIdForLink(m.url)] || 0;
+    }
+    return total;
   }
 
   // 文件夹节点
   let total = counts[kudosIdForFolder(node.id)] || 0;
-  for (const c of node.children || []) {
-    total += computeKudosTotal(c, counts);
-  }
-  return total;
+  const childTotals = await Promise.all((node.children || []).map((c) => computeKudosTotal(c, counts)));
+  return total + childTotals.reduce((a, b) => a + b, 0);
 }
 
 function kudosHeartSvg(filled) {
