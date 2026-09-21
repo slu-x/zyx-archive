@@ -29,6 +29,13 @@ header.site-header {
   margin: 0 auto;
 }
 
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}
+
 header.site-header h1 {
   font-size: 22px;
   margin: 0 0 4px;
@@ -38,6 +45,19 @@ header.site-header p.tagline {
   margin: 0;
   color: var(--muted);
   font-size: 14px;
+}
+
+.contribute-link {
+  flex-shrink: 0;
+  margin-top: 2px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.contribute-link:hover {
+  text-decoration: underline;
 }
 
 main {
