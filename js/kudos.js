@@ -2,10 +2,16 @@
 // 页面打开时一次性拉取全部点赞数，点了之后在浏览器本地记一下"这个人点过"（localStorage），
 // 刷新页面还能看到自己点过的是实心状态。
 //
-// 每个"分类/事件"卡片显示的数字是"汇总数字"：它自己被点的次数 + 它底下所有子分类/事件/
-// 链接被点次数的总和，一路往上加（比如点赞"霸王别姬"这个事件，"跨年舞台""舞台之神""综合"
-// 这几层显示的数字都会跟着多 1）。这个汇总完全是前端算的，服务器那边还是只存"每个 id 自己
-// 被点了几次"这么简单的一份数据，好处是改分类结构、加新链接都不用去动服务器数据。
+// 每个"分类/事件"卡片显示的数字是"汇总数字"：它自己被点的次数 + 它底下所有子分类/事件
+// 被点次数的总和，一路往上加（比如点赞"霸王别姬"这个事件，"跨年舞台""舞台之神""综合"
+// 这几层显示的数字都会跟着多 1）。这个汇总完全是前端算的，只沿着已经加载好的 nav.json
+// 树走，不会另外发请求；服务器那边还是只存"每个 id 自己被点了几次"这么简单的一份数据，
+// 好处是改分类结构、加新链接都不用去动服务器数据。
+//
+// 注意：这个汇总只到"事件"这一层为止，不会再往下钻进事件详情页里每一条物料链接
+// （早期版本钻过，首页要给好几个大 tab 算汇总，等于要把几十个事件文件全部现读一遍，
+// 实测多发 30+ 个请求、明显拖慢访问速度，所以改成只在 nav.json 已有的树上算，见
+// computeKudosTotal 那段注释）。
 //
 // 如果以后要整个撤掉这个功能：删掉这个文件、删掉 style.css 里 KUDOS 那一段、
 // 把 category.js / event.js 里包 kudos 按钮的那层 <div class="node-card-row"> 换回单独的
@@ -18,7 +24,6 @@ const KUDOS_API = "/api/kudos";
 const KUDOS_LS_KEY = "zyx-archive-kudos-liked";
 
 let kudosCountsPromise = null;
-const kudosEventJsonCache = new Map();
 
 function fnv1aHash(str) {
   let hash = 0x811c9dc5;
@@ -66,40 +71,33 @@ function fetchKudosCounts() {
   return kudosCountsPromise;
 }
 
-function fetchEventJsonForKudos(eventId) {
-  if (!kudosEventJsonCache.has(eventId)) {
-    kudosEventJsonCache.set(
-      eventId,
-      fetchJson(`data/events/${eventId}.json`).catch(() => ({ materials: [] }))
-    );
-  }
-  return kudosEventJsonCache.get(eventId);
-}
-
-// 递归算一个节点自己 + 底下所有内容的点赞总数。link 没有"底下"，直接查自己；
-// event 要把它 materials 里每条链接也加进来；文件夹要把每个子节点的总数都加起来。
-async function computeKudosTotal(node, counts) {
-  if (!node || node.type === "divider") return 0;
-
-  if (node.type === "link") {
+// 递归算一个节点自己 + 底下所有内容的点赞总数，只沿着 nav.json 里已经加载好的树走，
+// 不会再额外发请求（这是修过一次性能问题之后的版本，见下面的说明）。
+//
+// 【2026-09-20 晚些时候修过一次性能问题】最早的版本里，事件节点还会去把它 data/events/*.json
+// 里每条物料链接的赞数也加进来，这样算需要现拉取那个事件的 json 文件——首页这种要给好几个
+// 顶层大 tab 算汇总的页面，等于要把底下几十个事件文件全部现读一遍，实测多发了 30+ 个请求，
+// 网站明显变慢。改成现在这样"文件夹/事件只算自己的赞数往上加，不钻进事件内部的物料链接"，
+// 整个计算完全基于已经在内存里的 nav.json，不用再多发一个请求。代价是"事件详情页里单独点赞
+// 某一条物料链接"不会往上算进事件/分类的汇总数字——只有事件卡片本身被点赞才会往上算，
+// 这个取舍是为了保住首页/分类页的加载速度。
+function computeKudosTotal(node, counts) {
+  if (!node || node.type === "divider" || node.type === "link") {
+    if (!node || node.type === "divider") return 0;
     if (!node.url) return 0;
     return counts[kudosIdForLink(node.url)] || 0;
   }
 
   if (node.type === "event") {
-    let total = counts[kudosIdForEvent(node.eventId)] || 0;
-    const ev = await fetchEventJsonForKudos(node.eventId);
-    for (const m of ev.materials || []) {
-      if (m.url) total += counts[kudosIdForLink(m.url)] || 0;
-    }
-    return total;
+    return counts[kudosIdForEvent(node.eventId)] || 0;
   }
 
   // 文件夹节点
   let total = counts[kudosIdForFolder(node.id)] || 0;
-  const children = node.children || [];
-  const childTotals = await Promise.all(children.map((c) => computeKudosTotal(c, counts)));
-  return total + childTotals.reduce((a, b) => a + b, 0);
+  for (const c of node.children || []) {
+    total += computeKudosTotal(c, counts);
+  }
+  return total;
 }
 
 function kudosHeartSvg(filled) {
