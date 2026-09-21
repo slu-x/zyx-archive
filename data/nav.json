@@ -2207,10 +2207,22 @@
           "title": "救灾应急",
           "children": [
             {
+              "type": "event",
+              "eventId": "gongyi-liaoning-flood-2025"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-guangxi-flood-2025"
+            },
+            {
               "type": "link",
               "platform": "微博",
               "title": "西藏吉隆泥石流灾情捐赠（“钢铁贝壳”代表）",
               "url": "https://weibo.com/2010286582/5336642513797703"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-huabei-flood-2025"
             },
             {
               "type": "event",
@@ -2221,18 +2233,6 @@
               "platform": "壹基金",
               "title": "“张艺兴的钢铁贝壳”支持西藏定日地震救援",
               "url": "https://onefoundation.cn/news/678880dbc65eedad90/"
-            },
-            {
-              "type": "event",
-              "eventId": "gongyi-guangxi-flood-2025"
-            },
-            {
-              "type": "event",
-              "eventId": "gongyi-liaoning-flood-2025"
-            },
-            {
-              "type": "event",
-              "eventId": "gongyi-huabei-flood-2025"
             },
             {
               "type": "link",
@@ -2295,14 +2295,14 @@
               "url": "https://gongyi.sina.cn/gyzx/fr/2022-04-22/detail-imcwipii5872307.d.html?vt=4"
             },
             {
+              "type": "event",
+              "eventId": "gongyi-covid-donations-2020"
+            },
+            {
               "type": "link",
               "platform": "中国社会福利基金会",
               "title": "张艺兴工作室联合海外音乐人援助抗疫英雄遗属",
               "url": "https://www.cswef.org/cswef/news/detail/id/526.html"
-            },
-            {
-              "type": "event",
-              "eventId": "gongyi-covid-donations-2020"
             },
             {
               "type": "link",
@@ -2315,12 +2315,6 @@
               "platform": "新浪娱乐",
               "title": "张艺兴捐赠救护车交付报道",
               "url": "https://ent.sina.com.cn/s/m/2017-01-10/doc-ifxzkfuk3350003.shtml"
-            },
-            {
-              "type": "link",
-              "platform": "知乎",
-              "title": "张艺兴工作室捐赠近三十万只口罩并且进行医院小区派出所精准投放是什么概念？",
-              "url": "https://www.zhihu.com/question/369913960/answer/1007312353"
             }
           ]
         },
