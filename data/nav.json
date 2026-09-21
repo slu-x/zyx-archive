@@ -2203,16 +2203,306 @@
       "color": "#4E4059",
       "children": [
         {
-          "type": "link",
-          "platform": "知乎",
-          "title": "张艺兴工作室捐赠近三十万只口罩并且进行医院小区派出所精准投放是什么概念？",
-          "url": "https://www.zhihu.com/question/369913960/answer/1007312353"
+          "id": "disaster-relief",
+          "title": "救灾应急",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "西藏吉隆泥石流灾情捐赠（“钢铁贝壳”代表）",
+              "url": "https://weibo.com/2010286582/5336642513797703"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-xizang-earthquake-2026"
+            },
+            {
+              "type": "link",
+              "platform": "壹基金",
+              "title": "“张艺兴的钢铁贝壳”支持西藏定日地震救援",
+              "url": "https://onefoundation.cn/news/678880dbc65eedad90/"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-guangxi-flood-2025"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-liaoning-flood-2025"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-huabei-flood-2025"
+            },
+            {
+              "type": "link",
+              "platform": "中国社会福利基金会",
+              "title": "张艺兴参与甘肃积石山地震灾区物资援助",
+              "url": "https://www.cswef.org/index.php/cswef/news/detail/id/1304.html"
+            },
+            {
+              "type": "link",
+              "platform": "青岛新闻网",
+              "title": "染色体娱乐捐赠50万元驰援英德、溆浦洪灾",
+              "url": "https://ent.qingdaonews.com/2022-06/25/content_23262348.htm"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【2022染色体娱乐集团驰援广东英德、湖南溆浦公益落实汇总",
+              "url": "https://weibo.com/5330052953/LzlqPxvL4"
+            },
+            {
+              "type": "link",
+              "platform": "中国社会福利基金会",
+              "title": "张艺兴工作室驰援河南洪灾",
+              "url": "https://www.cswef.org/index.php/cswef/news/detail/id/1076.html"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴工作室驰援山西洪灾物资进展",
+              "url": "https://www.weibo.com/3352934964/KCm4qx6Zc"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【2021张艺兴&粉丝驰援河南公益汇总",
+              "url": "https://weibo.com/5330052953/KqS7s5yxB"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "210723｜张艺兴 河南汛情捐助汇总（截止至2021/07/23）",
+              "url": "https://weibo.com/5330052953/Kq72L4umN"
+            },
+            {
+              "type": "link",
+              "platform": "微博微公益",
+              "title": "“钢铁贝壳抗击洪灾”项目及执行反馈",
+              "url": "https://gongyi.weibo.com/239796"
+            }
+          ]
         },
         {
-          "type": "link",
-          "platform": "知乎",
-          "title": "张艺兴旗下染色体公益基因开始运营，将公示公益推进情况，但不对外募集资金或接收捐赠。大家怎么看？",
-          "url": "https://www.zhihu.com/question/485727296"
+          "id": "health-medical",
+          "title": "医疗健康",
+          "children": [
+            {
+              "type": "link",
+              "platform": "新浪公益",
+              "title": "张艺兴捐赠2辆负压救护车支援上海抗疫",
+              "url": "https://gongyi.sina.cn/gyzx/fr/2022-04-22/detail-imcwipii5872307.d.html?vt=4"
+            },
+            {
+              "type": "link",
+              "platform": "中国社会福利基金会",
+              "title": "张艺兴工作室联合海外音乐人援助抗疫英雄遗属",
+              "url": "https://www.cswef.org/cswef/news/detail/id/526.html"
+            },
+            {
+              "type": "event",
+              "eventId": "gongyi-covid-donations-2020"
+            },
+            {
+              "type": "link",
+              "platform": "北京时间",
+              "title": "张艺兴参加芭莎慈善夜捐赠15辆救护车",
+              "url": "https://item.btime.com/06vvk44k08mofuc2rbs7ic7bfn6"
+            },
+            {
+              "type": "link",
+              "platform": "新浪娱乐",
+              "title": "张艺兴捐赠救护车交付报道",
+              "url": "https://ent.sina.com.cn/s/m/2017-01-10/doc-ifxzkfuk3350003.shtml"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴工作室捐赠近三十万只口罩并且进行医院小区派出所精准投放是什么概念？",
+              "url": "https://www.zhihu.com/question/369913960/answer/1007312353"
+            }
+          ]
+        },
+        {
+          "id": "child-welfare",
+          "title": "儿童关怀",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "𝟏𝟏𝟐𝟎世界儿童日关注乡村地区儿童多元发展关爱儿童主题公益月",
+              "url": "https://weibo.com/1274469185/5102478039190799"
+            },
+            {
+              "type": "link",
+              "platform": "人民网",
+              "title": "张艺兴与《青春有你》训练生参与太阳村物资公益",
+              "url": "https://ent.people.com.cn/n1/2019/0301/c1012-30952823.html"
+            },
+            {
+              "type": "link",
+              "platform": "新浪娱乐",
+              "title": "张艺兴参与“极限公益成长计划”探访打工子弟学校",
+              "url": "https://ent.sina.com.cn/z/v/2016-04-09/doc-ifxrcizs7118512.shtml"
+            },
+            {
+              "type": "link",
+              "platform": "微博微公益",
+              "title": "张艺兴参与儿童福利院探访及公益捐赠",
+              "url": "https://gongyi.weibo.com/auction/detail?goods_id=200805"
+            }
+          ]
+        },
+        {
+          "id": "music-rural-education",
+          "title": "音乐/乡村教育",
+          "children": [
+            {
+              "type": "link",
+              "platform": "中国乡村发展基金会",
+              "title": "张艺兴工作室参与童伴之家音乐公益项目",
+              "url": "https://www.cfpa.org.cn/news/news_detail.aspx?articleid=4281"
+            },
+            {
+              "type": "link",
+              "platform": "中国乡村发展基金会",
+              "title": "“乐响童年”乡村儿童合唱团项目报告",
+              "url": "https://img.cfpa.org.cn/gwfiles/file/20250124/20250124175010_9191.pdf"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "“星权·张艺兴奖教助学金”设立并发放",
+              "url": "https://www.weibo.com/6060097900/Jw9wDagpb"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "“音乐种子计划”捐建10所多媒体音乐教室",
+              "url": "https://www.weibo.com/ttarticle/p/show?id=2309404606088418033987"
+            },
+            {
+              "type": "link",
+              "platform": "红网",
+              "title": "张艺兴发起公益星计划关注山区儿童教育",
+              "url": "https://ent.rednet.cn/c/2018/09/05/4722452.htm"
+            },
+            {
+              "type": "link",
+              "platform": "湖南师大附中官网",
+              "title": "张艺兴捐赠100万元设立音乐奖学金",
+              "url": "https://www.hnsdfz.org/fzxytd/xyjz/content_7021"
+            }
+          ]
+        },
+        {
+          "id": "fan-charity-advocacy",
+          "title": "粉丝公益/倡导",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "电影《孤注一掷》×张艺兴资讯台反诈公益场｜郑州媒体报道汇总",
+              "url": "https://weibo.com/5330052953/NfvDcd9WV"
+            },
+            {
+              "type": "link",
+              "platform": "中华网",
+              "title": "张艺兴将线上演唱会特殊机位所得用于公益",
+              "url": "https://ent.china.com/gundong/11015422/20220726/42926094.html"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴飞天公益计划——品牌参与认领汇总",
+              "url": "https://weibo.com/5330052953/KC6bkkt4M"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "暴雨洪涝安全注意事项资料搜集汇总",
+              "url": "https://weibo.com/5330052953/KpHBF046L"
+            },
+            {
+              "type": "link",
+              "platform": "新浪新闻",
+              "title": "张艺兴代表粉丝向9所贫困小学捐助益心书屋",
+              "url": "https://news.sina.cn/2016-07-12/detail-ifxtwchx8599431.d.html"
+            },
+            {
+              "type": "link",
+              "platform": "搜狐体育",
+              "title": "张艺兴参与“希望之颠”校园足球公益传递",
+              "url": "https://sports.sohu.com/20150912/n420976567.shtml"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴粉丝公益基金项目介绍及执行记录",
+              "url": "https://gongyi.weibo.com/r/225091"
+            }
+          ]
+        },
+        {
+          "id": "sports-culture",
+          "title": "体育/文化",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260524｜张艺兴「电影人公益示范行」直播CUT——讲述《演员 在担当》",
+              "url": "https://video.weibo.com/show?fid=1034:5302224767615036"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260524｜西安白鹿原「电影人公益示范行」张艺兴饭拍汇总",
+              "url": "https://weibo.com/7774429542/R0Ui5ug2A"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260516｜易捷“微光护航·环塔筑梦”公益活动启动仪式直播 张艺兴Cut",
+              "url": "https://video.weibo.com/show?fid=1034:5299261374660645"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260516｜张艺兴2026“爱跑·中国”环塔国际拉力赛相关饭拍汇总",
+              "url": "https://weibo.com/7774429542/QFKgksEUR"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "云中公益·看见青海｜守护高原之美，走进青海高原，守护生生不息的非遗文化力量",
+              "url": "https://weibo.com/3367424764/5338734881145859"
+            }
+          ]
+        },
+        {
+          "id": "charity-other",
+          "title": "其他",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴的钢铁贝壳“清凉一夏，「艺」起优活”公益活动返图汇总",
+              "url": "https://weibo.com/7774429542/PFkv0gpSp"
+            },
+            {
+              "type": "link",
+              "platform": "新华网",
+              "title": "张艺兴以志愿者身份探访养老院",
+              "url": "https://www.xinhuanet.com/ent/gyyb/index.htm"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "张艺兴旗下染色体公益基因开始运营，将公示公益推进情况，但不对外募集资金或接收捐赠。大家怎么看？",
+              "url": "https://www.zhihu.com/question/485727296"
+            }
+          ]
         }
       ]
     },
