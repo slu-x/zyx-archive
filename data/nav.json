@@ -2207,6 +2207,10 @@
           "title": "救灾应急",
           "children": [
             {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
               "type": "event",
               "eventId": "gongyi-liaoning-flood-2025"
             },
@@ -2219,6 +2223,10 @@
               "platform": "微博",
               "title": "西藏吉隆泥石流灾情捐赠（“钢铁贝壳”代表）",
               "url": "https://weibo.com/2010286582/5336642513797703"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
             },
             {
               "type": "event",
@@ -2235,10 +2243,18 @@
               "url": "https://onefoundation.cn/news/678880dbc65eedad90/"
             },
             {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
               "type": "link",
               "platform": "中国社会福利基金会",
               "title": "张艺兴参与甘肃积石山地震灾区物资援助",
               "url": "https://www.cswef.org/index.php/cswef/news/detail/id/1304.html"
+            },
+            {
+              "type": "divider",
+              "label": "2022年"
             },
             {
               "type": "link",
@@ -2251,6 +2267,10 @@
               "platform": "微博",
               "title": "【2022染色体娱乐集团驰援广东英德、湖南溆浦公益落实汇总",
               "url": "https://weibo.com/5330052953/LzlqPxvL4"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
             },
             {
               "type": "link",
@@ -2277,6 +2297,10 @@
               "url": "https://weibo.com/5330052953/Kq72L4umN"
             },
             {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
               "type": "link",
               "platform": "微博微公益",
               "title": "“钢铁贝壳抗击洪灾”项目及执行反馈",
@@ -2289,10 +2313,18 @@
           "title": "医疗健康",
           "children": [
             {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
               "type": "link",
               "platform": "新浪公益",
               "title": "张艺兴捐赠2辆负压救护车支援上海抗疫",
               "url": "https://gongyi.sina.cn/gyzx/fr/2022-04-22/detail-imcwipii5872307.d.html?vt=4"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
             },
             {
               "type": "event",
@@ -2303,6 +2335,10 @@
               "platform": "中国社会福利基金会",
               "title": "张艺兴工作室联合海外音乐人援助抗疫英雄遗属",
               "url": "https://www.cswef.org/cswef/news/detail/id/526.html"
+            },
+            {
+              "type": "divider",
+              "label": "2017年"
             },
             {
               "type": "link",
@@ -2323,10 +2359,18 @@
           "title": "儿童关怀",
           "children": [
             {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
               "type": "link",
               "platform": "微博",
               "title": "𝟏𝟏𝟐𝟎世界儿童日关注乡村地区儿童多元发展关爱儿童主题公益月",
               "url": "https://weibo.com/1274469185/5102478039190799"
+            },
+            {
+              "type": "divider",
+              "label": "2019年"
             },
             {
               "type": "link",
@@ -2335,10 +2379,18 @@
               "url": "https://ent.people.com.cn/n1/2019/0301/c1012-30952823.html"
             },
             {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
               "type": "link",
               "platform": "新浪娱乐",
               "title": "张艺兴参与“极限公益成长计划”探访打工子弟学校",
               "url": "https://ent.sina.com.cn/z/v/2016-04-09/doc-ifxrcizs7118512.shtml"
+            },
+            {
+              "type": "divider",
+              "label": "2014年"
             },
             {
               "type": "link",
@@ -2353,6 +2405,10 @@
           "title": "音乐/乡村教育",
           "children": [
             {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
               "type": "link",
               "platform": "中国乡村发展基金会",
               "title": "张艺兴工作室参与童伴之家音乐公益项目",
@@ -2365,10 +2421,18 @@
               "url": "https://img.cfpa.org.cn/gwfiles/file/20250124/20250124175010_9191.pdf"
             },
             {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
               "type": "link",
               "platform": "微博",
               "title": "“星权·张艺兴奖教助学金”设立并发放",
               "url": "https://www.weibo.com/6060097900/Jw9wDagpb"
+            },
+            {
+              "type": "divider",
+              "label": "2019年"
             },
             {
               "type": "link",
@@ -2377,10 +2441,18 @@
               "url": "https://www.weibo.com/ttarticle/p/show?id=2309404606088418033987"
             },
             {
+              "type": "divider",
+              "label": "2018年"
+            },
+            {
               "type": "link",
               "platform": "红网",
               "title": "张艺兴发起公益星计划关注山区儿童教育",
               "url": "https://ent.rednet.cn/c/2018/09/05/4722452.htm"
+            },
+            {
+              "type": "divider",
+              "label": "2016年"
             },
             {
               "type": "link",
@@ -2395,16 +2467,28 @@
           "title": "粉丝公益/倡导",
           "children": [
             {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
               "type": "link",
               "platform": "微博",
               "title": "电影《孤注一掷》×张艺兴资讯台反诈公益场｜郑州媒体报道汇总",
               "url": "https://weibo.com/5330052953/NfvDcd9WV"
             },
             {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
               "type": "link",
               "platform": "中华网",
               "title": "张艺兴将线上演唱会特殊机位所得用于公益",
               "url": "https://ent.china.com/gundong/11015422/20220726/42926094.html"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
             },
             {
               "type": "link",
@@ -2419,16 +2503,28 @@
               "url": "https://weibo.com/5330052953/KpHBF046L"
             },
             {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
               "type": "link",
               "platform": "新浪新闻",
               "title": "张艺兴代表粉丝向9所贫困小学捐助益心书屋",
               "url": "https://news.sina.cn/2016-07-12/detail-ifxtwchx8599431.d.html"
             },
             {
+              "type": "divider",
+              "label": "2015年"
+            },
+            {
               "type": "link",
               "platform": "搜狐体育",
               "title": "张艺兴参与“希望之颠”校园足球公益传递",
               "url": "https://sports.sohu.com/20150912/n420976567.shtml"
+            },
+            {
+              "type": "divider",
+              "label": "2013年"
             },
             {
               "type": "link",
@@ -2442,6 +2538,10 @@
           "id": "sports-culture",
           "title": "体育/文化",
           "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
             {
               "type": "link",
               "platform": "微博",
@@ -2479,16 +2579,28 @@
           "title": "其他",
           "children": [
             {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
               "type": "link",
               "platform": "微博",
               "title": "张艺兴的钢铁贝壳“清凉一夏，「艺」起优活”公益活动返图汇总",
               "url": "https://weibo.com/7774429542/PFkv0gpSp"
             },
             {
+              "type": "divider",
+              "label": "2018年"
+            },
+            {
               "type": "link",
               "platform": "新华网",
               "title": "张艺兴以志愿者身份探访养老院",
               "url": "https://www.xinhuanet.com/ent/gyyb/index.htm"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
             },
             {
               "type": "link",
