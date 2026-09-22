@@ -3,5 +3,54 @@
   "title": "2021年跨年舞台",
   "date": "2021-12-31",
   "summary": "链接待补充。",
-  "materials": []
+  "materials": [
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "211231 《2021最美的夜》【奇幻时空】《莲+飞天》",
+      "url": "https://b23.tv/ep454446"
+    },
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "211231《2021最美的夜》【魔幻时空】《飞天+苦行僧》",
+      "url": "https://b23.tv/ep454445"
+    },
+    {
+      "category": "正式内容",
+      "platform": "微博",
+      "title": "211231 央视跨年晚会《启航2022》张艺兴《我有一个梦》",
+      "url": "https://weibo.com/2543638965/4721704746091051"
+    },
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "211231 东方卫视跨年 张艺兴《飞天》致敬中国航天科技人员",
+      "url": "https://b23.tv/8t3aV3V"
+    },
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "211231 东方卫视跨年《祖国不会忘记》",
+      "url": "https://b23.tv/k4OcEqA"
+    },
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "211231 东方卫视跨年《陪着你》",
+      "url": "https://b23.tv/kpQCnRd"
+    },
+    {
+      "category": "正式内容",
+      "platform": "Bilibili",
+      "title": "220101【张艺兴】《我的未来不是梦》大湾区音乐会",
+      "url": "https://b23.tv/mZuLffX"
+    },
+    {
+      "category": "正式内容",
+      "platform": "微博",
+      "title": "2021-2022四平台八首跨年舞台合集",
+      "url": "https://weibo.com/5330052953/L8FTKg0yq"
+    }
+  ]
 }

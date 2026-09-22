@@ -34,7 +34,8 @@ async function buildSearchIndex() {
           external: true,
           keywords: `${child.title || ""} ${child.platform || ""}`.toLowerCase(),
         });
-      } else if (child.type !== "divider") {
+      } else if (child.type !== "divider" && child.type !== "honor") {
+        // honor（纯文字荣誉条目）没有对应的跳转目标，不放进搜索索引
         walk(child, newCrumbs);
       }
     }

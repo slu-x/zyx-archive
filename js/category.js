@@ -48,6 +48,14 @@ async function renderChildCard(child, accentColor, kudosCounts, likedSet) {
     return `<div class="year-divider"><span>${escapeHtml(child.label)}</span></div>`;
   }
 
+  if (child.type === "honor") {
+    return `
+      <div class="node-card honor-card">
+        <span class="node-card-title">${escapeHtml(child.title)}</span>
+        ${child.year ? `<span class="honor-year">${escapeHtml(String(child.year))}</span>` : ""}
+      </div>`;
+  }
+
   if (child.type === "link") {
     if (!child.url) {
       return `

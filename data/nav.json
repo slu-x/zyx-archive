@@ -13,6 +13,30 @@
       "color": "#3D3267",
       "children": [
         {
+          "type": "divider",
+          "label": "2025年"
+        },
+        {
+          "type": "link",
+          "platform": "Bilibili",
+          "title": "聊张艺兴和他的m-pop",
+          "url": "https://www.bilibili.com/video/BV1C3YyzbEAJ/?spm_id_from=333.337.search-card.all.click"
+        },
+        {
+          "type": "divider",
+          "label": "2020年"
+        },
+        {
+          "type": "link",
+          "platform": "Bilibili",
+          "title": "【【张艺兴】《莲》历时五年，四神专最后一角终于来了！这些细思极恐的伏笔设计你都知道吗？ 四张专辑概念全解析！】",
+          "url": "https://www.bilibili.com/video/BV1oT4y1u7KQ/?share_source=copy_web&vd_source=9edd4460ab70e03e41178f0e16d27393"
+        },
+        {
+          "type": "divider",
+          "label": "年份不详"
+        },
+        {
           "id": "stage-god",
           "title": "舞台之神",
           "children": [
@@ -124,6 +148,10 @@
                 },
                 {
                   "type": "event",
+                  "eventId": "gala-2022-wenyizhongguo"
+                },
+                {
+                  "type": "event",
                   "eventId": "gala-2022-henan"
                 },
                 {
@@ -145,6 +173,10 @@
                 {
                   "type": "event",
                   "eventId": "gala-2017-cctv"
+                },
+                {
+                  "type": "event",
+                  "eventId": "gala-2015-cctv"
                 }
               ]
             },
@@ -181,7 +213,48 @@
                 {
                   "id": "tour-2",
                   "title": "二巡",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "divider",
+                      "label": "2022年"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "221120 | 张艺兴大航海2美国旧金山站 【Lay U Down + Amusement Park/游乐园】 𝟰𝗞 𝗛𝗗𝗥 视角超正版 𝗣𝗮𝗿𝘁. 𝟲 • 汇总合集",
+                      "url": "https://weibo.com/5330052953/Mgnuk71qD"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【张艺兴《大航海II•未至之境》旧金山站饭拍汇总",
+                      "url": "https://weibo.com/5330052953/Mg21m2OFF"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "221022 | 未至之境·全球演唱会盛大起航 | 泰国站 1️⃣《ENDING➕合影》高清focus 直拍完整版。非常感谢【A_ki_ra_D】授权给到高清网盘分享，台台已经全部发布完毕，高清直拍汇总合集",
+                      "url": "https://weibo.com/5330052953/MbFVZzIak"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【张艺兴《大航海II•未至之境》泰国站饭拍汇总",
+                      "url": "https://weibo.com/5330052953/MbwLb9u1j"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【张艺兴《大航海II•未至之境》新加坡站饭拍汇总",
+                      "url": "https://weibo.com/5330052953/Mb45ZaVDW"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【张艺兴《大航海II•未至之境》马来西亚场饭拍汇总",
+                      "url": "https://weibo.com/5330052953/MasC3u5aQ"
+                    }
+                  ]
                 },
                 {
                   "id": "tour-2-5",
@@ -191,17 +264,212 @@
                 {
                   "id": "tour-3",
                   "title": "三巡",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "231104｜【张艺兴《大航海𝟯·无远弗届》·南京站𝟭𝟭.𝟰饭拍汇总",
+                      "url": "https://weibo.com/5330052953/Nr1jT4OTi"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "231111｜【张艺兴《大航海𝟯·无远弗届》·广州站𝟭𝟭.𝟭𝟭饭拍汇总",
+                      "url": "https://weibo.com/5330052953/Ns5PkdCt0"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "231007｜【张艺兴《大航海𝟯·无远弗届》·上海站𝟭𝟬.𝟳饭拍汇总",
+                      "url": "https://weibo.com/5330052953/NmLkB3r2F"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "231006 | 【张艺兴《大航海𝟯·无远弗届》·上海站𝟭𝟬.𝟲饭拍汇总",
+                      "url": "https://weibo.com/5330052953/NmBZBw3KS"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "231028｜【张艺兴《大航海𝟯·无远弗届》·大连站𝟭𝟬.𝟮𝟴饭拍汇总",
+                      "url": "https://weibo.com/5330052953/NpXsEiQf8"
+                    }
+                  ]
                 },
                 {
                   "id": "tour-4",
                   "title": "四巡",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "divider",
+                      "label": "2025年"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250228 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·郑州站加场𝟮.𝟮𝟴饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Pgpib1Ad5"
+                    },
+                    {
+                      "type": "divider",
+                      "label": "2024年"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "241102 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·安可场厦门站𝟭𝟭.𝟮饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OEqczmqmj"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "〈浪漫兴语，兴动此夏〉 ——2024张艺兴「大航海4•STEP」世界巡回演唱会 情话汇总",
+                      "url": "https://weibo.com/7774429542/OvLhbvhoG"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240818 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·上海站𝟴.𝟭𝟴饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OsRMQlaut"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "2408017 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·上海站𝟴.𝟭𝟳饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OsImcmLIm"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240803 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·广州站𝟴.𝟯饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OqAlEEtQ4"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240802 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·广州站𝟴.𝟮饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OqqSIneZp"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240727 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·西安站𝟳.𝟮𝟳饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OpwkaxY24"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240713 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·日本横滨站𝟳.𝟭𝟯饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OnmXT4iRQ"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240710 | 【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·吉隆坡站𝟳.𝟭𝟬饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OmUtTv4aW"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240706 Ⅰ【张艺兴「大航海𝟰·𝗦𝗧𝗘𝗣」·成都站𝟳.𝟲饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Omkm5EKQe"
+                    }
+                  ]
                 },
                 {
                   "id": "tour-5",
                   "title": "五巡",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "divider",
+                      "label": "2025年"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "251007 | 张艺兴2025「大航海5·美猴王 闹天宫」巡回演唱会 ——北京鸟巢站DAY 2生日场饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Q83mm67zG"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "251006 | 张艺兴2025「大航海5·美猴王 闹天宫」巡回演唱会 ——北京鸟巢站DAY 1中秋场饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Q7UeqmCrQ"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250927 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——宁波站DAY 2饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Q6xvOpfsu"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250926 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——宁波站DAY 1饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Q6nL4AUj9"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250914 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——上海站DAY 2饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q4yDjpm5g"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250913 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——上海站DAY 1饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q4pEexnev"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250906 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——南京站饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q3lqzE1OS"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250831 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——深圳站DAY 2饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q2qVizuSu"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250830 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——深圳站DAY 1饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q2hhdiTKQ"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250816 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——海口站饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Q09fL0yQi"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250810 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——成都站DAY2饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/PFcaqb9ZI"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250809 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——成都站DAY1饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/PF2G0sBAA"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250803 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——北京站DAY2饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/PE84p8hqy"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "250802 | 张艺兴2025「大航海5·闹天宫」巡回演唱会 ——北京站DAY1饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/PDYCB2Pt6"
+                    }
+                  ]
                 },
                 {
                   "id": "tour-new-year-concert",
@@ -212,6 +480,12 @@
                       "platform": "Bilibili",
                       "title": "【张艺兴】251231染色体家族跨年演唱会张艺兴全程4K横屏 cr：补丁76",
                       "url": "https://b23.tv/6c19KjH"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "251231 | 张艺兴染色体香港跨年演唱会饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Ql0dMD7bf"
                     }
                   ]
                 },
@@ -236,6 +510,12 @@
                       "platform": "微博",
                       "title": "美图 cr mylovelayonu",
                       "url": "https://weibo.com/5233171153/5336638830151323"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "260822 | 张艺兴「斗战胜佛」澳门限定演唱会饭拍汇总",
+                      "url": "https://weibo.com/7774429542/ReBr1safg"
                     }
                   ]
                 }
@@ -244,7 +524,106 @@
             {
               "id": "birds-nest",
               "title": "鸟巢",
-              "children": []
+              "children": [
+                {
+                  "type": "divider",
+                  "label": "2026年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "张艺兴出任安塞腰鼓文化传播大使",
+                  "url": "https://weibo.com/7774429542/RfMQMxEHb?refer_flag=1001030103_"
+                },
+                {
+                  "type": "divider",
+                  "label": "2025年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "251007【张艺兴】闹天宫北京鸟巢站直播录屏＋官摄全程",
+                  "url": "https://b23.tv/BRHSugo"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "251024 《囍》幕后花絮！完美舞台的背后是历史两个月的练习与打磨",
+                  "url": "https://b23.tv/ojP4FfK"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "251028【张艺兴】功夫小兴是怎样练成的：《画卷》鸟巢舞台幕后Vlog",
+                  "url": "https://b23.tv/a94BZwU"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "251124 鸟巢演唱会纪录片｜最棒的小羊",
+                  "url": "https://b23.tv/ofRXvEq"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "251216 张艺兴2025鸟巢演唱会幕后揭秘",
+                  "url": "https://b23.tv/13YZOV8"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "一场伟大的演唱会背后，有无数你不知道的幕后细节",
+                  "url": "https://b23.tv/fubM7VL"
+                },
+                {
+                  "type": "link",
+                  "platform": "抖音",
+                  "title": "张艺兴鸟巢随机-尺八老师记录的很多幕后故事",
+                  "url": "3- 4.66 09/29 F@U.yg seO:/ 我正在看【张艺兴鸟巢演出随记】 长按复制此条消息，去抖音搜索，和我一起看合集~ https://v.douyin.com/29eZjNnkAF4/ 8@2.com :8pm"
+                },
+                {
+                  "type": "link",
+                  "platform": "抖音",
+                  "title": "看着张哥在舞台上拼尽全力的样子",
+                  "url": "0.79 复制打开抖音，看看【甜兴娜的图文作品】张艺兴鸟巢演唱会。看着张哥在舞台上拼尽全力的样子，... https://v.douyin.com/aR3FGsr-YPs/ usR:/ :1pm 06/26 k@p.DH"
+                },
+                {
+                  "type": "link",
+                  "platform": "抖音",
+                  "title": "别人口中幕后的你，真实的出现在眼前",
+                  "url": "3.58 复制打开抖音，看看【张胯霸🦖的作品】当别人口中幕后的你，真实的出现在眼前，回看这一路也... https://v.douyin.com/JnB-0TRG4Gw/ :4pm A@g.Ok 05/11 QXZ:/"
+                },
+                {
+                  "type": "link",
+                  "platform": "抖音",
+                  "title": "张艺兴鸟巢演唱会 幕后《画卷》篇",
+                  "url": "5.33 复制打开抖音，看看【张圣群（精气神）的作品】张艺兴鸟巢演唱会 幕后《画卷》篇 # 神级live... https://v.douyin.com/FdmnIhZ9b3s/ t@r.Eu 11/08 :8pm yGI:/"
+                },
+                {
+                  "type": "link",
+                  "platform": "抖音",
+                  "title": "原来那天你说这是我们离你最近的一次是这个意思",
+                  "url": "4.69 复制打开抖音，看看【Vela✨的图文作品】原来那天你说这是我们离你最近的一次是这个意思🥹因为... https://v.douyin.com/1PIliDN-Ge0/ BtE:/ :9pm 11/15 i@p.Dh"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "20260414吉尼斯世界纪录官网更新张艺兴所属纪录一则",
+                  "url": "https://weibo.com/5656817886/5287699208733596"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "【Forbes福布斯网采访翻译上线】",
+                  "url": "https://weibo.com/5656817886/5224987273461840"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "鸟巢卷轴屏",
+                  "url": "https://weibo.com/5229636244/Q8bd64EfP"
+                }
+              ]
             },
             {
               "id": "other-stages",
@@ -252,17 +631,205 @@
               "children": [
                 {
                   "type": "divider",
-                  "label": "2019年"
+                  "label": "2026年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260510 | 张艺兴世界品牌莫干山大会演讲CUT",
+                  "url": "https://video.weibo.com/show?fid=1034:5297058379137105"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "2026中国品牌日晚会·张艺兴《吾辈当自强》舞台直拍 听张艺兴的《吾辈当自强》",
+                  "url": "https://video.weibo.com/show?fid=1034:5297132043698183"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260513 | 2026年第79届戛纳电影节开幕式红毯直播张艺兴CUT",
+                  "url": "https://video.weibo.com/show?fid=1034:5297911601496161"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260517 | 润百颜「醒狮承文脉 科技焕新生」直播 张艺兴Cut",
+                  "url": "https://video.weibo.com/show?fid=1034:5299615256477784"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260510 | 科技美学品牌价值创新论坛+2026中国品牌日晚会·张艺兴饭拍汇总",
+                  "url": "https://weibo.com/7774429542/QEIsgCptl"
                 },
                 {
                   "type": "event",
-                  "eventId": "other-stage-2019"
+                  "eventId": "other-stage-2026-silicon-valley"
+                },
+                {
+                  "type": "divider",
+                  "label": "2025年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "251002 | 张艺兴DNA音乐节饭拍汇总",
+                  "url": "https://weibo.com/7774429542/Q7p4X7ljO"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250924 | 2025微博音乐盛典直播张艺兴饭拍汇总",
+                  "url": "https://weibo.com/7774429542/Q6aXw1M7t"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250617 | 张艺兴京东618开心夜饭拍汇总",
+                  "url": "https://weibo.com/7774429542/Px0ts7z6Q"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250531 | 张艺兴京东618夏日歌会饭拍汇总",
+                  "url": "https://weibo.com/7774429542/PupJechza"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250520 | 张艺兴飞天之夜黄小西音乐盛典暨2025茅友嘉年华饭拍汇总",
+                  "url": "https://weibo.com/7774429542/PsK516kTJ"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250518 | 张艺兴贵阳T次方音乐节饭拍汇总",
+                  "url": "https://weibo.com/7774429542/PsqWIbNWD"
+                },
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "241213-15张艺兴音乐话剧《受到召唤·敦煌》上海站 ——图频汇总",
+                  "url": "https://weibo.com/7774429542/P4RDJi9HP"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "241207-09张艺兴音乐话剧《受到召唤·敦煌》北京站 ——谢幕及返场 图频汇总",
+                  "url": "https://weibo.com/7774429542/P471vgDnj"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "241206 | 中国国家话剧院剧目音乐话剧《受到召唤· 敦煌》媒体场 ——张艺兴图频汇总（持续更新中）",
+                  "url": "https://weibo.com/7774429542/P3EQN8rqT"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "241030 | 中国国家话剧院剧目《受到召唤· 敦煌》发布会 ——张艺兴图频汇总（持续更新中）",
+                  "url": "https://weibo.com/7774429542/ODW6ErJ4x"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "240925 | 【微博音乐盛典】——张艺兴图频物料汇总（持更）",
+                  "url": "https://weibo.com/7774429542/OyDTGDPMt"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "240915 | 张艺兴Krazy超级演唱会（Krazysuperconcert）饭拍汇总（持更）",
+                  "url": "https://weibo.com/7774429542/Ox3XQr7jz"
+                },
+                {
+                  "type": "divider",
+                  "label": "2023年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "230825｜M ALL STARS国际齐舞大赛总决赛 张艺兴饭拍汇总",
+                  "url": "https://weibo.com/5330052953/NgfYEnj96"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "230716 | 昭苏天马节开幕式直播·张艺兴路透汇总 （持续更新）",
+                  "url": "https://weibo.com/5330052953/NabUvfpSE"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "231004 | 【张艺兴D.N.A音乐节·广东站𝟭𝟬.𝟰饭拍汇总",
+                  "url": "https://weibo.com/5330052953/NmkmGooia"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "微博音乐盛典合集——全程汇总、领奖互动环节字幕整理版",
+                  "url": "https://weibo.com/5330052953/MquT1DaOV"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "230118 | 微博音乐盛典合集 ——全程汇总",
+                  "url": "https://weibo.com/5330052953/MoXRF74wS"
+                },
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "【时年纪·张艺兴出道十周年企划舞台汇总",
+                  "url": "https://weibo.com/5330052953/Lz3VBE04e"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "【张艺兴 领衔纽约MetaMoon音乐节 饭拍汇总",
+                  "url": "https://weibo.com/5330052953/MgV1BzCaT"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "【张艺兴五大平台九大节目跨年晚会——全网热度汇总",
+                  "url": "https://weibo.com/5330052953/L957Ocs5j"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "220101 | 央视总台《扬帆远航大湾区——2022新年音乐会》 张艺兴总CUT+幕后制作特辑+饭拍图频汇总（持更）",
+                  "url": "https://weibo.com/5330052953/L8No4xykj"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
                 },
                 {
                   "type": "link",
                   "platform": "知乎",
-                  "title": "如何看待张艺兴在2019TMEA腾讯音乐娱乐盛典中的表现?",
-                  "url": "https://www.zhihu.com/question/359998346"
+                  "title": "如何评价微博之夜张艺兴的唱跳舞台《Joker》？",
+                  "url": "https://www.zhihu.com/question/446808495"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "211117 | 第28届东方风云榜音乐盛典 张艺兴全程CUT（共33分钟含所有机位） 及饭拍官拍汇总（持续更新）",
+                  "url": "https://weibo.com/5330052953/L1Y8rxfe8"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "< 2020年张艺兴音乐 舞蹈作品、舞台汇总合集",
+                  "url": "https://weibo.com/5330052953/JCJ7EAu3r"
                 },
                 {
                   "type": "divider",
@@ -276,13 +843,17 @@
                 },
                 {
                   "type": "divider",
-                  "label": "2021年"
+                  "label": "2019年"
+                },
+                {
+                  "type": "event",
+                  "eventId": "other-stage-2019"
                 },
                 {
                   "type": "link",
                   "platform": "知乎",
-                  "title": "如何评价微博之夜张艺兴的唱跳舞台《Joker》？",
-                  "url": "https://www.zhihu.com/question/446808495"
+                  "title": "如何看待张艺兴在2019TMEA腾讯音乐娱乐盛典中的表现?",
+                  "url": "https://www.zhihu.com/question/359998346"
                 }
               ]
             }
@@ -303,6 +874,24 @@
               "platform": "Bilibili",
               "title": "精神状态有种活着活着就偷着疯了的美感",
               "url": "https://www.bilibili.com/video/BV1Vr421W7N5?"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "230814｜香港文汇报 报道张艺兴演唱会＆电影相关采访一则〈文字版汇总",
+              "url": "https://weibo.com/5330052953/NexDkEdHz"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【张艺兴海外行程线上及纸媒 采访矩阵汇总",
+              "url": "https://weibo.com/5330052953/Mdcqm6QGX"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈 2020年 张艺兴采访 文案整理合集 〉 （包括中英采访类共计165+个采访的文案整理以及翻译） 张艺兴的每一次采访都是把最真诚的想法毫无保留地告诉大家，他的思维，创意，态度，格局等等，如此坦率却又深刻的让人惊讶叹服",
+              "url": "https://weibo.com/5330052953/K26Pb3XYp"
             }
           ]
         },
@@ -343,6 +932,24 @@
                   "platform": "知乎",
                   "title": "评价 张艺兴第二张个人唱片先行曲《I NEED U》及其MV?",
                   "url": "https://www.zhihu.com/question/65820528"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】- Peach MV 纽约SC 4K/60fps 版本",
+                  "url": "https://b23.tv/1dqUtyc"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "{Angelexo} 180907 EXO LAY X Alan Walker - The Sheep & The Mask",
+                  "url": "https://b23.tv/fyAP5gb"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】2017事业版图发布会全程回顾",
+                  "url": "https://b23.tv/gnCGmsf"
                 }
               ]
             },
@@ -361,6 +968,24 @@
                   "platform": "知乎",
                   "title": "如何评价张艺兴第三张个人专辑《梦不落雨林/NAMANANA》？",
                   "url": "https://www.zhihu.com/question/265910452"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "张艺兴第三张专辑《NAMANANA/梦不落雨林》回顾之汇总大事件",
+                  "url": "https://weibo.com/5330052953/IwU6trkWQ"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "张艺兴第三张专辑《NAMANANA/梦不落雨林》回顾 之 成绩汇总（十四）",
+                  "url": "https://weibo.com/5330052953/IwKIshSbH"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "来自 可爱的张艺兴的兴迷 张艺兴第三张专辑《NAMANANA/梦不落雨林》回顾 之 成绩汇总（十四）",
+                  "url": "https://weibo.com/5330052953/IwKGb0UOx"
                 }
               ]
             },
@@ -385,6 +1010,12 @@
                   "platform": "知乎",
                   "title": "如何评价张艺兴的《爱莲说》?",
                   "url": "https://www.zhihu.com/question/390077837"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何评价张艺兴的第四张专辑《莲》？你最喜欢专辑里的哪首歌？ - 土酱Elapse的回答 - 知乎",
+                  "url": "https://www.zhihu.com/question/398686285/answer/1258364147"
                 }
               ]
             },
@@ -424,13 +1055,120 @@
                   "platform": "小红书",
                   "title": "外网粉丝为《斗战胜佛》写千字英文长乐评",
                   "url": "https://xhslink.cn/o/1RC3Lx13BSA"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "张艺兴2026 「斗战胜佛」新专辑全球试听会 ——马来西亚吉隆坡站饭拍汇总",
+                  "url": "https://weibo.com/7774429542/R6IAutTf8"
                 }
               ]
             },
             {
               "id": "brand-songs",
               "title": "品牌合作曲",
-              "children": []
+              "children": [
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "240521 【张艺兴Ｘ雪碧】《Shuffle》",
+                  "url": "https://b23.tv/koQLXSD"
+                },
+                {
+                  "type": "divider",
+                  "label": "2023年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "230522 张艺兴X 【雪碧】《Alive》",
+                  "url": "https://b23.tv/CInBYEy"
+                },
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "220110 张艺兴X 【康师傅】《就要这个味》",
+                  "url": "https://b23.tv/FnOMsMq"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "221009 张艺兴X 【康师傅】《动起来》",
+                  "url": "https://weibo.com/2169129705/4822601332950725"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "210809 张艺兴 X 【CHAUMET】 纯音乐MV《缘融四季》",
+                  "url": "https://b23.tv/NmfZ2kQ"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "211231 张艺兴X 【梦幻西游】《悟》MV",
+                  "url": "https://b23.tv/Ecat0Pp"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "201127 张艺兴 X 【CHAUMET】《圣诞之梦》  视频汇总",
+                  "url": "https://b23.tv/RtzA3fH"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "200413 张艺兴X 【梦幻西游】《少年行》",
+                  "url": "https://b23.tv/NrqBIj1"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "201230 张艺兴X黄潇《梦·时空·嘻游》",
+                  "url": "https://b23.tv/0EFo3dU"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴X黄潇】悟空归来，神仙队友再度合体，齐舞《梦·时空·嘻游》上演花果山传奇！",
+                  "url": "https://www.bilibili.com/video/BV1L64y1Z7ng/?spm_id_from=333.1387.favlist.content.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+                },
+                {
+                  "type": "divider",
+                  "label": "2019年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "191028 张艺兴 X 【CHAUMET】原创纯音乐动画《sky》MV及独家采访",
+                  "url": "https://b23.tv/aovEnNs"
+                },
+                {
+                  "type": "divider",
+                  "label": "2018年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "180801 张艺兴 X 【CHAUMET】 《缘分海洋》纯音乐动画MV",
+                  "url": "https://b23.tv/YPSVI6x"
+                }
+              ]
             },
             {
               "id": "instrument-collection",
@@ -466,6 +1204,16 @@
                   "platform": "Bilibili",
                   "title": "【张艺兴】来贺党全体起立！时隔八年再唱《精忠报国》【250421】",
                   "url": "https://www.bilibili.com/video/BV1vf51z6EYq/"
+                },
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "又潮又洗脑！湖南文旅推广曲《湖南摇叮阔》张艺兴纯享版",
+                  "url": "https://www.bilibili.com/video/BV146421f7hJ/?spm_id_from=333.1387.favlist.content.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
                 },
                 {
                   "type": "divider",
@@ -538,6 +1286,12 @@
                   "url": "https://www.bilibili.com/video/BV1E4411j7Uh/"
                 },
                 {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】北京大兴国际机场演绎《青春颂》初舞台",
+                  "url": "https://b23.tv/9fQB9uS"
+                },
+                {
                   "type": "divider",
                   "label": "2018年"
                 },
@@ -575,6 +1329,42 @@
               "id": "music-other",
               "title": "其他",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "240303 | 华纳音乐更新新歌《𝗥𝗕𝟮𝗨》周成绩一则 本周成绩单汇总",
+                  "url": "https://weibo.com/5330052953/O3krfu1X7"
+                },
+                {
+                  "type": "divider",
+                  "label": "2019年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "191215 《外婆》工作室侧小作文",
+                  "url": "https://weibo.com/5582937157/4449904271287658"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "191216《外婆》MV",
+                  "url": "https://b23.tv/T2h9SlX"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "191217《外婆》MV拍摄花絮",
+                  "url": "https://b23.tv/kAVe92V"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "知乎",
@@ -656,26 +1446,171 @@
           "title": "百亿影帝",
           "children": [
             {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "231102｜2023年中国金鸡华语电影巡礼·张艺兴图频汇总",
+              "url": "https://weibo.com/5330052953/NqLtrp47V"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "231021 | 『第十届乌镇戏剧节』张艺兴 一日游饭拍汇总",
+              "url": "https://weibo.com/5330052953/NpHqfdFyW"
+            },
+            {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈荧幕蜕变，沉淀致远〉张艺兴影视作品回顾汇总",
+              "url": "https://weibo.com/5330052953/Ly0ik9IWp"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈荧幕蜕变，沉淀致远〉张艺兴影视作品回顾汇总",
+              "url": "https://weibo.com/5330052953/LtoiHCk9L"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
+            {
               "id": "movies",
               "title": "电影",
               "children": [
                 {
+                  "type": "divider",
+                  "label": "2026年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260717 | 电影《十间敢死队》张艺兴CUT 当张艺兴在银幕中饰演张艺兴",
+                  "url": "https://video.weibo.com/show?fid=1034:5321809948770362"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260515 | 戛纳中国之夜红毯及酒会汇总",
+                  "url": "https://weibo.com/7774429542/QFruwy7Cv"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260513 | 2026年第79届戛纳国际电影节开幕式红毯汇总",
+                  "url": "https://weibo.com/7774429542/QF5poy1A5"
+                },
+                {
+                  "type": "divider",
+                  "label": "2025年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250727 | 张艺兴FIRST青年电影展饭拍汇总",
+                  "url": "https://weibo.com/7774429542/PD3Ztpmcx"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250726 | 张艺兴FIRST青年电影展活动饭拍汇总",
+                  "url": "https://weibo.com/7774429542/PCSUU2rSJ"
+                },
+                {
+                  "type": "divider",
+                  "label": "2018年"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "【张艺兴×《一出好戏》】汇总合集 - 张艺兴考古贝壳r的文章 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/346446731"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
+                {
                   "id": "kungfu-football",
                   "title": "功夫女足",
                   "intro": "饰演：徐风（师叔公）· 2026年上映",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "260715 | 张艺兴《功夫女足》路演深圳站饭拍汇总",
+                      "url": "https://weibo.com/7774429542/R8PHz2N5S"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "260712 | 张艺兴《功夫女足》路演长沙站饭拍汇总",
+                      "url": "https://weibo.com/7774429542/R8mStzk9v"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "张艺兴新电影《功夫女足》首映×观众影评汇总",
+                      "url": "https://weibo.com/7774429542/R8jaNgtfA"
+                    }
+                  ]
                 },
                 {
                   "id": "silent-love",
                   "title": "不说话的爱",
                   "intro": "饰演：小马 · 2025年上映",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "251028 | 东京国际电影节闭幕式暨中国电影周金鹤奖颁奖典礼·张艺兴饭拍汇总",
+                      "url": "https://weibo.com/7774429542/QbfteBKbd"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "251027 | 张艺兴出席第38届东京电影节【东京中国电影周】饭拍汇总（持更）",
+                      "url": "https://weibo.com/7774429542/Qb4QXjtxl"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "张艺兴电影《不说话的爱》超前点映观众影评汇总",
+                      "url": "https://weibo.com/7774429542/PjVyzhOM1"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "241219 | 电影《不说话的爱》想看平台汇总",
+                      "url": "https://weibo.com/7774429542/P5yIg6mOn"
+                    }
+                  ]
                 },
                 {
                   "id": "legend",
                   "title": "传说",
                   "intro": "饰演：王靖/华峻 · 2024年上映",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【240704 电影《传说》成都路演饭拍汇总",
+                      "url": "https://weibo.com/7774429542/Om196aCgd"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "【240701 电影《传说》上海大光明路演饭拍汇总",
+                      "url": "https://weibo.com/7774429542/OlyH6B7Kd"
+                    }
+                  ]
                 },
                 {
                   "id": "changsha-nightlife",
@@ -687,7 +1622,20 @@
                   "id": "all-in",
                   "title": "孤注一掷",
                   "intro": "饰演：潘生 · 2023年上映",
-                  "children": []
+                  "children": [
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "240804 | 【第37届大众电影百花奖系列活动】——张艺兴图频汇总（持更）",
+                      "url": "https://weibo.com/7774429542/OqJq4kKfT"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "电影《孤注一掷》之《潘生说反诈》宣传手册 ——贝壳反诈公益项目全记录及社会意义汇总",
+                      "url": "https://weibo.com/7774429542/OqGGHa9jo"
+                    }
+                  ]
                 },
                 {
                   "id": "a-good-show",
@@ -721,6 +1669,20 @@
               "title": "电视剧",
               "children": [
                 {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〔《相逢时节》宁恕资讯台𝐔𝐆𝐂营销裂变_阶段项目汇总",
+                  "url": "https://weibo.com/5330052953/LjzPgkm8u"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
+                {
                   "id": "sweeping-storm",
                   "title": "扫黑风暴",
                   "intro": "2021年播出",
@@ -743,6 +1705,18 @@
                       "platform": "知乎",
                       "title": "如何评价张艺兴在《大明风华》中的表现?",
                       "url": "https://www.zhihu.com/question/366399039"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "〈2020年《大明风华》 张艺兴饰演朱祁镇 汇总合集",
+                      "url": "https://weibo.com/5330052953/JD9V2emCl"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "《大明风华》 张艺兴饰演朱祁镇 汇总合集",
+                      "url": "https://weibo.com/5330052953/MdlmqfQc6"
                     }
                   ]
                 },
@@ -769,6 +1743,12 @@
                       "platform": "知乎",
                       "title": "如何评价电视剧《老九门》中张艺兴演绎的二月红？",
                       "url": "https://www.zhihu.com/question/41142456"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "Bilibili",
+                      "title": "救命，这才应该是十年后的二月红！终于明白为什么说他是天选二月红了",
+                      "url": "https://b23.tv/9U06WZs"
                     }
                   ]
                 },
@@ -811,6 +1791,30 @@
           "title": "综艺",
           "children": [
             {
+              "type": "divider",
+              "label": "2019年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】小骄傲化身船长兴回家啦~",
+              "url": "https://www.bilibili.com/video/BV1Px411X7nY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2017年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】小骄傲的第八次“长沙”之旅",
+              "url": "https://www.bilibili.com/video/BV13x411B7EQ/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
+            {
               "id": "go-fighting",
               "title": "极限挑战",
               "children": [
@@ -825,6 +1829,18 @@
                   "platform": "知乎",
                   "title": "极限男人帮对艺兴有哪些明晃晃的温柔？",
                   "url": "https://www.zhihu.com/question/271007636"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "《极限挑战》带给了张艺兴什么？",
+                  "url": "https://www.zhihu.com/question/47930436/answer/152554251"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【20150531二巡上海演唱会】张艺兴focus合辑（极限男人帮）",
+                  "url": "https://www.bilibili.com/video/BV17s411m7uq/?"
                 }
               ]
             },
@@ -832,6 +1848,104 @@
               "id": "singer-2",
               "title": "我是唱作人2",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "如何看待张艺兴在《我是唱作人2》整季节目的表现？",
+                  "url": "https://www.zhihu.com/question/403477462/answer/1304383346"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】我是唱作人第2季 张艺兴 full cut合集 正片+花絮 完结",
+                  "url": "https://www.bilibili.com/video/BV1rh411d7B8/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200421 |《我是唱作人2》第一期 | 张艺兴 相关汇总",
+                  "url": "https://weibo.com/5330052953/IEmN32jzM"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200429 |《我是唱作人2》第二期 | 张艺兴 相关汇总",
+                  "url": "https://weibo.com/5330052953/IFBsY1kli"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200506 |《我是唱作人2》第三期 | 张艺兴 《小城姑娘》相关汇总",
+                  "url": "https://weibo.com/5330052953/J0KARsSde"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200513 |《我是唱作人2》第四期 | 张艺兴 《十面埋伏》相关汇总",
+                  "url": "https://weibo.com/5330052953/J1MwT3cM8"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200516 |《我是唱作人2》第五期 | 张艺兴 《略过》相关汇总",
+                  "url": "https://weibo.com/5330052953/J2dRN7KFs"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200526 |《我是唱作人2》第六期 | 张艺兴 《马》相关汇总",
+                  "url": "https://weibo.com/5330052953/J3T9KER6j"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200607 |《我是唱作人2》第八期 | 张艺兴 《炎黄子孙》相关汇总",
+                  "url": "https://weibo.com/5330052953/J5vIF8Cus"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200614 |《我是唱作人2》第九期 | 张艺兴 相关汇总",
+                  "url": "https://weibo.com/5330052953/J6CVDtOIB"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200622 |《我是唱作人2》第十期 | 张艺兴 相关汇总 〈 往期汇总 〉",
+                  "url": "https://weibo.com/5330052953/J7QRDmh64"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "200710 | 海外TikTok Joker再次播报",
+                  "url": "https://weibo.com/5330052953/JaBc9feWa"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "【张艺兴×我是唱作人2】唱作人Universe的正确打开方式——《小城姑娘》篇 - 张艺兴考古贝壳r的文章 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/338058039"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "【张艺兴×我是唱作人2】唱作人Universe的正确打开方式——《爱莲说》篇 - 张艺兴考古贝壳r的文章 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/336724255"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "考古我是唱作人2开播前艺兴发的微博",
+                  "url": "https://www.zhihu.com/question/381480538/answer/1099891601"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "知乎",
@@ -862,6 +1976,48 @@
               "id": "street-dance",
               "title": "这就是街舞",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "211030 | 《这就是街舞4》总决赛 ——张艺兴饭拍图频汇总合集",
+                  "url": "https://weibo.com/5330052953/L07i6gqkG"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈2020年《这就是街舞》第三季张艺兴队长全季汇总",
+                  "url": "https://weibo.com/5330052953/Jyj6DpA04"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "#张艺兴 四神兽# | 《这就是街舞3》张艺兴舞台汇总",
+                  "url": "https://weibo.com/5330052953/JnLKTolgM"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "201003 | 《这就是街舞3》12期张艺兴舞台汇总",
+                  "url": "https://weibo.com/5330052953/JnBu18emT"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "201003 | 《这就是街舞3》12期张艺兴舞台汇总",
+                  "url": "https://weibo.com/5330052953/JnviasTJs"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "知乎",
@@ -904,6 +2060,96 @@
               "id": "back-to-field",
               "title": "向往的生活",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈贝壳追兴冲浪集×《向往的生活6》安利活动〉 ——『美好碎碎念』第十一期汇总",
+                  "url": "https://weibo.com/5330052953/LDa4GDF4F"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "贝壳追兴冲浪集 『时光千万帧』 ——第十一期『饭绘美工、视频』作品汇总",
+                  "url": "https://weibo.com/5330052953/LD8COAhVD"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈贝壳追兴冲浪集×《向往的生活6》安利活动〉 ——『美好碎碎念』第八期汇总",
+                  "url": "https://weibo.com/5330052953/LAfwGzpHX"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《向往的生活6》安利活动作品汇总",
+                  "url": "https://weibo.com/5330052953/LwMmb5n4W"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈贝壳追兴冲浪集×《向往的生活6》安利活动〉 ——『美好碎碎念』第五期汇总",
+                  "url": "https://weibo.com/5330052953/LwKYsjRsS"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《向往的生活6》安利活动作品汇总",
+                  "url": "https://weibo.com/5330052953/LA8gc6KnI"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈贝壳追兴冲浪集×《向往的生活6》安利活动〉 ——『美好碎碎念』第七期汇总",
+                  "url": "https://weibo.com/5330052953/Lz2445Fkk"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "贝壳追兴冲浪集 『时光千万帧』 ——第七期『饭绘美工、视频』作品汇总",
+                  "url": "https://weibo.com/5330052953/LySBYuBzQ"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《向往的生活6》安利活动作品汇总",
+                  "url": "https://weibo.com/5330052953/LvQzGtoYR"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《向往的生活6》安利活动作品汇总",
+                  "url": "https://weibo.com/5330052953/LxY1R6pnt"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈贝壳追兴冲浪集×《向往的生活6》安利活动〉 ——『美好碎碎念』第六期汇总",
+                  "url": "https://weibo.com/5330052953/LxQyc6qE3"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "【《向往的生活5》张艺兴部分汇总",
+                  "url": "https://weibo.com/5330052953/Kt7pF2vvN"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《向往的生活》茶话会饭绘/视频作品汇总",
+                  "url": "https://weibo.com/5330052953/KtjisfRve"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "知乎",
@@ -948,6 +2194,12 @@
                       "platform": "知乎",
                       "title": "如何看待《少年之名》官宣制作人为张艺兴?",
                       "url": "https://www.zhihu.com/question/389766367"
+                    },
+                    {
+                      "type": "link",
+                      "platform": "微博",
+                      "title": "〈2020年《少年之名》少年制作人张PD 汇总全集",
+                      "url": "https://weibo.com/5330052953/Jvzkw4OvL"
                     }
                   ]
                 },
@@ -979,6 +2231,90 @@
               "id": "variety-other",
               "title": "其他",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "240418 | 《百分百出品》第四期 张艺兴片段 〈张Bob再谈“厚积薄发”〉 台很赞同，这段话也适用于各行各业各类人群在做的任何事。 比如做“安利”，日常物料、素材一日日的积累汇总",
+                  "url": "https://weibo.com/5330052953/Oah9rBZrL"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "〈2020年《舞蹈风暴》第二季风暴 引领者·风暴鉴证官张艺兴 汇总合集",
+                  "url": "https://weibo.com/5330052953/JD0RGwgXI"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "YouTube",
+                  "title": "Lay Zhang Yixing x Only three days | 张艺兴 《仅三天可见》合集",
+                  "url": "https://www.youtube.com/playlist?list=PLqoWKGufU0fFXVM4oIZS86AfbjCLvNgDW"
+                },
+                {
+                  "type": "divider",
+                  "label": "2014年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】星星的密室第一部分cut",
+                  "url": "https://www.bilibili.com/video/BV1qx411j789/?spm_id_from=333.337.search-card.all.click"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】星星的密室第二部分cut",
+                  "url": "https://www.bilibili.com/video/BV1hx411V7JB/?spm_id_from=333.337.search-card.all.click"
+                },
+                {
+                  "type": "link",
+                  "platform": "YouTube",
+                  "title": "【EXO的长沙小骄傲】呆萌张艺兴勇闯星星密室【浙江卫视官方超清】",
+                  "url": "https://www.youtube.com/watch?v=-73S8-6JzkI"
+                },
+                {
+                  "type": "link",
+                  "platform": "YouTube",
+                  "title": "🌟 《疯狂的麦咭2》第4期：呆萌张艺兴上线，密室大跳老年迪斯科？",
+                  "url": "https://www.youtube.com/watch?v=CTT_mV-fvuQ"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "140820 星廚駕到 EP01 张艺兴Lay cut",
+                  "url": "https://www.bilibili.com/video/BV1px411C7ce/?spm_id_from=333.337.search-card.all.click"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "140827 张艺兴 星厨驾到第二期 cut",
+                  "url": "https://www.bilibili.com/video/BV1ps411F7Uy/?spm_id_from=333.788.videopod.episodes&p=2"
+                },
+                {
+                  "type": "divider",
+                  "label": "2013年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】综艺考古——130914 不朽的名曲 张艺兴cut",
+                  "url": "https://www.bilibili.com/video/BV16Q4y1t7bd/?spm_id_from=333.788.recommend_more_video.3&trackid=web_related_0.router-related-2589621-ftmm5.1789189487117.878"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "知乎",
@@ -1066,6 +2402,18 @@
               "url": "https://www.bilibili.com/video/BV1C24y117Rj/"
             },
             {
+              "type": "link",
+              "platform": "微博",
+              "title": "风自东方来|哈佛中西文化艺术交流 张艺兴专场汇总",
+              "url": "https://weibo.com/5330052953/MgqSbtNSJ"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【𝗚𝗥𝗔𝗠𝗠𝗬 𝗠𝗨𝗦𝗘𝗨𝗠 格莱美博物馆 𝗚𝗹𝗼𝗯𝗮𝗹 𝗦𝗽𝗶𝗻 𝗟𝗶𝘃𝗲: 𝗟𝗔𝗬 饭拍汇总",
+              "url": "https://weibo.com/5330052953/MfghZiXjp"
+            },
+            {
               "type": "divider",
               "label": "2021年"
             },
@@ -1092,6 +2440,12 @@
               "platform": "Bilibili",
               "title": "【张艺兴】原来2014年张艺兴就说了要带领华语音乐走向世界！内娱理想主义实干家～如果你给我一个机会，我能撼动世界，你愿意给我这个机会吗｜十年一梦 星辰大海",
               "url": "https://www.bilibili.com/video/BV1qV411i7Vo/"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【向往的生活】张艺兴《湘江水》舞台好炸！",
+              "url": "https://www.bilibili.com/video/BV1qX4y1c7aF/?spm_id_from=333.788.recommend_more_video.11&trackid=web_related_0.router-related-2589621-dpmnd.1790037153759.216&vd_source=53b81bf835835cf99b61f02aa0ab2529"
             },
             {
               "type": "divider",
@@ -1122,6 +2476,28 @@
               "url": "https://www.bilibili.com/video/BV1D5411W7yq/"
             },
             {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "初中时期的张艺兴和同学吉他弹唱",
+              "url": "https://b23.tv/HEOguZ7"
+            },
+            {
+              "type": "divider",
+              "label": "2019年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】关于他的十三件事--一个不追娱乐圈的人眼中的“偶像”张艺兴：优点，缺点，萌点，槽点",
+              "url": "https://www.bilibili.com/video/BV13t411a7wz/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-qhxck.1790036713134.626&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】纪录片《七年一面》VOGUEx张艺兴航行手册",
+              "url": "https://b23.tv/NK28rxA"
+            },
+            {
               "type": "divider",
               "label": "2018年"
             },
@@ -1130,6 +2506,26 @@
               "platform": "Bilibili",
               "title": "【张艺兴X起风了】以爱之名，你还愿意吗？‖ 1007生贺",
               "url": "https://www.bilibili.com/video/BV1BW41127SY/"
+            },
+            {
+              "type": "divider",
+              "label": "2017年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴在14岁和17岁两次演唱《说唱脸谱》，除个子长高，竟然神同步",
+              "url": "https://b23.tv/TywPvJU"
+            },
+            {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】年度最受欢迎新人和年度最受欢迎电影歌曲——张艺兴《一个人》",
+              "url": "https://www.bilibili.com/video/BV1Ws411z7bN/?spm_id_from=333.788.videopod.episodes&vd_source=53b81bf835835cf99b61f02aa0ab2529&p=2"
             },
             {
               "type": "divider",
@@ -1163,18 +2559,241 @@
       "color": "#3A3861",
       "children": [
         {
+          "type": "divider",
+          "label": "2026年"
+        },
+        {
+          "type": "link",
+          "platform": "Bilibili",
+          "title": "【张艺兴】专辑长篇叙事：十年音乐串联成人生小说",
+          "url": "https://www.bilibili.com/video/BV14zT16fECR/?spm_id_from=333.337.search-card.all.click&vd_source=c5527c43e542bca3d5c75eeaa140fcaa"
+        },
+        {
+          "type": "divider",
+          "label": "年份不详"
+        },
+        {
           "id": "jiashuai-era",
           "title": "加帅时期",
-          "children": []
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "考古小魔王",
+              "url": "https://weibo.com/5832198652/RiICVnLut"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】请欣赏张加帅小朋友带来的表演",
+              "url": "https://www.bilibili.com/video/BV1d73w6ZEuB/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-dpmnd.1790034507780.670&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "明星学院时期的张艺兴《找自己》",
+              "url": "https://www.bilibili.com/video/BV1un6zYPEiy/?spm_id_from=333.788.recommend_more_video.21&trackid=web_related_0.router-related-2589621-4bxql.1790034863527.237&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "2005《穿越时空的爱恋》（明星学院）",
+              "url": "https://www.bilibili.com/video/BV1taNhz8EiB/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "2005钢琴曲《江南》（明星学院）",
+              "url": "https://www.bilibili.com/video/BV1AQNUz6E1U/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "（考古）张艺兴、陶喆 2000年音乐不断歌友会 同台视频【高清版】",
+              "url": "https://www.bilibili.com/video/BV1aM4y1D7FC/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-tj4lz.1790034565627.994&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "“师大附中那位去了韩国当练习生的学长”",
+              "url": "https://www.bilibili.com/video/BV15c41167zz/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-k2x2j.1790034765580.191&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴出道前小时候唱歌+表演合集，还有那个是你没有看过的",
+              "url": "https://www.bilibili.com/video/BV1AM4y1Q7fH/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "考古早期艺兴作曲、编曲、演唱的几首歌（因为你、想说心里的给你听、自己的舞台、眼泪机场、My Girl）",
+              "url": "https://www.bilibili.com/video/BV1Ku4y1L7e2/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "听听张艺兴小时候怎么定义狐狸精这个词",
+              "url": "https://www.bilibili.com/video/BV18V41177ip/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴参加《明星学院》影像合集",
+              "url": "https://www.bilibili.com/video/BV1qh411Q7oE/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴小时候参加音乐不断林志颖歌友会的视频（豹纹野菊花）",
+              "url": "https://www.bilibili.com/video/BV1xk4y1m7Xt/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-4bxql.1790034706679.526&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "初中时期的张艺兴和同学吉他弹唱",
+              "url": "https://www.bilibili.com/video/BV1uZ4y1g7eK/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-4gb82.1790034828827.508&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2018年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴早年跳舞视频——张艺兴他硬要跳《nobody》",
+              "url": "https://www.bilibili.com/video/BV1RW411R7aU/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-2nm2w.1790034727928.820&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴实力拒绝听自己的老歌，表示“求求你们千万不要放”",
+              "url": "https://www.bilibili.com/video/BV1pb411F7kS/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】小加帅出演百味人生《咱老百姓》CUT",
+              "url": "https://www.bilibili.com/video/BV1us411x7Qt/?spm_id_from=333.1387.upload.video_card.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2015年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "合集：【张艺兴】小绵羊Lay的十年进化成长史（更新至24P",
+              "url": "https://www.bilibili.com/video/BV1Ks411m7gv/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
+              "type": "divider",
+              "label": "2014年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴初中时期原创歌曲——《自己的舞台》（字幕版）",
+              "url": "https://www.bilibili.com/video/BV1Rx411P7UX/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            }
+          ]
         },
         {
           "id": "bilibili-prince",
           "title": "阿b小王子",
           "children": [
             {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "他到底有多好看，才会被黑粉取名“晶晶”",
+              "url": "https://b23.tv/oKm3qGV"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "那年你23岁刚回国 还没当公司的总裁",
+              "url": "https://b23.tv/KN6Gh9c"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
+            {
               "id": "tian-dang",
               "title": "甜党",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "张艺兴停车场逗狗？张艺兴：你就是这么安利我的？",
+                  "url": "https://www.bilibili.com/video/BV1UP4y147kZ/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-48s8n.1789964528855.55&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+                },
+                {
+                  "type": "divider",
+                  "label": "2017年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "EXO张艺兴LAY日本FM游戏合辑中字",
+                  "url": "https://b23.tv/nj9xhxq"
+                },
+                {
+                  "type": "divider",
+                  "label": "2016年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】皮卡丘之歌1.0",
+                  "url": "https://b23.tv/euzCfcV"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】皮卡丘之歌2.0",
+                  "url": "https://b23.tv/6zWDDLW"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "Bilibili",
@@ -1222,12 +2841,95 @@
             {
               "id": "yan-dang",
               "title": "盐党",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "别 眨 眼 ，只 有 4 0 秒",
+                  "url": "https://b23.tv/p4XK9I1"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】缺甜的日子盐总凑",
+                  "url": "https://www.bilibili.com/video/BV1Cx411r7i4/?spm_id_from=333.788.videopod.episodes&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+                }
+              ]
             },
             {
               "id": "xian-dang",
               "title": "仙党",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2023年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】风眼",
+                  "url": "https://b23.tv/bBY5ii1"
+                },
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "放眼整个娱乐圈，只有他能把大金链子戴出清纯感",
+                  "url": "https://b23.tv/mMbvnAf"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "闲着也是闲着 初恋的感觉到了",
+                  "url": "https://b23.tv/qt0arNE"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】I Like It Loud |PPT美颜混剪，快来拜见美神大人",
+                  "url": "https://b23.tv/xsVbtO7"
+                },
+                {
+                  "type": "divider",
+                  "label": "2017年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】《情书天成》|  二月红古风舔屏 |  废剪刀联萌出品",
+                  "url": "https://b23.tv/nMpD12J"
+                },
+                {
+                  "type": "divider",
+                  "label": "2016年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】是你让我陷入这爱情的疯狂——WKOREA花絮",
+                  "url": "https://b23.tv/Kl09HKS"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】4K高清生日会 MYM",
+                  "url": "https://b23.tv/k2DwvpM"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "Bilibili",
@@ -1517,6 +3219,62 @@
               "title": "一键换装",
               "children": [
                 {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴 PSYCHIC 一键换装   实力诠释极致 Balance】",
+                  "url": "https://www.bilibili.com/video/BV1Cz421S71K/?share_source=copy_web&vd_source=9edd4460ab70e03e41178f0e16d27393"
+                },
+                {
+                  "type": "divider",
+                  "label": "2021年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【【张艺兴】【全站最绝一键换装】别  眨  眼   最新神级一键换装 绝美舞台 极致享受《GIVE ME A CHANCE （爱到这）》】",
+                  "url": "https://www.bilibili.com/video/BV13T4y1P7mE/?share_source=copy_web&vd_source=9edd4460ab70e03e41178f0e16d27393"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】Mask 一键换装 || 张PD告诉你这叫Balance",
+                  "url": "https://www.bilibili.com/video/BV1A7411t7nY/?spm_id_from=333.1387.favlist.content.click"
+                },
+                {
+                  "type": "divider",
+                  "label": "2019年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴/一键换装】Peach 小黄桃",
+                  "url": "https://www.bilibili.com/video/BV1T4411q7Q8/?spm_id_from=333.1387.favlist.content.click"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【【张艺兴】【踩点混剪】张艺兴/迈克杰克逊 - 东方遇见西方2.0】",
+                  "url": "https://www.bilibili.com/video/BV1VE411e7ED/?share_source=copy_web&vd_source=9edd4460ab70e03e41178f0e16d27393"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【【张艺兴】ноиеу εÖз 一键换装】",
+                  "url": "https://www.bilibili.com/video/BV1At41137Ev/?share_source=copy_web&vd_source=9edd4460ab70e03e41178f0e16d27393"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
+                {
                   "type": "link",
                   "platform": "Bilibili",
                   "title": "【张艺兴】Lay u down一键换装精华混剪 催眠术让你扑朔迷离鼻血预定！",
@@ -1531,6 +3289,20 @@
           "title": "莲乎",
           "intro": "“一个努力对抗风车的堂吉诃德。名利的洪流呼啸而过，他保持一点幼稚的火种逆行。我只是旁观也含泪。” —— 张棉被",
           "children": [
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": null,
+              "title": "怎样看待张艺兴不顺应解约潮和ck解约  却更受央视重视了? - 想当霸王龙的回答 - 知乎",
+              "url": "https://www.zhihu.com/question/377628163/answer/1082540266"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
             {
               "type": "link",
               "platform": "知乎",
@@ -1620,12 +3392,6 @@
               "platform": "知乎",
               "title": "怎么看待张艺兴粉丝要求华为nova就华为合伙人问题给出合理解释？",
               "url": "https://www.zhihu.com/question/282694701/answer/428983098"
-            },
-            {
-              "type": "link",
-              "platform": "知乎",
-              "title": "为什么说张艺兴是有大格局的人？",
-              "url": "https://www.zhihu.com/question/413428382/answer/1404594212"
             },
             {
               "type": "link",
@@ -1854,6 +3620,18 @@
                   "url": "https://v.douyin.com/xhQ7G6LPmLw/"
                 }
               ]
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260126 | 张艺兴近期DY评论&回复汇总",
+              "url": "https://weibo.com/7774429542/QoRSIi2Rp"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260101 | 张艺兴DY评论汇总",
+              "url": "https://weibo.com/7774429542/Ql58DcNBQ"
             }
           ]
         },
@@ -1864,12 +3642,99 @@
             {
               "id": "yixing-weibo-posts",
               "title": "艺兴发过的微博",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "张艺兴丨微博存档",
+                  "url": "https://weibo.com/u/6487193604"
+                }
+              ]
             },
             {
               "id": "weibo-interactions",
               "title": "微博互动",
               "children": [
+                {
+                  "type": "divider",
+                  "label": "2026年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260130 | 张艺兴空降超话「评论回复」汇总",
+                  "url": "https://weibo.com/7774429542/QpxDlb2Bu"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "260130 | 张艺兴空降超话发帖汇总",
+                  "url": "https://weibo.com/7774429542/QpxtPvDMA"
+                },
+                {
+                  "type": "divider",
+                  "label": "2025年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "251231 | 张艺兴空降超话汇总",
+                  "url": "https://weibo.com/7774429542/QkXMbiEcG"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "251230 | 张艺兴空降超话汇总",
+                  "url": "https://weibo.com/7774429542/QkUw23giR"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "250123 | 张艺兴空降超话发帖汇总",
+                  "url": "https://weibo.com/7774429542/PaXtzgDpJ"
+                },
+                {
+                  "type": "divider",
+                  "label": "2024年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "241023 | 张艺兴空降超话发帖汇总",
+                  "url": "https://weibo.com/7774429542/OCUx7kwBL"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "240729 | 张艺兴空降超话发帖汇总",
+                  "url": "https://weibo.com/7774429542/OpMPWd890"
+                },
+                {
+                  "type": "divider",
+                  "label": "2022年"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "220627 | 张艺兴私信汇总",
+                  "url": "https://weibo.com/5330052953/LzBYW4Ct0"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "220627 | 张艺兴凌晨空降粉丝群 文字版汇总",
+                  "url": "https://weibo.com/5330052953/LzBOtulyF"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "220627 | 张艺兴凌晨空降粉丝群 ——语音➕文字完整版 微博私信汇总",
+                  "url": "https://weibo.com/5330052953/LzBmY8Zz9"
+                },
+                {
+                  "type": "divider",
+                  "label": "年份不详"
+                },
                 {
                   "type": "link",
                   "platform": "Bilibili",
@@ -1877,6 +3742,18 @@
                   "url": "https://b23.tv/hxQsKNP"
                 }
               ]
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "艺兴早期微博 （博主：雪儿一片一片啊)",
+              "url": "https://weibo.com/n/%E9%9B%AA%E5%84%BF%E4%B8%80%E7%89%87%E4%B8%80%E7%89%87%E5%95%8A"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴微博史整理",
+              "url": "https://weibo.com/5127871935/R5PqXvTpE"
             }
           ]
         }
@@ -1888,9 +3765,77 @@
       "color": "#4E3A5F",
       "children": [
         {
+          "type": "divider",
+          "label": "2025年"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "七夕特别企划「爱的回信·十六站联合告白」汇总",
+          "url": "https://weibo.com/7774429542/Q28OUvHcu"
+        },
+        {
+          "type": "divider",
+          "label": "2023年"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "〈大年小年，好运莲莲 • 张艺兴陪你过新年〉 ——『应援汇总",
+          "url": "https://weibo.com/5330052953/MoBNrsJof"
+        },
+        {
+          "type": "divider",
+          "label": "2022年"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "#张艺兴紫发海报# 〈资讯台自制 x 爱意流转，共赴邀约〉 𝐏𝐚𝐫𝐭𝟏: ——全球𝙓𝘽𝘼𝘾𝙆二巡心意视频汇总",
+          "url": "https://weibo.com/5330052953/LDAdnitm8"
+        },
+        {
+          "type": "divider",
+          "label": "年份不详"
+        },
+        {
           "id": "nickname-origin",
           "title": "昵称由来",
           "children": [
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "金鹤奖颁奖典礼上的蕾酱",
+              "url": "https://weibo.com/2187831235/5226756254205462"
+            },
+            {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】“蕾酱！！！”一些樱花妹对蕾酱的爱",
+              "url": "https://www.bilibili.com/video/BV1B24y1H7xc"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】蕾酱日语自我介绍进（退）化史",
+              "url": "https://www.bilibili.com/video/BV1JK411T7Dz"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
             {
               "id": "baobao",
               "title": "宝宝",
@@ -1906,13 +3851,26 @@
                   "platform": "Bilibili",
                   "title": "私有爱意难藏",
                   "url": "https://b23.tv/Fl9j96X"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【【张艺兴读粉丝来信】哈哈哈哈被叫“艺兴宝宝”受不了-哔哩哔哩】",
+                  "url": "https://b23.tv/vUQMlGJ"
                 }
               ]
             },
             {
               "id": "bob",
               "title": "bob",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴｜采访】Eight FM油管更新：和bob一起玩“我有你没有”的游戏时艺兴会说什么呢？一起看看叭",
+                  "url": "https://www.bilibili.com/video/BV1SH4y1c7Dh"
+                }
+              ]
             },
             {
               "id": "lianmi",
@@ -1927,17 +3885,62 @@
             {
               "id": "little-sheep-fox",
               "title": "小绵羊，小狐狸",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】把师傅黄磊气的到处诉苦：他已经不是小绵羊了是老狐狸",
+                  "url": "https://www.bilibili.com/video/BV1Xt411U7SU"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】小绵羊极限挑战收官谈话完整版 哭的太美了",
+                  "url": "https://www.bilibili.com/video/BV1Cs411172z"
+                }
+              ]
             },
             {
               "id": "guogai",
               "title": "锅盖",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "贝壳换上小丸子锅盖头",
+                  "url": "https://weibo.com/6487505234/4926423338851459"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【《我的头发可不是锅盖》——张艺兴-哔哩哔哩】",
+                  "url": "https://b23.tv/h5xq4IU"
+                },
+                {
+                  "type": "link",
+                  "platform": "微博",
+                  "title": "《黏黏糊糊卡通小锅盖》来也 无限循环 cr：dy嗡嗡牌",
+                  "url": "https://weibo.com/3803430350/4926312780665217"
+                }
+              ]
             },
             {
               "id": "zhenzhu",
               "title": "珍珠",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】我不是小珍珠了 我是大珍珠~：演唱会彩排前直播「230803」",
+                  "url": "https://www.bilibili.com/video/BV1GP411t7Yd"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【王大陆问艺兴为什么你的粉丝叫贝壳啊】 “因为他们硬 我就是那颗珍珠” ，真的太好哭了，结尾还教比“L”",
+                  "url": "https://www.bilibili.com/video/BV1pV4y1i7Tn"
+                }
+              ]
             },
             {
               "id": "huanhuan",
@@ -1953,7 +3956,20 @@
             {
               "id": "xingmi",
               "title": "兴迷",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "其他",
+                  "title": "The Xingmi Handbook — Fandom",
+                  "url": "https://sites.google.com/view/xingmihandbook/fandom"
+                },
+                {
+                  "type": "link",
+                  "platform": "其他",
+                  "title": "张艺兴与粉丝贝壳：从名字到情感的双向支持",
+                  "url": "https://mxgxt.com/news/view/1787652"
+                }
+              ]
             },
             {
               "id": "xback",
@@ -1964,25 +3980,476 @@
                   "platform": "知乎",
                   "title": "LayXback——2021/11/24 艺兴送给兴迷的生日祝福 - 张艺兴考古贝壳的文章",
                   "url": "https://zhuanlan.zhihu.com/p/310112133"
+                },
+                {
+                  "type": "link",
+                  "platform": "其他",
+                  "title": "The Xingmi Handbook — Fandom",
+                  "url": "https://sites.google.com/view/xingmihandbook/fandom"
+                },
+                {
+                  "type": "link",
+                  "platform": "媒体",
+                  "title": "张艺兴签售尽显宠溺 为歌迷取名“Xback”",
+                  "url": "https://ent.sina.cn/music/yneidi/2016-11-28/detail-ifxyawmm3644105.d.html?vt=4"
                 }
               ]
             },
             {
               "id": "beike-1124",
               "title": "1124",
-              "children": []
+              "children": [
+                {
+                  "type": "link",
+                  "platform": "其他",
+                  "title": "The Xingmi Handbook — Fandom",
+                  "url": "https://sites.google.com/view/xingmihandbook/fandom"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "求科普，张艺兴的粉丝贝壳女孩们的生日为什么是11月24呀？",
+                  "url": "https://www.zhihu.com/question/413115021"
+                },
+                {
+                  "type": "link",
+                  "platform": "知乎",
+                  "title": "Lay与Xback——艺兴送给兴迷的生日祝福（2021/11/24） - 张艺兴考古贝壳r的文章 - 知乎",
+                  "url": "https://zhuanlan.zhihu.com/p/310112133"
+                }
+              ]
             }
           ]
         },
         {
           "id": "live-stream",
           "title": "直播",
-          "children": []
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "历年张艺兴1007生日相关直播小视频合集",
+              "url": "https://b23.tv/zknwrWj"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260103 | 张艺兴DY直播全程 CUT（5'19）〈没关礼物版〉 上英语课时被特效炫到呆住的小羊",
+              "url": "https://video.weibo.com/show?fid=1034:5251128552783953"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260103 | 张艺兴DY直播全程 CUT（67'6\"）〈关礼物版〉 今天你学英语了吗？台学会了 Big bridal sedan chair",
+              "url": "https://video.weibo.com/show?fid=1034:5251149310394472"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260101 | 张艺兴DY直播全程存档 迟来的Cut，新年快乐",
+              "url": "https://video.weibo.com/show?fid=1034:5252548144332809"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260113 | 张艺兴DY直播全程 CUT 看到小羊的一瞬间，一切都变得很美好一定要照顾好自己哦",
+              "url": "https://video.weibo.com/show?fid=1034:5254635288723523"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "20260205 | 张艺兴DY直播全程（有礼物版） CUT 深夜英语课来袭",
+              "url": "https://video.weibo.com/show?fid=1034:5262881084866564"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260205 | 张艺兴DY直播全程 CUT 我学我学我学",
+              "url": "https://video.weibo.com/show?fid=1034:5262882011807761"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260211 | 张艺兴DY直播全程 CUT 乖咪就这样匆匆的来又匆匆的走了",
+              "url": "https://video.weibo.com/show?fid=1034:5265217098285098"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260216 | 张艺兴DY直播全程 CUT 新年快乐！！！",
+              "url": "https://video.weibo.com/show?fid=1034:5267018891591783"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260305 | 张艺兴DY直播全程 CUT（第一段） Bob和壳们一起努力想词做歌ing",
+              "url": "https://video.weibo.com/show?fid=1034:5273222850216004"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260305 | 张艺兴DY直播全程 CUT（第二段）（63'14） 聆听西海岸的《大花轿》&安静陪伴做音乐",
+              "url": "https://video.weibo.com/show?fid=1034:5273225245163531"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260403 | 张艺兴DY直播全程 CUT 陪这个音乐甜菜小莲莲一起做音乐，请聆听《爱谁谁》＆《北京的雨》",
+              "url": "https://video.weibo.com/show?fid=1034:5283786405904399"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260408 | 张艺兴DY直播全程 CUT 小羊的背后永远都有壳在💜兴壳的爱永无休止",
+              "url": "https://video.weibo.com/show?fid=1034:5285582306476116"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260410 | 张艺兴DY直播全程 CUT 壳的意中人是个盖世英雄，有一天他会踩着紫色云彩来接壳",
+              "url": "https://video.weibo.com/show?fid=1034:5285967968534556"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260422 | 张艺兴DY直播全程 壳们快来听真正的音乐",
+              "url": "https://video.weibo.com/show?fid=1034:5290302999822487"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260427 | layzhang ins 直播回放全程（两段） 美美抵达北美，期待明天的发布会啦",
+              "url": "https://video.weibo.com/show?fid=1034:5292245440462877"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260428 | 张艺兴ins直播全程回放（唠嗑） 跨越重洋跟贝壳们说早安啦～工作日的一早就有香喷喷的宝宝陪伴噜",
+              "url": "https://video.weibo.com/show?fid=1034:5292618184327240"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260428 | 张艺兴ins直播全程回放（说晚安） 小宝上来跟大家说晚安啦（其实是本打算用这个特效拍几张照片，没想到点成了直播哈哈",
+              "url": "https://video.weibo.com/show?fid=1034:5292653898825793"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260429 | 张艺兴ins直播全程回放（62'51\"） 视频里有两只咪，",
+              "url": "https://video.weibo.com/show?fid=1034:5293188936826961"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260501 | 张艺兴DY直播全程回放 生日很快乐🎂壳的小羊",
+              "url": "https://video.weibo.com/show?fid=1034:5293907928350740"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260515 | 张艺兴 layzhang ins直播全程回放（85'43\"）",
+              "url": "https://video.weibo.com/show?fid=1034:5298872596234310"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260515 | 张艺兴 layzhang ins直播全程回放（陪咪吃饭） 陪咪一起吃饭，等咪回家",
+              "url": "https://video.weibo.com/show?fid=1034:5298941433151639"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260516 | 张艺兴layzhang ins直播回放（凌晨两点半） 凌晨两点半，携🐱和👍🏻回归的咪",
+              "url": "https://video.weibo.com/show?fid=1034:5299645514186786"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260526 | 张艺兴DY直播全程回放",
+              "url": "https://video.weibo.com/show?fid=1034:5302922854989873"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260530 | 张艺兴DY直播全程录屏 咪咪大王饭后愉快时间到！",
+              "url": "https://video.weibo.com/show?fid=1034:5304371450413064"
+            },
+            {
+              "type": "link",
+              "platform": "其他",
+              "title": "260628 | 张艺兴layzhang ins直播全程回放 Abang Lay又带着他的经典专属小猫来啦",
+              "url": "https://video.weibo.com/show?fid=1034:5314877497999481"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260704 | 张艺兴DY直播全程录屏 结束一天工作后的深夜，此咪最想的还是和贝壳一起健身听新专",
+              "url": "https://video.weibo.com/show?fid=1034:5316787638829126"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260719 | 张艺兴DY直播全程录屏 期待宝宝澳门的surprise",
+              "url": "https://video.weibo.com/show?fid=1034:5322444412747870"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260726 | 张艺兴DY直播全程录屏 和咪一起看蓝天白云，一起吃饭",
+              "url": "https://video.weibo.com/show?fid=1034:5324909979828366"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260726 | 张艺兴DY直播全程录屏 本打算唱《北京的雨》的咪就这样笨笨的打开了合唱",
+              "url": "https://video.weibo.com/show?fid=1034:5325012585087212"
+            },
+            {
+              "type": "link",
+              "platform": "抖音",
+              "title": "260813 | 张艺兴DY直播全程录屏 特意开播只是为了给贝壳说句 要照顾好自己",
+              "url": "https://video.weibo.com/show?fid=1034:5331463466319880"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260917 抖音直播 弹幕鉴赏",
+              "url": "https://weibo.com/7803136858/RiHEMwD42"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "251007闹天宫北京鸟巢站彩排直播",
+              "url": "https://b23.tv/Qdp3PZG"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴ins直播高清完整版汇总",
+              "url": "https://weibo.com/7774429542/Qd2sc0VNG"
+            },
+            {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "20161124 [S.M. THE ARTIST] 张艺兴 LAY EP01 韩语中字",
+              "url": "https://b23.tv/cmgYPxL"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "20161125 [S.M. THE ARTIST] 张艺兴 LAY EP02 韩语中字",
+              "url": "https://b23.tv/u0qxdg7"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "20161124 [S.M. THE ARTIST] 张艺兴 LAY EP03 韩语中字",
+              "url": "https://b23.tv/6LvR7OH"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "20161125 [S.M. THE ARTIST] 张艺兴 LAY EP04 韩语中字",
+              "url": "https://b23.tv/liq5BTN"
+            },
+            {
+              "type": "divider",
+              "label": "年份不详"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴直播",
+              "url": "https://b23.tv/ERMpur4"
+            }
+          ]
         },
         {
           "id": "fan-meetings",
           "title": "见面会，签售会",
-          "children": []
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260919 | 张艺兴「斗战胜佛」签售会深圳场·饭拍汇总",
+              "url": "https://weibo.com/7774429542/RiZXwzNdA"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260919 深圳签售结尾talk完整版20260919",
+              "url": "https://weibo.com/7246215695/Rjba7a4PB"
+            },
+            {
+              "type": "event",
+              "eventId": "fan-meeting-2026-wuhan-douzhan-shengfo"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴「STAY With Me」重庆小家见面会饭拍汇总（持续编辑）",
+              "url": "https://weibo.com/7774429542/Qfmd0lAtO"
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "240420 首尔Psychic签售会（右边视角）cr.补丁76",
+              "url": "https://b23.tv/qV6dBmc"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "240420 首尔Psychic签售会（左边视角）cr.dimpleHOLiC",
+              "url": "https://b23.tv/1m3nC1H"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "240420 | MBC音乐中心[mini Fan Meeting］饭拍汇总 （推特视频版Part 1）",
+              "url": "https://weibo.com/5330052953/Oayl3u5uE"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "240420 | MBC音乐中心[mini Fan Meeting］饭拍汇总",
+              "url": "https://weibo.com/5330052953/Oay214a8n"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "240331｜张艺兴长沙见面会饭拍汇总",
+              "url": "https://weibo.com/5330052953/O7zN4EU9y"
+            },
+            {
+              "type": "divider",
+              "label": "2017年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】171105 SHEEP长沙签售会（全场）",
+              "url": "https://b23.tv/E8Ca0FN"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】171029SHEEP深圳签售会（全场）",
+              "url": "https://b23.tv/AuhnjyT"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】171021SHEEP上海签售会（全场）",
+              "url": "https://b23.tv/b9k0tKt"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171105 SHEEP长沙签售会直播回放",
+              "url": "https://b23.tv/2OtG3nz"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171105 SHEEP长沙签售会（全场）cr.dimpleHOLiC",
+              "url": "https://b23.tv/GPDT4HE"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171029 SHEEP深圳签售会直播全场",
+              "url": "https://b23.tv/yCaYmME"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171029 SHEEP深圳签售会全场 cr.dimpleHOLiC",
+              "url": "https://b23.tv/nssYq33"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171021 SHEEP上海签售会直播",
+              "url": "https://b23.tv/UPDO6bY"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171021 SHEEP上海签售会全场（左边视角）cr.dimpleHOLiC",
+              "url": "https://b23.tv/uZPalTy"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "171021 SHEEP上海签售会全场（正面视角）cr.小玫瑰球",
+              "url": "https://b23.tv/Pm96Avj"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "X-CODE EP.音悦台SHEEP签售会合集（EP1-2）",
+              "url": "https://b23.tv/ga4Kh2Z"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "X-CODE EP.音悦台SHEEP签售会合集（EP3）",
+              "url": "https://b23.tv/UKg3DB4"
+            },
+            {
+              "type": "divider",
+              "label": "2016年"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "161204 广州签售会全程(一排视角）cr.总支部",
+              "url": "https://b23.tv/pFrfS4h"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "161204 广州签售表演（高清正面不完整）cr.LAYMyLOnUx",
+              "url": "https://b23.tv/zEw6dUt"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "161125 上海签售会 cr.目里哒",
+              "url": "https://b23.tv/nvVcSiC"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "161117 北京签售会全场focus cr.LuckyXingRoxanna",
+              "url": "https://b23.tv/Zli2rHl"
+            }
+          ]
         },
         {
           "id": "other-fan-content",
@@ -1993,6 +4460,30 @@
               "platform": "Bilibili",
               "title": "历年官方情人节七夕物料合集",
               "url": "https://b23.tv/9V7MbrL"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "LAY’S MOON NIGHT RADIO 【张艺兴晚安电台连载中·更新至2023年6月12日】",
+              "url": "https://www.bilibili.com/video/BV1Pt4y187xW/?spm_id_from=333.337.search-card.all.click"
+            },
+            {
+              "type": "link",
+              "platform": "YouTube",
+              "title": "LAY's MOON NIGHT RADIO EN Playlist",
+              "url": "https://www.youtube.com/playlist?list=PLqoWKGufU0fFf9DmF4A8bsypFy3LvXhZa"
+            },
+            {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "【张艺兴】这一场的这只兔子跑进了多少人的心里",
+              "url": "https://b23.tv/db7irBL"
+            },
+            {
+              "type": "link",
+              "platform": null,
+              "title": "现在的你想和几岁的张艺兴相遇",
+              "url": "https://weibo.com/2543638965/4686120455242249"
             }
           ]
         }
@@ -2048,6 +4539,12 @@
               "platform": "媒体",
               "title": "Cover Story / Lay Zhang: Myriad branches vie for spring",
               "url": "https://xingtweettrans1007.medium.com/cover-story-lay-zhang-myriad-branches-vie-for-spring-8fd793008ec3"
+            },
+            {
+              "type": "link",
+              "platform": null,
+              "title": "TMRW",
+              "url": "https://weibo.com/5656817886/4288132025842545"
             }
           ]
         },
@@ -2622,6 +5119,87 @@
           "title": "历年商务代言",
           "children": [
             {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "honor",
+              "title": "JEMPER 君佩 全球首位品牌代言人",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "Off-White™品牌代言人",
+              "year": 2026
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "honor",
+              "title": "润百颜全球品牌代言人",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "茅台文旅代言人（茅台文旅首位代言人）",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "京东潮流代言人 & 618 惊喜大使",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "青啤优活品牌代言人",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "支付宝青春大使 & 碰一下福利官",
+              "year": 2025
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "honor",
+              "title": "Qeelin 麒麟 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "雪碧 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "芒果 TV 会员代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "曼秀雷敦品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "梅赛德斯 - 奔驰 G 级越野车品牌大使",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "传音 TECNO 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
               "type": "link",
               "platform": "知乎",
               "title": "怎么看张艺兴成为中国街舞运动首位宣传大使？",
@@ -2640,16 +5218,371 @@
           "title": "音乐",
           "children": [
             {
-              "type": "link",
-              "platform": "知乎",
-              "title": "如何看待张艺兴在腾讯星光大赏获得年度最佳专辑并跪吻舞台？",
-              "url": "https://www.zhihu.com/question/263542142/answer/270240318"
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "honor",
+              "title": "微博音乐盛典｜年度全能音乐人，拿下四项大奖：年度人物、年度歌曲、年度 MV、年度演唱会",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "第 7 届腾讯音乐娱乐盛典：专辑《闹天宫》年度华语数字专辑",
+              "year": 2026
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "honor",
+              "title": "2025 微博音乐盛典｜年度全能音乐人、年度专辑《闹天宫》",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "腾讯音乐由你榜｜年度歌手、年度创作歌手；《闹天宫》年度专辑",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "QQ 音乐巅峰榜｜年度十大艺人；《闹天宫》年度十大专辑、年度巅峰数字专辑；单曲《拖拉机》第三季度十大单曲",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "亚洲流行音乐大奖 APMA 提名：最佳制片人、最佳男艺人、年度最佳专辑《闹天宫》（12 月提名）",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "2025 腾讯音乐榜样年度荣誉之夜（1 月）：年度十大歌手",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "大航海 5・闹天宫鸟巢演唱会：行业媒体评定年度标杆演唱会",
+              "year": 2025
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "honor",
+              "title": "《大航海 5・闹天宫》鸟巢演唱会：舞台创下吉尼斯世界纪录",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "2024 微博音乐盛典 WMA：年度荣耀音乐人、年度推荐人物・华语歌手 TOP10",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "2024 年度音乐行业报告：年度跨界艺人、年度最佳专辑制作人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "大航海 3・无远弗届演唱会：美国缪斯 MUSE 设计奖 白金奖",
+              "year": 2024
+            },
+            {
+              "type": "divider",
+              "label": "2018年"
             },
             {
               "type": "link",
               "platform": "知乎",
               "title": "如何评价张艺兴成为2018-2019年度格莱美音乐节中国官方唯一宣传大使？",
               "url": "https://www.zhihu.com/question/271995241"
+            },
+            {
+              "type": "divider",
+              "label": "2017年"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何看待张艺兴在腾讯星光大赏获得年度最佳专辑并跪吻舞台？",
+              "url": "https://www.zhihu.com/question/263542142/answer/270240318"
+            }
+          ]
+        },
+        {
+          "id": "brand-events",
+          "title": "品牌活动",
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260917 | 张艺兴君佩武汉线下活动饭拍汇总",
+              "url": "https://weibo.com/7774429542/RixO8froc"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260517 | 张艺兴·润百颜北京线下活动饭拍汇总",
+              "url": "https://weibo.com/7774429542/QFNVbaToO"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈台自制 x 2024年张艺兴代言杂志时尚活动汇总",
+              "url": "https://weibo.com/7774429542/Pa0zuuMUy"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "250824 | 张艺兴青啤优活西安发布会饭拍汇总",
+              "url": "https://weibo.com/7774429542/Q1m7olwaQ"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "250326 | 张艺兴× Qeelin晚宴饭拍汇总",
+              "url": "https://weibo.com/7774429542/PkmrV8vvH"
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【241016 北京国贸TOMFORD饭拍汇总",
+              "url": "https://weibo.com/7774429542/OBQ1gfVW3"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "241026 | 【曼秀雷敦135周年品牌发布会直播】——张艺兴图频物料汇总（持更）",
+              "url": "https://weibo.com/7774429542/ODlf044xn"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "241018 | 【“登峰造G”梅赛德斯-奔驰G级越野车之夜】——张艺兴图频物料汇总（持更）",
+              "url": "https://weibo.com/7774429542/OCa1Ba3wC"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "240321｜张艺兴 Qeelin 杭州品牌活动饭拍汇总",
+              "url": "https://weibo.com/5330052953/O64F42Ufz"
+            },
+            {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈张艺兴 x 宇舶表『钟表与奇迹』之旅全记录〉 ——宇舶表品牌大使的专属旅行•视频版 图文版：微博正文 行程汇总",
+              "url": "https://weibo.com/5330052953/MA9CQ2uyP"
+            },
+            {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "221222 | 张艺兴纯甄杭州见面会饭拍汇总〈持更〉",
+              "url": "https://weibo.com/5330052953/MkN2xChLo"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "221110 | 张艺兴受邀现场观看NBA常规赛图频汇总（持更）",
+              "url": "https://weibo.com/5330052953/MevDsgmsE"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "211231 | 张艺兴 x @宇舶表 ——宇舶表全平台汇总",
+              "url": "https://weibo.com/5330052953/L8E15eXTV"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "211104 | 张艺兴亮相CHAUMET「冠冕绮梦」沉浸互动体验大展 〈张艺兴图频汇总合集",
+              "url": "https://weibo.com/5330052953/KFVLjzLh5"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "201111 | 张艺兴探班苏宁易购总部 合集汇总",
+              "url": "https://weibo.com/5330052953/JtAYgnRBY"
+            }
+          ]
+        },
+        {
+          "id": "magazines-fashion",
+          "title": "杂志/时尚大片",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（下篇）",
+              "url": "https://weibo.com/5330052953/JnFSfwQDr"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（上篇）",
+              "url": "https://weibo.com/5330052953/JnFRonOm7"
+            }
+          ]
+        },
+        {
+          "id": "honors-movies",
+          "title": "电影",
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "honor",
+              "title": "第 79 届戛纳国际电影节中国之夜全球宣传大使",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "2026 暑期档最出圈电影男角色 TOP1",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "微博电影之夜｜网友年度瞩目影人 TOP5",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "主演电影总票房突破 100 亿，90 后男演员首位百亿票房",
+              "year": 2026
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "honor",
+              "title": "第十二届浙江电影凤凰奖 优秀男主角（6 月，《不说话的爱》）",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "第 38 届东京国际电影节・中国电影周金鹤奖 最佳男主角，《不说话的爱》",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "主演电影累计票房突破 79.26 亿，获评 90 生一番票房 TOP1（媒体行业荣誉称号）",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "中国电影导演协会 2025 年度荣誉初评入围《不说话的爱》小马提名",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "年度最具票房号召力男演员，行业云盛典荣誉称号",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "上海国际电影节金爵奖最佳男主角提名《不说话的爱》提名",
+              "year": 2025
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "honor",
+              "title": "第 37 届大众电影百花奖 最佳男主角提名，电影《孤注一掷》潘生",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "id": "honors-drama",
+          "title": "话剧",
+          "children": [
+            {
+              "type": "honor",
+              "title": "音乐话剧《受到召唤・敦煌》：2025 年度中国原创音乐剧票房 TOP1",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "id": "honors-social",
+          "title": "其他荣誉",
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "honor",
+              "title": "《环球人物》星光计划・非遗推介官",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "国潮文化推介官｜世界品牌莫干山大会授予",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "微光・环塔公益联盟倡导人",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "安塞腰鼓文化传播大使",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "TopBrand 中国品牌青年 500 强入选者",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "联合国新闻客座主持人",
+              "year": 2026
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "honor",
+              "title": "湖南文旅推广大使",
+              "year": 2024
             }
           ]
         }
@@ -2663,7 +5596,14 @@
         {
           "id": "brightstar-weibo",
           "title": "Brightstar 微博",
-          "children": []
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "博主： Bright_star_张艺兴航海日记，见评论区",
+              "url": "https://weibo.com/2543638965/4465847432916341"
+            }
+          ]
         },
         {
           "id": "qixi-weibo",
@@ -2703,6 +5643,96 @@
           "platform": "微博",
           "title": "美图汇总：UnicornLay_糖分基地",
           "url": ""
+        },
+        {
+          "type": "divider",
+          "label": "2022年"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "〔资讯台2022 第一季度 分类安利交叉汇总",
+          "url": "https://weibo.com/5330052953/LmtuvrRSX"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "【张艺兴2022出道十周年资讯台特别企划】 ——时年纪·张艺兴出道十周年企划之影视汇总 〈荧幕蜕变，沉淀致远〉",
+          "url": "https://weibo.com/5330052953/LmsNMlElb"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "【张艺兴2022出道十周年资讯台特别企划】 ——时年纪·张艺兴之个人原创音乐汇总",
+          "url": "https://weibo.com/5330052953/LmjOWxP4W"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "资讯台自制 x 万里航程千里志，十年牧童百年心 ——张艺兴海外行程汇总",
+          "url": "https://weibo.com/5330052953/MiEVp0Vl2"
+        },
+        {
+          "type": "divider",
+          "label": "2020年"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "博主：张艺兴访谈记录博 2003-2020.7 访谈合集",
+          "url": "https://weibo.com/ttarticle/x/m/show#/id=2309404546205853024429&_wb_client_=1"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "资讯台自制X原创音乐人张艺兴音乐精选.合集",
+          "url": "https://weibo.com/5330052953/J7QGcdYaP"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "美图汇总 - 博主：最爱绵羊的小灰灰",
+          "url": "https://weibo.com/6490098512/JnGxtfF01"
+        },
+        {
+          "type": "divider",
+          "label": "长期账号/资源"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "绵羊日报编辑部",
+          "url": "https://weibo.com/u/5708627150?tabtype=feed"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "#张艺兴考古日记#",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%80%83%E5%8F%A4%E6%97%A5%E8%AE%B0%23"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "博主：艺术是出口",
+          "url": "https://weibo.com/u/5176315021"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "任务博 - 博主：咩咩放映机",
+          "url": "https://weibo.com/u/7996410850"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "任务博 - 博主：莲池热度补给站机",
+          "url": "https://weibo.com/u/8289850064"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "任务博 - 博主：兴际空间_大屏札记",
+          "url": "https://weibo.com/u/9059061696"
         }
       ]
     }
