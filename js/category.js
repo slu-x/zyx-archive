@@ -68,6 +68,7 @@ async function renderChildCard(child, accentColor, kudosCounts, likedSet) {
     const kudosId = kudosIdForLink(child.url);
     const count = kudosCounts[kudosId] || 0;
     return `
+      ${captionHtml(child.caption)}
       <div class="node-card-row">
         <a class="node-card link-card" href="${escapeHtml(child.url)}" target="_blank" rel="noopener noreferrer">
           ${platformBadgeHtml(child.platform || "?")}

@@ -43,6 +43,7 @@ async function renderEventPage() {
               const kudosId = kudosIdForLink(m.url);
               const count = kudosCounts[kudosId] || 0;
               return `
+            ${m.caption ? `<li class="material-caption-item">${captionHtml(m.caption)}</li>` : ""}
             <li class="node-card-row">
               <a class="material-link" href="${escapeHtml(m.url)}" target="_blank" rel="noopener noreferrer">
                 ${platformBadgeHtml(m.platform || "?")}

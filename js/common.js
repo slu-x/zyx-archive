@@ -31,6 +31,13 @@ function platformBadgeHtml(platform) {
   return `<span class="platform-badge" style="background:${style.bg};color:${style.fg}">${escapeHtml(platform)}</span>`;
 }
 
+// 给单条链接/物料加的一小段说明文字（可选，来自 nav.json 的 caption 字段 /
+// 事件物料的 caption 字段），显示在这条卡片正上方。没有就不渲染任何东西。
+function captionHtml(caption) {
+  if (!caption) return "";
+  return `<div class="material-caption">"${escapeHtml(caption)}"</div>`;
+}
+
 async function fetchJson(url) {
   // cache: "no-cache" 会让浏览器每次都跟服务器确认一下内容有没有变，
   // 而不是直接用很久以前缓存的旧版本 —— 保证你更新完资料后，访问者不用手动刷新也能看到最新内容。

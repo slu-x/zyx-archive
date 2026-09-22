@@ -440,6 +440,16 @@ main {
   opacity: 0.6;
 }
 
+/* 给单条链接/物料加的一小段说明文字（可选，nav.json/事件文件里的 caption 字段） */
+.material-caption {
+  font-size: 12.5px;
+  font-style: italic;
+  color: var(--muted);
+  border-left: 2px solid var(--kudos-color);
+  padding-left: 10px;
+  margin: 2px 0;
+}
+
 /* 纯文字荣誉条目：只有文字+年份，不可点击，不带点赞按钮 */
 .honor-card {
   display: flex;

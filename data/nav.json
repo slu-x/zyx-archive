@@ -1407,7 +1407,8 @@
                   "type": "link",
                   "platform": "Bilibili",
                   "title": "【张艺兴】北京大兴国际机场演绎《青春颂》初舞台",
-                  "url": "https://b23.tv/9fQB9uS"
+                  "url": "https://b23.tv/9fQB9uS",
+                  "caption": "Bob在《唱作人》所说的“商演”（狗头）"
                 },
                 {
                   "type": "divider",
@@ -2000,17 +2001,8 @@
                   "type": "link",
                   "platform": "知乎",
                   "title": "《极限挑战》带给了张艺兴什么？",
-                  "url": "https://www.zhihu.com/question/47930436/answer/152554251"
-                },
-                {
-                  "type": "divider",
-                  "label": "2016年"
-                },
-                {
-                  "type": "link",
-                  "platform": "知乎",
-                  "title": "《极限挑战》带给了张艺兴什么？",
-                  "url": "https://www.zhihu.com/question/47930436"
+                  "url": "https://www.zhihu.com/question/47930436/answer/152554251",
+                  "caption": "或许他曾遭遇了一些事，它们冲击、拍打、试图摧垮这一信念的生成过程。但一旦它被内视、发现、确认后，绝对会成为最无坚不摧的高壁。 千百种计谋是刀剑，但世界上最厉害的盾却是一寸真心。- 桃花扇"
                 },
                 {
                   "type": "divider",
@@ -2020,7 +2012,8 @@
                   "type": "link",
                   "platform": "Bilibili",
                   "title": "【20150531二巡上海演唱会】张艺兴focus合辑（极限男人帮）",
-                  "url": "https://www.bilibili.com/video/BV17s411m7uq/?"
+                  "url": "https://www.bilibili.com/video/BV17s411m7uq/?",
+                  "caption": "20150531，上海二巡张艺兴focus合辑，极限男人帮在，小绵羊这次演唱会唱跳都特别给力，还拿着孙红雷送的那朵玫瑰花唱情歌【演唱会极限男人帮在舞台偏右上的地方坐着，快乐大本营的导演也在】"
                 }
               ]
             },
@@ -2758,6 +2751,12 @@
           "title": "加帅时期",
           "children": [
             {
+              "type": "link",
+              "platform": "Bilibili",
+              "title": "张艺兴实力拒绝听自己的老歌，表示“求求你们千万不要放”",
+              "url": "https://www.bilibili.com/video/BV1pb411F7kS/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+            },
+            {
               "type": "divider",
               "label": "2026年"
             },
@@ -2866,12 +2865,6 @@
               "url": "https://www.bilibili.com/video/BV1RW411R7aU/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-2nm2w.1790034727928.820&vd_source=53b81bf835835cf99b61f02aa0ab2529"
             },
             {
-              "type": "link",
-              "platform": "Bilibili",
-              "title": "张艺兴实力拒绝听自己的老歌，表示“求求你们千万不要放”",
-              "url": "https://www.bilibili.com/video/BV1pb411F7kS/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
-            },
-            {
               "type": "divider",
               "label": "2016年"
             },
@@ -2899,7 +2892,8 @@
               "type": "link",
               "platform": "Bilibili",
               "title": "张艺兴初中时期原创歌曲——《自己的舞台》（字幕版）",
-              "url": "https://www.bilibili.com/video/BV1Rx411P7UX/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529"
+              "url": "https://www.bilibili.com/video/BV1Rx411P7UX/?spm_id_from=333.337.search-card.all.click&vd_source=53b81bf835835cf99b61f02aa0ab2529",
+              "caption": "最初的MPOP"
             }
           ]
         },
@@ -4057,26 +4051,6 @@
             },
             {
               "type": "divider",
-              "label": "2023年"
-            },
-            {
-              "type": "link",
-              "platform": "Bilibili",
-              "title": "【张艺兴】“蕾酱！！！”一些樱花妹对蕾酱的爱",
-              "url": "https://www.bilibili.com/video/BV1B24y1H7xc"
-            },
-            {
-              "type": "divider",
-              "label": "2020年"
-            },
-            {
-              "type": "link",
-              "platform": "Bilibili",
-              "title": "【张艺兴】蕾酱日语自我介绍进（退）化史",
-              "url": "https://www.bilibili.com/video/BV1JK411T7Dz"
-            },
-            {
-              "type": "divider",
               "label": "年份不详"
             },
             {
@@ -4205,6 +4179,32 @@
               "id": "huanhuan",
               "title": "欢欢",
               "children": []
+            },
+            {
+              "id": "leijiang",
+              "title": "蕾酱",
+              "children": [
+                {
+                  "type": "divider",
+                  "label": "2023年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】“蕾酱！！！”一些樱花妹对蕾酱的爱",
+                  "url": "https://www.bilibili.com/video/BV1B24y1H7xc"
+                },
+                {
+                  "type": "divider",
+                  "label": "2020年"
+                },
+                {
+                  "type": "link",
+                  "platform": "Bilibili",
+                  "title": "【张艺兴】蕾酱日语自我介绍进（退）化史",
+                  "url": "https://www.bilibili.com/video/BV1JK411T7Dz"
+                }
+              ]
             }
           ]
         },
@@ -4512,7 +4512,8 @@
               "type": "link",
               "platform": "Bilibili",
               "title": "20161124 [S.M. THE ARTIST] 张艺兴 LAY EP01 韩语中字",
-              "url": "https://b23.tv/cmgYPxL"
+              "url": "https://b23.tv/cmgYPxL",
+              "caption": "汉江、冬日、烟花和小羊"
             },
             {
               "type": "link",
@@ -4530,7 +4531,8 @@
               "type": "link",
               "platform": "Bilibili",
               "title": "20161125 [S.M. THE ARTIST] 张艺兴 LAY EP04 韩语中字",
-              "url": "https://b23.tv/liq5BTN"
+              "url": "https://b23.tv/liq5BTN",
+              "caption": "我要是遇到小时候的自己，会对他说'你还是好好学习吧，将来长大成为栋梁之材'"
             },
             {
               "type": "divider",
@@ -4562,7 +4564,8 @@
               "type": "link",
               "platform": "微博",
               "title": "260919 深圳签售结尾talk完整版20260919",
-              "url": "https://weibo.com/7246215695/Rjba7a4PB"
+              "url": "https://weibo.com/7246215695/Rjba7a4PB",
+              "caption": "很幸福的氛围，兴壳要永远在一起"
             },
             {
               "type": "event",
