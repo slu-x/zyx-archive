@@ -122,7 +122,7 @@
                 },
                 {
                   "type": "divider",
-                  "label": "年份不详"
+                  "label": "其他"
                 },
                 {
                   "id": "new-year-stage-compilation",
@@ -236,7 +236,7 @@
                 },
                 {
                   "type": "divider",
-                  "label": "年份不详"
+                  "label": "其他"
                 },
                 {
                   "id": "spring-gala-compilation",
@@ -1638,7 +1638,7 @@
             },
             {
               "type": "divider",
-              "label": "年份不详"
+              "label": "其他"
             },
             {
               "id": "movies",
@@ -1684,7 +1684,7 @@
                 },
                 {
                   "type": "divider",
-                  "label": "年份不详"
+                  "label": "其他"
                 },
                 {
                   "id": "kungfu-football",
@@ -2923,7 +2923,7 @@
             },
             {
               "type": "divider",
-              "label": "年份不详"
+              "label": "其他"
             },
             {
               "id": "tian-dang",
@@ -3846,7 +3846,7 @@
             },
             {
               "type": "divider",
-              "label": "年份不详"
+              "label": "其他"
             },
             {
               "id": "guiling",
@@ -3920,7 +3920,7 @@
             },
             {
               "type": "divider",
-              "label": "年份不详"
+              "label": "其他"
             },
             {
               "id": "yixing-weibo-posts",
@@ -4051,7 +4051,7 @@
             },
             {
               "type": "divider",
-              "label": "年份不详"
+              "label": "其他"
             },
             {
               "id": "baobao",
@@ -5473,105 +5473,6 @@
       "color": "#5A3D45",
       "children": [
         {
-          "id": "brand-ambassadorships",
-          "title": "历年商务代言",
-          "children": [
-            {
-              "type": "divider",
-              "label": "2026年"
-            },
-            {
-              "type": "honor",
-              "title": "JEMPER 君佩 全球首位品牌代言人",
-              "year": 2026
-            },
-            {
-              "type": "honor",
-              "title": "Off-White™品牌代言人",
-              "year": 2026
-            },
-            {
-              "type": "divider",
-              "label": "2025年"
-            },
-            {
-              "type": "honor",
-              "title": "润百颜全球品牌代言人",
-              "year": 2025
-            },
-            {
-              "type": "honor",
-              "title": "茅台文旅代言人（茅台文旅首位代言人）",
-              "year": 2025
-            },
-            {
-              "type": "honor",
-              "title": "京东潮流代言人 & 618 惊喜大使",
-              "year": 2025
-            },
-            {
-              "type": "honor",
-              "title": "青啤优活品牌代言人",
-              "year": 2025
-            },
-            {
-              "type": "honor",
-              "title": "支付宝青春大使 & 碰一下福利官",
-              "year": 2025
-            },
-            {
-              "type": "divider",
-              "label": "2024年"
-            },
-            {
-              "type": "honor",
-              "title": "Qeelin 麒麟 全球品牌代言人",
-              "year": 2024
-            },
-            {
-              "type": "honor",
-              "title": "雪碧 全球品牌代言人",
-              "year": 2024
-            },
-            {
-              "type": "honor",
-              "title": "芒果 TV 会员代言人",
-              "year": 2024
-            },
-            {
-              "type": "honor",
-              "title": "曼秀雷敦品牌代言人",
-              "year": 2024
-            },
-            {
-              "type": "honor",
-              "title": "梅赛德斯 - 奔驰 G 级越野车品牌大使",
-              "year": 2024
-            },
-            {
-              "type": "honor",
-              "title": "传音 TECNO 全球品牌代言人",
-              "year": 2024
-            },
-            {
-              "type": "divider",
-              "label": "2020年"
-            },
-            {
-              "type": "link",
-              "platform": "知乎",
-              "title": "怎么看张艺兴成为中国街舞运动首位宣传大使？",
-              "url": "https://www.zhihu.com/question/394476003"
-            },
-            {
-              "type": "link",
-              "platform": "知乎",
-              "title": "如何评价由张艺兴发起，匡威共同主办的M-ALL STARS全国街舞挑战赛决赛？",
-              "url": "https://www.zhihu.com/question/428330011"
-            }
-          ]
-        },
-        {
           "id": "honors-music",
           "title": "音乐",
           "children": [
@@ -5666,148 +5567,6 @@
               "platform": "知乎",
               "title": "如何看待张艺兴在腾讯星光大赏获得年度最佳专辑并跪吻舞台？",
               "url": "https://www.zhihu.com/question/263542142/answer/270240318"
-            }
-          ]
-        },
-        {
-          "id": "brand-events",
-          "title": "品牌活动",
-          "children": [
-            {
-              "type": "divider",
-              "label": "2026年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "260917 | 张艺兴君佩武汉线下活动饭拍汇总",
-              "url": "https://weibo.com/7774429542/RixO8froc"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "260517 | 张艺兴·润百颜北京线下活动饭拍汇总",
-              "url": "https://weibo.com/7774429542/QFNVbaToO"
-            },
-            {
-              "type": "divider",
-              "label": "2025年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "〈台自制 x 2024年张艺兴代言杂志时尚活动汇总",
-              "url": "https://weibo.com/7774429542/Pa0zuuMUy"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "250824 | 张艺兴青啤优活西安发布会饭拍汇总",
-              "url": "https://weibo.com/7774429542/Q1m7olwaQ"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "250326 | 张艺兴× Qeelin晚宴饭拍汇总",
-              "url": "https://weibo.com/7774429542/PkmrV8vvH"
-            },
-            {
-              "type": "divider",
-              "label": "2024年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "【241016 北京国贸TOMFORD饭拍汇总",
-              "url": "https://weibo.com/7774429542/OBQ1gfVW3"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "241026 | 【曼秀雷敦135周年品牌发布会直播】——张艺兴图频物料汇总（持更）",
-              "url": "https://weibo.com/7774429542/ODlf044xn"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "241018 | 【“登峰造G”梅赛德斯-奔驰G级越野车之夜】——张艺兴图频物料汇总（持更）",
-              "url": "https://weibo.com/7774429542/OCa1Ba3wC"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "240321｜张艺兴 Qeelin 杭州品牌活动饭拍汇总",
-              "url": "https://weibo.com/5330052953/O64F42Ufz"
-            },
-            {
-              "type": "divider",
-              "label": "2023年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "〈张艺兴 x 宇舶表『钟表与奇迹』之旅全记录〉 ——宇舶表品牌大使的专属旅行•视频版 图文版：微博正文 行程汇总",
-              "url": "https://weibo.com/5330052953/MA9CQ2uyP"
-            },
-            {
-              "type": "divider",
-              "label": "2022年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "221222 | 张艺兴纯甄杭州见面会饭拍汇总〈持更〉",
-              "url": "https://weibo.com/5330052953/MkN2xChLo"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "221110 | 张艺兴受邀现场观看NBA常规赛图频汇总（持更）",
-              "url": "https://weibo.com/5330052953/MevDsgmsE"
-            },
-            {
-              "type": "divider",
-              "label": "2021年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "211231 | 张艺兴 x @宇舶表 ——宇舶表全平台汇总",
-              "url": "https://weibo.com/5330052953/L8E15eXTV"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "211104 | 张艺兴亮相CHAUMET「冠冕绮梦」沉浸互动体验大展 〈张艺兴图频汇总合集",
-              "url": "https://weibo.com/5330052953/KFVLjzLh5"
-            },
-            {
-              "type": "divider",
-              "label": "2020年"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "201111 | 张艺兴探班苏宁易购总部 合集汇总",
-              "url": "https://weibo.com/5330052953/JtAYgnRBY"
-            }
-          ]
-        },
-        {
-          "id": "magazines-fashion",
-          "title": "杂志/时尚大片",
-          "children": [
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（下篇）",
-              "url": "https://weibo.com/5330052953/JnFSfwQDr"
-            },
-            {
-              "type": "link",
-              "platform": "微博",
-              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（上篇）",
-              "url": "https://weibo.com/5330052953/JnFRonOm7"
             }
           ]
         },
@@ -5947,6 +5706,254 @@
       ]
     },
     {
+      "id": "brand-magazines",
+      "title": "品牌活动与杂志",
+      "children": [
+        {
+          "id": "brand-ambassadorships",
+          "title": "历年商务代言",
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "honor",
+              "title": "JEMPER 君佩 全球首位品牌代言人",
+              "year": 2026
+            },
+            {
+              "type": "honor",
+              "title": "Off-White™品牌代言人",
+              "year": 2026
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "honor",
+              "title": "润百颜全球品牌代言人",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "茅台文旅代言人（茅台文旅首位代言人）",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "京东潮流代言人 & 618 惊喜大使",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "青啤优活品牌代言人",
+              "year": 2025
+            },
+            {
+              "type": "honor",
+              "title": "支付宝青春大使 & 碰一下福利官",
+              "year": 2025
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "honor",
+              "title": "Qeelin 麒麟 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "雪碧 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "芒果 TV 会员代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "曼秀雷敦品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "梅赛德斯 - 奔驰 G 级越野车品牌大使",
+              "year": 2024
+            },
+            {
+              "type": "honor",
+              "title": "传音 TECNO 全球品牌代言人",
+              "year": 2024
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "怎么看张艺兴成为中国街舞运动首位宣传大使？",
+              "url": "https://www.zhihu.com/question/394476003"
+            },
+            {
+              "type": "link",
+              "platform": "知乎",
+              "title": "如何评价由张艺兴发起，匡威共同主办的M-ALL STARS全国街舞挑战赛决赛？",
+              "url": "https://www.zhihu.com/question/428330011"
+            }
+          ]
+        },
+        {
+          "id": "brand-events",
+          "title": "品牌活动",
+          "children": [
+            {
+              "type": "divider",
+              "label": "2026年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260917 | 张艺兴君佩武汉线下活动饭拍汇总",
+              "url": "https://weibo.com/7774429542/RixO8froc"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "260517 | 张艺兴·润百颜北京线下活动饭拍汇总",
+              "url": "https://weibo.com/7774429542/QFNVbaToO"
+            },
+            {
+              "type": "divider",
+              "label": "2025年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈台自制 x 2024年张艺兴代言杂志时尚活动汇总",
+              "url": "https://weibo.com/7774429542/Pa0zuuMUy"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "250824 | 张艺兴青啤优活西安发布会饭拍汇总",
+              "url": "https://weibo.com/7774429542/Q1m7olwaQ"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "250326 | 张艺兴× Qeelin晚宴饭拍汇总",
+              "url": "https://weibo.com/7774429542/PkmrV8vvH"
+            },
+            {
+              "type": "divider",
+              "label": "2024年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "【241016 北京国贸TOMFORD饭拍汇总",
+              "url": "https://weibo.com/7774429542/OBQ1gfVW3"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "241026 | 【曼秀雷敦135周年品牌发布会直播】——张艺兴图频物料汇总（持更）",
+              "url": "https://weibo.com/7774429542/ODlf044xn"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "241018 | 【“登峰造G”梅赛德斯-奔驰G级越野车之夜】——张艺兴图频物料汇总（持更）",
+              "url": "https://weibo.com/7774429542/OCa1Ba3wC"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "240321｜张艺兴 Qeelin 杭州品牌活动饭拍汇总",
+              "url": "https://weibo.com/5330052953/O64F42Ufz"
+            },
+            {
+              "type": "divider",
+              "label": "2023年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "〈张艺兴 x 宇舶表『钟表与奇迹』之旅全记录〉 ——宇舶表品牌大使的专属旅行•视频版 图文版：微博正文 行程汇总",
+              "url": "https://weibo.com/5330052953/MA9CQ2uyP"
+            },
+            {
+              "type": "divider",
+              "label": "2022年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "221222 | 张艺兴纯甄杭州见面会饭拍汇总〈持更〉",
+              "url": "https://weibo.com/5330052953/MkN2xChLo"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "221110 | 张艺兴受邀现场观看NBA常规赛图频汇总（持更）",
+              "url": "https://weibo.com/5330052953/MevDsgmsE"
+            },
+            {
+              "type": "divider",
+              "label": "2021年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "211231 | 张艺兴 x @宇舶表 ——宇舶表全平台汇总",
+              "url": "https://weibo.com/5330052953/L8E15eXTV"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "211104 | 张艺兴亮相CHAUMET「冠冕绮梦」沉浸互动体验大展 〈张艺兴图频汇总合集",
+              "url": "https://weibo.com/5330052953/KFVLjzLh5"
+            },
+            {
+              "type": "divider",
+              "label": "2020年"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "201111 | 张艺兴探班苏宁易购总部 合集汇总",
+              "url": "https://weibo.com/5330052953/JtAYgnRBY"
+            }
+          ]
+        },
+        {
+          "id": "magazines-fashion-sub",
+          "title": "杂志/时尚大片",
+          "children": [
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（下篇）",
+              "url": "https://weibo.com/5330052953/JnFSfwQDr"
+            },
+            {
+              "type": "link",
+              "platform": "微博",
+              "title": "张艺兴 × CALVIN KLEIN 2020秋冬大片4K高清合集（上篇）",
+              "url": "https://weibo.com/5330052953/JnFRonOm7"
+            }
+          ]
+        }
+      ],
+      "color": "#463A5C"
+    },
+    {
       "id": "archive-summary",
       "title": "考古汇总",
       "color": "#3B575E",
@@ -5964,6 +5971,22 @@
         {
           "type": "divider",
           "label": "年份不详"
+        },
+        {
+          "type": "link",
+          "platform": "小红书",
+          "title": "张艺兴｜入坑/考古 官方——图2【帮助获取信息...",
+          "url": "https://xhslink.cn/o/1YlJf566scS"
+        },
+        {
+          "type": "link",
+          "platform": "微博",
+          "title": "古早极挑时期小羊：是为了摸你头说你乖",
+          "url": "https://cherry.h5.weibo.cn/tiny-video-collection/5186773999878156"
+        },
+        {
+          "type": "divider",
+          "label": "其他"
         },
         {
           "id": "brightstar-weibo",
@@ -6135,18 +6158,6 @@
               "url": "https://weibo.com/u/9059061696"
             }
           ]
-        },
-        {
-          "type": "link",
-          "platform": "小红书",
-          "title": "张艺兴｜入坑/考古 官方——图2【帮助获取信息...",
-          "url": "https://xhslink.cn/o/1YlJf566scS"
-        },
-        {
-          "type": "link",
-          "platform": "微博",
-          "title": "古早极挑时期小羊：是为了摸你头说你乖",
-          "url": "https://cherry.h5.weibo.cn/tiny-video-collection/5186773999878156"
         }
       ]
     }
