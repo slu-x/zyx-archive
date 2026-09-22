@@ -84,7 +84,7 @@ async function renderChildCard(child, accentColor, kudosCounts, likedSet) {
   // 事件用年份，链接用标题），跟首页大 tab 一个逻辑；如果下面全是事件/链接（没有任何子分类），
   // 就还是显示"共几项"
   const children = child.children || [];
-  const count = children.length;
+  const count = children.filter((c) => c.type !== "divider").length;
   const cardColor = child.color || accentColor;
   const subFolders = children.filter((c) => !c.type);
   const hasSubCategories = subFolders.length > 0;
