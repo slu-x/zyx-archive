@@ -93,7 +93,7 @@ async function renderChildCard(child, accentColor, kudosCounts, likedSet) {
   if (hasSubCategories) {
     const names = [];
     for (const c of children) {
-      if (c.type === "divider") continue;
+      if (c.type === "divider" || c.type === "link") continue;
       if (c.type === "event") {
         try {
           const ev = await fetchJson(`data/events/${c.eventId}.json`);
